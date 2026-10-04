@@ -1,0 +1,78 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  heritage: CollectionEntry<'heritage'>;
+}
+
+const { heritage } = Astro.props;
+const { data } = heritage;
+const lang = Astro.url.pathname.startsWith('/en') ? 'en' : 'zh';
+const displayTitle = lang === 'en' ? data.title_en : data.title;
+const subTitle = lang === 'en' ? data.title : data.title_en;
+const categoryLabel =
+  lang === 'en'
+    ? ({ 文化遗产: 'Cultural Heritage', 自然遗产: 'Natural Heritage', 双重遗产: 'Mixed Heritage' } as Record<string, string>)[data.category]
+    : data.category;
+
+const criteriaLabels: Record<string, string> = {
+  i: '代表杰作',
+  ii: '交流影响',
+  iii: '文明见证',
+  iv: '典范类型',
+  v: '人地互动',
+  vi: '精神关联',
+};
+const heritageHref = `${lang === 'en' ? '/en' : ''}/heritage/${heritage.id}/`;
+const searchText = `${data.title} ${data.title_en} ${data.province.join(' ')} ${data.category} ${data.year_inscribed} ${data.criteria.join(' ')}`.toLowerCase();
+---
+
+<a
+  href={heritageHref}
+  data-card={heritage.id}
+  data-cat={data.category}
+  data-prov={data.province.join(' ')}
+  data-year={data.year_inscribed}
+  data-q={searchText}
+  class="group flex flex-col overflow-hidden rounded-2xl border border-ink-100 bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg"
+>
+  <div class="relative aspect-[16/9] overflow-hidden bg-ink-100">
+    {
+      data.cover_image ? (
+        <img
+          src={data.cover_image}
+          alt={displayTitle}
+          loading="lazy"
+          class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+        />
+      ) : (
+        <div class="flex h-full w-full items-center justify-center font-serif-cn text-3xl text-ink-300">
+          {displayTitle.slice(0, 1)}
+        </div>
+      )
+    }
+    <span class="absolute left-3 top-3 rounded-full bg-ink-900/80 px-2.5 py-1 text-xs font-medium text-paper-100 backdrop-blur">
+      {categoryLabel}
+    </span>
+  </div>
+  <div class="flex flex-1 flex-col gap-2 p-4">
+    <div>
+      <h3 class="font-serif-cn text-lg font-bold text-ink-900 group-hover:text-ink-600">{displayTitle}</h3>
+      <p class="text-sm text-ink-400">{subTitle}</p>
+    </div>
+    <div class="flex flex-wrap gap-1.5">
+      {
+        data.criteria.slice(0, 3).map((c) => (
+          <span class="rounded bg-gold-100 px-1.5 py-0.5 text-xs text-gold-700">
+            {criteriaLabels[c] ?? `标准 ${c.toUpperCase()}`}
+          </span>
+        ))
+      }
+    </div>
+    <p class="mt-auto text-sm text-ink-500">
+      入选年份：<span class="font-medium text-ink-700">{data.year_inscribed}</span>
+      <span class="mx-1.5 text-ink-300">·</span>
+      {data.province.join(' / ')}
+    </p>
+  </div>
+</a>

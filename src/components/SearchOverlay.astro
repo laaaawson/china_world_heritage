@@ -1,0 +1,139 @@
+---
+import { getHeritageList } from '../lib/heritage';
+import { useTranslations, type Lang } from '../i18n/utils';
+
+interface Props {
+  lang?: Lang;
+}
+
+const lang = Astro.props.lang ?? 'zh';
+const t = useTranslations(lang);
+const all = await getHeritageList();
+
+const strip = (s: string) => s.replace(/[#*`_>\[\]()]/g, ' ').replace(/\s+/g, ' ').trim();
+
+const INDEX = all.map((h) => ({
+  slug: h.id,
+  title: h.data.title,
+  title_en: h.data.title_en,
+  cat: h.data.category,
+  prov: h.data.province.join(' / '),
+  year: h.data.year_inscribed,
+  intro: strip(h.data.lead || h.body || '').slice(0, 160),
+  href: `${lang === 'en' ? '/en' : ''}/heritage/${h.id}/`,
+}));
+
+const ui = {
+  placeholder: t('search.placeholder'),
+  hint: t('search.hint').replace('{count}', String(all.length)),
+  empty: t('search.empty'),
+  cultural: t('cat.cultural'),
+  natural: t('cat.natural'),
+  mixed: t('cat.mixed'),
+};
+---
+
+<div id="wh-search-root" class="hidden" role="dialog" aria-modal="true" aria-label="search">
+  <div id="wh-search-backdrop" class="fixed inset-0 z-[90] bg-ink-900/50"></div>
+  <div class="fixed left-1/2 top-[15vh] z-[100] w-[92vw] max-w-xl -translate-x-1/2 overflow-hidden rounded-2xl bg-white shadow-2xl">
+    <div class="flex items-center gap-2.5 border-b border-ink-100 px-4">
+      <svg class="h-5 w-5 shrink-0 text-ink-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"></circle>
+        <path d="m20 20-3.5-3.5"></path>
+      </svg>
+      <input
+        id="wh-search-input"
+        class="w-full bg-transparent py-3.5 text-base text-ink-900 outline-none placeholder:text-ink-300"
+        placeholder={ui.placeholder}
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <kbd class="shrink-0 rounded border border-ink-200 bg-paper-50 px-1.5 py-0.5 text-xs text-ink-400">ESC</kbd>
+    </div>
+    <div id="wh-search-hint" class="px-4 py-3 text-xs text-ink-400">{ui.hint}</div>
+    <div id="wh-search-results" class="max-h-[52vh] overflow-y-auto"></div>
+  </div>
+</div>
+
+<script define:vars={{ INDEX, ui, lang }}>
+  // define:vars 脚本被内联为经典脚本、不经过 esbuild，这里必须写纯 JS（无 TS 语法）
+  const root = document.getElementById('wh-search-root');
+  const input = document.getElementById('wh-search-input');
+  const results = document.getElementById('wh-search-results');
+  const hint = document.getElementById('wh-search-hint');
+
+  const catLabel = (c) => ({ 文化遗产: ui.cultural, 自然遗产: ui.natural, 双重遗产: ui.mixed })[c] || c;
+
+  function open() {
+    root.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+    input.value = '';
+    render('');
+    input.focus();
+  }
+  function close() {
+    root.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+  const toggle = () => (root.classList.contains('hidden') ? open() : close());
+
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+      e.preventDefault();
+      toggle();
+    }
+    if (e.key === 'Escape') close();
+  });
+  document.addEventListener('wh:open-search', toggle);
+  document.getElementById('wh-search-backdrop').addEventListener('click', close);
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function highlight(text, q) {
+    const safe = escapeHtml(text);
+    const i = safe.toLowerCase().indexOf(q);
+    if (i < 0) return safe;
+    return safe.slice(0, i) + '<mark class="rounded bg-gold-200 px-0.5">' + safe.slice(i, i + q.length) + '</mark>' + safe.slice(i + q.length);
+  }
+
+  let q = '';
+  function render(query) {
+    q = query.trim().toLowerCase();
+    hint.classList.toggle('hidden', !!q);
+    if (!q) {
+      results.innerHTML = '';
+      return;
+    }
+    const hits = INDEX.filter((it) =>
+      [it.title, it.title_en, it.prov, it.cat, String(it.year), it.intro].some((s) => s && s.toLowerCase().includes(q))
+    ).slice(0, 12);
+
+    if (!hits.length) {
+      results.innerHTML = '<div class="px-4 py-10 text-center text-sm text-ink-400">' + ui.empty + '</div>';
+      return;
+    }
+    results.innerHTML = hits
+      .map((it) => {
+        const display = lang === 'en' ? it.title_en : it.title;
+        return (
+          '<a href="' + it.href + '" class="flex items-center justify-between gap-3 border-b border-ink-50 px-4 py-3 transition-colors last:border-0 hover:bg-paper-50">' +
+          '<div class="min-w-0">' +
+          '<p class="truncate font-medium text-ink-900">' + highlight(display, q) + '</p>' +
+          '<p class="mt-0.5 truncate text-xs text-ink-400">' + escapeHtml(it.prov) + ' · ' + it.year + ' · ' + escapeHtml(catLabel(it.cat)) + '</p>' +
+          '</div>' +
+          '<span class="shrink-0 text-ink-300">→</span>' +
+          '</a>'
+        );
+      })
+      .join('');
+  }
+
+  input.addEventListener('input', () => render(input.value));
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      const first = results.querySelector('a');
+      if (first) location.href = first.href;
+    }
+  });
+</script>

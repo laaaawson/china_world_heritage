@@ -1,0 +1,80 @@
+---
+import { useTranslations, switchLangPath, getLanguageSelector, type Lang } from '../i18n/utils';
+
+interface Props {
+  lang?: Lang;
+}
+
+const lang = Astro.props.lang ?? 'zh';
+const t = useTranslations(lang);
+const nav = [
+  { key: 'nav.home', href: lang === 'en' ? '/en/' : '/' },
+  { key: 'nav.directory', href: lang === 'en' ? '/en/directory/' : '/directory/' },
+  { key: 'nav.map', href: lang === 'en' ? '/en/map/' : '/map/' },
+  { key: 'nav.topics', href: lang === 'en' ? '/en/topics/' : '/topics/' },
+  { key: 'nav.contribute', href: lang === 'en' ? '/en/contribute/' : '/contribute/' },
+];
+const pathname = Astro.url.pathname;
+const path = pathname.replace(/^\/en/, '') || '/';
+const langSel = getLanguageSelector(lang);
+const switchHref = switchLangPath(pathname, lang, langSel.other);
+---
+
+<header class="sticky top-0 z-50 border-b border-ink-100 bg-paper-50/90 backdrop-blur">
+  <div class="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
+    <a href={lang === 'en' ? '/en/' : '/'} class="flex items-center gap-2.5">
+      <svg class="h-8 w-8 text-gold-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M3 10c2-1.5 4-1.5 6 0s4 1.5 6 0 4-1.5 6 0" />
+        <path d="M3 13c2-1.5 4-1.5 6 0s4 1.5 6 0 4-1.5 6 0" />
+        <path d="M5 16v4M9 16v4M15 16v4M19 16v4M3 16c2.5-1 4.5-1 6 0s3.5 1 6 0 3.5-1 6 0" opacity=".6" />
+        <path d="M12 3c-1.5 2-1.5 3.5 0 5M12 3c1.5 2 1.5 3.5 0 5" opacity=".5" />
+      </svg>
+      <span class="hidden font-serif-cn text-lg font-bold tracking-wide text-ink-800 sm:block">{t('site.name')}</span>
+    </a>
+    <div class="flex items-center gap-1 sm:gap-2">
+      <nav class="flex items-center gap-1 sm:gap-2">
+        {
+          nav.map((item) => (
+            <a
+              href={item.href}
+              class:list={[
+                'rounded-lg px-3 py-2 text-sm transition-colors sm:px-4',
+                path === item.href.replace(/^\/en/, '') || (item.key === 'nav.directory' && path.startsWith('/heritage'))
+                  ? 'bg-ink-600 text-paper-50 font-medium'
+                  : 'text-ink-700 hover:bg-ink-100',
+              ]}
+            >
+              {t(item.key)}
+            </a>
+          ))
+        }
+      </nav>
+      <button
+        id="wh-search-btn"
+        type="button"
+        aria-label={t('search.open')}
+        title={t('search.open')}
+        class="rounded-lg px-2.5 py-1.5 text-ink-600 transition-colors hover:bg-ink-100"
+      >
+        <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <path d="m20 20-3.5-3.5"></path>
+        </svg>
+      </button>
+      <span class="mx-1 h-5 w-px bg-ink-200"></span>
+      <a
+        href={switchHref}
+        class="rounded-lg border border-ink-300 px-3 py-1.5 text-sm font-medium text-ink-700 transition-colors hover:border-gold-400 hover:text-gold-600"
+        aria-label={lang === 'en' ? 'Switch to Chinese' : 'Switch to English'}
+      >
+        {langSel.label}
+      </a>
+    </div>
+  </div>
+</header>
+
+<script>
+  document.getElementById('wh-search-btn')?.addEventListener('click', () => {
+    document.dispatchEvent(new CustomEvent('wh:open-search'));
+  });
+</script>

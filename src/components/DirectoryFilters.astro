@@ -1,0 +1,136 @@
+---
+import { getHeritageList } from '../lib/heritage';
+import { useTranslations, type Lang } from '../i18n/utils';
+
+interface Props {
+  lang?: Lang;
+}
+
+const lang = Astro.props.lang ?? 'zh';
+const t = useTranslations(lang);
+const all = await getHeritageList();
+
+const categories = ['文化遗产', '自然遗产', '双重遗产'] as const;
+const catLabel: Record<string, string> = {
+  文化遗产: t('cat.cultural'),
+  自然遗产: t('cat.natural'),
+  双重遗产: t('cat.mixed'),
+};
+const provinces = [...new Set(all.flatMap((h) => h.data.province))].sort((a, b) => a.localeCompare(b, 'zh'));
+const decades = [...new Set(all.map((h) => Math.floor(h.data.year_inscribed / 10) * 10))].sort((a, b) => a - b);
+const total = all.length;
+
+const ui = {
+  all: t('filter.all'),
+  category: t('filter.category'),
+  province: t('filter.province'),
+  year: t('filter.year'),
+  placeholder: t('filter.search.placeholder'),
+  result: t('filter.result'),
+  clear: t('filter.clear'),
+  empty: t('filter.empty'),
+  cultural: catLabel['文化遗产'],
+  natural: catLabel['自然遗产'],
+  mixed: catLabel['双重遗产'],
+};
+---
+
+<div class="rounded-2xl border border-ink-100 bg-white p-5 shadow-sm">
+  <div class="flex flex-wrap items-center gap-x-6 gap-y-3 text-sm">
+    <span class="font-medium text-ink-700">{ui.category}</span>
+    <div class="flex flex-wrap gap-2" role="group" aria-label={ui.category}>
+      <button type="button" data-cat-chip="文化遗产" class="chip">{ui.cultural}</button>
+      <button type="button" data-cat-chip="自然遗产" class="chip">{ui.natural}</button>
+      <button type="button" data-cat-chip="双重遗产" class="chip">{ui.mixed}</button>
+    </div>
+    <span class="font-medium text-ink-700">{ui.province}</span>
+    <select data-prov-select class="rounded-lg border border-ink-200 bg-white px-2.5 py-1.5 text-sm text-ink-700 outline-none focus:border-gold-400">
+      <option value="all">{ui.all}</option>
+      {provinces.map((p) => <option value={p}>{p}</option>)}
+    </select>
+    <span class="font-medium text-ink-700">{ui.year}</span>
+    <select data-year-select class="rounded-lg border border-ink-200 bg-white px-2.5 py-1.5 text-sm text-ink-700 outline-none focus:border-gold-400">
+      <option value="all">{ui.all}</option>
+      {decades.map((d) => <option value={d}>{d}s – {d + 9}s</option>)}
+    </select>
+  </div>
+  <div class="mt-4 flex flex-wrap items-center gap-3">
+    <input
+      data-search
+      type="text"
+      placeholder={ui.placeholder}
+      class="w-full max-w-sm rounded-lg border border-ink-200 bg-white px-3 py-2 text-sm text-ink-800 outline-none transition-colors placeholder:text-ink-300 focus:border-gold-400"
+    />
+    <span data-count class="text-xs text-ink-400"></span>
+    <button data-clear type="button" class="hidden rounded-lg px-2.5 py-1.5 text-xs font-medium text-ink-500 transition-colors hover:bg-ink-50 hover:text-ink-700">
+      {ui.clear}
+    </button>
+  </div>
+</div>
+<div data-dir-empty class="mt-8 hidden rounded-2xl border border-dashed border-ink-200 bg-white px-6 py-14 text-center text-sm text-ink-400">
+  {ui.empty}
+</div>
+
+<script define:vars={{ ui, total }}>
+  // define:vars 脚本被内联为经典脚本、不经过 esbuild，这里必须写纯 JS（无 TS 语法）
+  // 注意：该组件渲染在卡片网格之前，经典脚本会先于卡片 DOM 执行，因此必须等 DOMContentLoaded
+  function init() {
+    const chips = Array.prototype.slice.call(document.querySelectorAll('[data-cat-chip]'));
+    const provSel = document.querySelector('[data-prov-select]');
+    const yearSel = document.querySelector('[data-year-select]');
+    const search = document.querySelector('[data-search]');
+    const count = document.querySelector('[data-count]');
+    const clearBtn = document.querySelector('[data-clear]');
+    const empty = document.querySelector('[data-dir-empty]');
+    const cards = Array.prototype.slice.call(document.querySelectorAll('[data-card]'));
+
+    const selectedCats = new Set();
+    chips.forEach((c) =>
+      c.addEventListener('click', () => {
+        const cat = c.dataset.catChip;
+        if (selectedCats.has(cat)) selectedCats.delete(cat);
+        else selectedCats.add(cat);
+        c.classList.toggle('active', selectedCats.has(cat));
+        apply();
+      })
+    );
+
+    const inRange = (year, decade) => year >= decade && year <= decade + 9;
+
+    function apply() {
+      const q = (search && search.value ? search.value : '').trim().toLowerCase();
+      const prov = provSel ? provSel.value : 'all';
+      const year = yearSel ? yearSel.value : 'all';
+      let shown = 0;
+      cards.forEach((card) => {
+        const catOk = selectedCats.size === 0 || selectedCats.has(card.dataset.cat);
+        const provOk = prov === 'all' || (card.dataset.prov || '').split(' ').includes(prov);
+        const yearOk = year === 'all' || inRange(Number(card.dataset.year), Number(year));
+        const qOk = !q || (card.dataset.q || '').toLowerCase().includes(q);
+        const ok = catOk && provOk && yearOk && qOk;
+        card.classList.toggle('hidden', !ok);
+        if (ok) shown++;
+      });
+      count.textContent = ui.result.replace('{shown}', String(shown)).replace('{total}', String(total));
+      empty.classList.toggle('hidden', shown > 0);
+      clearBtn.classList.toggle('hidden', selectedCats.size === 0 && prov === 'all' && year === 'all' && !q);
+    }
+
+    provSel && provSel.addEventListener('change', apply);
+    yearSel && yearSel.addEventListener('change', apply);
+    search && search.addEventListener('input', apply);
+    clearBtn &&
+      clearBtn.addEventListener('click', () => {
+        selectedCats.clear();
+        chips.forEach((c) => c.classList.remove('active'));
+        provSel.value = 'all';
+        yearSel.value = 'all';
+        search.value = '';
+        apply();
+      });
+    apply();
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+</script>

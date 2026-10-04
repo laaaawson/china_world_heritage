@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* 品牌主题：取自中国传统色 — 墨绿、鎏金、宣纸米白 */
+@theme {
+  --color-ink-50: #eef4f1;
+  --color-ink-100: #d9e6df;
+  --color-ink-200: #b3cdc2;
+  --color-ink-300: #8ab0a2;
+  --color-ink-400: #5f8f7e;
+  --color-ink-500: #3f7563;
+  --color-ink-600: #2f5d50;
+  --color-ink-700: #274d43;
+  --color-ink-800: #1f3d36;
+  --color-ink-900: #172e28;
+  --color-ink-950: #0e1d19;
+
+  --color-gold-50: #fdf8e9;
+  --color-gold-100: #f9eec8;
+  --color-gold-200: #f1dc8e;
+  --color-gold-300: #e6c35a;
+  --color-gold-400: #d9ab33;
+  --color-gold-500: #c9a227;
+  --color-gold-600: #a87f1e;
+  --color-gold-700: #86611b;
+  --color-gold-800: #6b4d1c;
+  --color-gold-900: #573f1a;
+
+  --color-paper-50: #fbf9f4;
+  --color-paper-100: #f7f3ea;
+  --color-paper-200: #ece4d2;
+
+  --font-serif-cn: "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "STSong", serif;
+  --font-sans-cn: "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-paper-50 text-ink-900 font-sans-cn antialiased;
+}
+
+.prose-heritage {
+  @apply text-[1.0625rem] leading-relaxed text-ink-800;
+}
+.prose-heritage h2 {
+  @apply mt-10 mb-4 text-xl font-bold text-ink-900 border-l-4 border-gold-400 pl-3 font-serif-cn;
+}
+.prose-heritage h3 {
+  @apply mt-6 mb-2 text-lg font-semibold text-ink-800 font-serif-cn;
+}
+.prose-heritage p {
+  @apply my-3;
+}
+.prose-heritage a {
+  @apply text-ink-600 underline decoration-gold-400 underline-offset-4 hover:text-ink-800;
+}
+.prose-heritage blockquote {
+  @apply my-6 border-l-4 border-gold-400 bg-gold-50/70 px-5 py-3 font-serif-cn text-ink-700;
+}
+.prose-heritage ul {
+  @apply list-disc pl-6 my-3 space-y-1;
+}
+.prose-heritage li {
+  @apply leading-relaxed;
+}
+
+/* 名录筛选：类别按钮 */
+.chip {
+  @apply cursor-pointer rounded-full border border-ink-200 bg-white px-3 py-1 text-sm text-ink-600 transition-colors hover:border-gold-400 hover:text-gold-700;
+}
+.chip.active {
+  @apply border-gold-500 bg-gold-500 font-medium text-ink-950;
+}

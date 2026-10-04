@@ -1,0 +1,12 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.astro/
+
+# 本机环境 CA 证书（不入库）
+.certs/
+
+# 系统文件
+.DS_Store
+*.log
+npm-debug.log*

@@ -1,0 +1,26 @@
+{
+  "name": "china-world-heritage",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "中国世界文化遗产数字百科 - 零商业利益、完全开源的文化遗产学习与研究平台",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.3.5",
+    "echarts": "^6.1.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

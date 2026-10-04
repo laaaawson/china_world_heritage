@@ -1,0 +1,235 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Timeline from '../../../components/Timeline.astro';
+import { getCollection, getEntry, render } from 'astro:content';
+import { useTranslations, type Lang } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const heritage = await getCollection('heritage');
+  const zhOnly = heritage.filter((entry) => !entry.id.endsWith('.en'));
+  return zhOnly.map((entry) => ({ params: { lang: 'en', slug: entry.id } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const { slug } = Astro.params;
+const t = useTranslations(lang);
+
+// 英文内容优先使用 {slug}.en.md；尚未翻译的遗产回退到中文版并显示提示
+const zhEntry = await getEntry('heritage', slug!);
+const enEntry = await getEntry('heritage', `${slug}.en`);
+const entry = enEntry ?? zhEntry;
+const isTranslated = Boolean(enEntry);
+
+const { data } = entry;
+const { Content } = await render(entry);
+
+const categoryLabel =
+  lang === 'en'
+    ? ({ 文化遗产: 'Cultural Heritage', 自然遗产: 'Natural Heritage', 双重遗产: 'Mixed Heritage' } as Record<string, string>)[data.category]
+    : data.category;
+
+const criteriaFull: Record<string, string> = {
+  i: 'Masterpiece of human creative genius',
+  ii: 'Important interchange of human values, on developments in architecture, technology, town-planning or landscape design',
+  iii: 'Unique or exceptional testimony to a cultural tradition or civilization',
+  iv: 'Outstanding example of a building, architectural ensemble or landscape illustrating a significant stage in human history',
+  v: 'Outstanding example of a traditional human settlement or land-use representative of a culture or human interaction with the environment',
+  vi: 'Direct or tangible association with events, living traditions, ideas, beliefs, or artistic works of outstanding universal significance',
+};
+
+const infoItems = [
+  { label: t('detail.en_name'), value: data.title_en },
+  { label: t('detail.unesco_id'), value: `No. ${data.unesco_id}` },
+  { label: t('detail.year'), value: `${data.year_inscribed}` },
+  { label: t('detail.category'), value: categoryLabel },
+  { label: t('detail.province'), value: data.province.join(', ') },
+  {
+    label: t('detail.coords'),
+    value: `${data.coordinates[0].toFixed(4)}°N, ${data.coordinates[1].toFixed(4)}°E`,
+  },
+  { label: t('detail.core_area'), value: data.core_area_km2 ? `${data.core_area_km2.toFixed(2)} km²` : t('common.pending') },
+  { label: t('detail.buffer_area'), value: data.buffer_area_km2 ? `${data.buffer_area_km2.toFixed(2)} km²` : t('common.pending') },
+];
+
+const feedbackHref = '/en/contribute/#feedback';
+---
+
+<BaseLayout lang={lang} title={data.title} description={`${data.title} (${data.title_en}) — China ${data.category}, inscribed in ${data.year_inscribed}.`}>
+  <!-- 顶部：标题与封面 -->
+  <section class="border-b border-ink-100 bg-ink-900 text-paper-100">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+      <div class="flex flex-wrap items-center gap-2 text-xs">
+        <a href="/en/directory/" class="text-ink-300 hover:text-gold-300">{t('detail.crumb')}</a>
+        <span class="text-ink-500">/</span>
+        <span class="text-gold-300">{categoryLabel}</span>
+      </div>
+      <h1 class="mt-3 font-serif-cn text-3xl font-bold sm:text-4xl">{data.title}</h1>
+      <p class="mt-2 text-lg text-ink-300">{data.title_en}</p>
+      <div class="mt-5 flex flex-wrap items-center gap-2">
+        <span class="rounded-full bg-gold-500/15 px-3 py-1 text-sm font-medium text-gold-300">
+          {t('detail.inscribed').replace('{year}', String(data.year_inscribed))}
+        </span>
+        <span class="rounded-full bg-ink-700/60 px-3 py-1 text-sm text-ink-200">
+          UNESCO World Heritage No. {data.unesco_id}
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 封面图 -->
+  {
+    data.cover_image && (
+      <figure class="mx-auto max-w-6xl px-4 pt-8 sm:px-6">
+        <div class="overflow-hidden rounded-2xl shadow-md">
+          <img src={data.cover_image} alt={data.title} class="aspect-[21/9] w-full object-cover" />
+        </div>
+        {
+          (data.cover_source || data.cover_license) && (
+            <figcaption class="mt-2 text-center text-xs text-ink-400">
+              {t('detail.source.cover')}{data.cover_source ?? t('common.pending')} · {data.cover_license ?? t('common.pending')}
+            </figcaption>
+          )
+        }
+      </figure>
+    )
+  }
+
+  <div class="mx-auto grid max-w-6xl gap-10 px-4 py-10 sm:px-6 lg:grid-cols-[260px_1fr]">
+    <!-- 基础档案 -->
+    <aside class="lg:sticky lg:top-20 lg:self-start">
+      <div class="rounded-2xl border border-ink-100 bg-white p-5 shadow-sm">
+        <h2 class="mb-4 font-serif-cn text-lg font-bold text-ink-900">{t('detail.archives')}</h2>
+        <dl class="space-y-3">
+          {
+            infoItems.map((item) => (
+              <div>
+                <dt class="text-xs text-ink-400">{item.label}</dt>
+                <dd class="mt-0.5 text-sm font-medium text-ink-800">{item.value}</dd>
+              </div>
+            ))
+          }
+        </dl>
+        <div class="mt-4 border-t border-ink-100 pt-4">
+          <p class="mb-2 text-xs text-ink-400">{t('detail.criteria')}</p>
+          <div class="flex flex-wrap gap-1.5">
+            {
+              data.criteria.map((c) => (
+                <span
+                  class="rounded bg-gold-100 px-2 py-1 text-xs font-medium text-gold-700"
+                  title={criteriaFull[c] ?? ''}
+                >
+                  ( {c.toUpperCase()} )
+                </span>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- 正文内容 -->
+    <article class="min-w-0">
+      <!-- 导语 -->
+      {
+        data.lead && (
+          <div class="rounded-2xl border-l-4 border-gold-400 bg-gold-50/70 px-6 py-5">
+            {
+              data.lead.split(/\n+/).map((para) => (
+                <p class="font-serif-cn text-lg leading-relaxed text-ink-800">{para.trim()}</p>
+              ))
+            }
+          </div>
+        )
+      }
+
+      <!-- 历史沿革时间轴 -->
+      <Timeline timeline={data.timeline} lang={lang} />
+
+      {
+        !isTranslated && (
+          <div class="mb-6 rounded-2xl border border-gold-200 bg-gold-50 px-5 py-4 text-sm leading-relaxed text-ink-700">
+            {t('detail.en_coming')}
+            <a class="text-ink-600 underline hover:text-ink-800" href={feedbackHref}>{t('detail.feedback')}</a>.
+          </div>
+        )
+      }
+      <div class="prose-heritage">
+        <Content />
+      </div>
+
+      <!-- 图集 -->
+      {
+        data.gallery.length > 0 && (
+          <section class="mt-12">
+            <h2 class="mb-5 font-serif-cn text-2xl font-bold text-ink-900">{t('detail.gallery')}</h2>
+            <div class="grid gap-5 sm:grid-cols-2">
+              {
+                data.gallery.map((img, i) => (
+                  <figure
+                    class={`overflow-hidden rounded-2xl border border-ink-100 bg-white shadow-sm ${
+                      i === 0 ? 'sm:col-span-2' : ''
+                    }`}
+                  >
+                    <img
+                      src={img.image}
+                      alt={img.caption ?? data.title}
+                      loading="lazy"
+                      class={`w-full object-cover ${i === 0 ? 'aspect-[21/9]' : 'aspect-[4/3]'}`}
+                    />
+                    <figcaption class="p-3 text-xs leading-relaxed text-ink-500">
+                      {img.caption && <p class="font-medium text-ink-700">{img.caption}</p>}
+                      {(img.source || img.license) && (
+                        <p class="mt-1 text-ink-400">
+                          {img.source ?? ''}{img.source && img.license ? ' · ' : ''}{img.license ?? ''}
+                        </p>
+                      )}
+                    </figcaption>
+                  </figure>
+                ))
+              }
+            </div>
+          </section>
+        )
+      }
+
+      <!-- 数据来源与溯源 -->
+      <section class="mt-12 rounded-2xl border border-ink-100 bg-white p-6">
+        <h2 class="font-serif-cn text-lg font-bold text-ink-900">{t('detail.sources')}</h2>
+        <ul class="mt-4 space-y-2.5 text-sm text-ink-700">
+          {
+            data.unesco_link && (
+              <li>
+                <span class="font-medium text-ink-500">{t('detail.source.unesco')}</span>
+                <a class="text-ink-600 underline decoration-gold-400 underline-offset-4 hover:text-ink-800" href={data.unesco_link} target="_blank" rel="noopener noreferrer">
+                  UNESCO World Heritage Centre —— {data.title_en}
+                </a>
+              </li>
+            )
+          }
+          {
+            data.official_site && (
+              <li>
+                <span class="font-medium text-ink-500">{t('detail.source.official')}</span>
+                <a class="text-ink-600 underline decoration-gold-400 underline-offset-4 hover:text-ink-800" href={data.official_site} target="_blank" rel="noopener noreferrer">
+                  {data.official_site}
+                </a>
+              </li>
+            )
+          }
+          {
+            (data.cover_source || data.cover_license) && (
+              <li>
+                <span class="font-medium text-ink-500">{t('detail.source.cover')}</span>
+                {data.cover_source ?? t('common.pending')} ({data.cover_license ?? t('common.pending')})
+              </li>
+            )
+          }
+        </ul>
+        <p class="mt-5 border-t border-ink-100 pt-4 text-xs leading-relaxed text-ink-400">
+          {t('detail.source.note').replace('数据纠错', '')}
+          <a class="text-ink-600 underline hover:text-ink-800" href={feedbackHref}>{t('detail.feedback')}</a>.
+        </p>
+      </section>
+    </article>
+  </div>
+</BaseLayout>

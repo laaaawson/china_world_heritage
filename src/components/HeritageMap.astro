@@ -1,0 +1,153 @@
+---
+import { getHeritageList } from '../lib/heritage';
+import { useTranslations, type Lang } from '../i18n/utils';
+
+interface Props {
+  lang?: Lang;
+}
+
+const lang = Astro.props.lang ?? 'zh';
+const t = useTranslations(lang);
+const all = await getHeritageList();
+
+const catLabel: Record<string, string> = {
+  文化遗产: t('cat.cultural'),
+  自然遗产: t('cat.natural'),
+  双重遗产: t('cat.mixed'),
+};
+
+const sites = all.map((h) => ({
+  slug: h.id,
+  name: lang === 'en' ? h.data.title_en : h.data.title,
+  cat: catLabel[h.data.category],
+  catKey: h.data.category,
+  year: h.data.year_inscribed,
+  prov: h.data.province.join(' / '),
+  lon: h.data.coordinates[1],
+  lat: h.data.coordinates[0],
+  href: `${lang === 'en' ? '/en' : ''}/heritage/${h.id}/`,
+}));
+
+const ui = {
+  loading: t('map.loading'),
+  cultural: t('cat.cultural'),
+  natural: t('cat.natural'),
+  mixed: t('cat.mixed'),
+  cat: t('detail.category'),
+  year: t('detail.year'),
+  prov: t('detail.province'),
+};
+---
+
+<div class="relative overflow-hidden rounded-2xl border border-ink-100 bg-white shadow-sm">
+  <div id="wh-map" class="h-[68vh] min-h-[480px] w-full"></div>
+  <div id="wh-map-loading" class="pointer-events-none absolute inset-0 z-10 flex items-center justify-center text-sm text-ink-400">
+    {ui.loading}
+  </div>
+</div>
+
+<script define:vars={{ sites, ui, lang }}>
+  // define:vars 脚本被内联为经典脚本、不经过 esbuild，这里必须写纯 JS（无 TS 语法）
+  window.__whMap = { sites, ui, lang };
+</script>
+
+<script>
+  import * as echarts from 'echarts/core';
+  import { MapChart, ScatterChart } from 'echarts/charts';
+  import { TooltipComponent, LegendComponent, GeoComponent } from 'echarts/components';
+  import { CanvasRenderer } from 'echarts/renderers';
+
+  echarts.use([MapChart, ScatterChart, TooltipComponent, LegendComponent, GeoComponent, CanvasRenderer]);
+
+  const { sites, ui, lang } = (window as any).__whMap;
+  const el = document.getElementById('wh-map');
+  if (!el) throw new Error('map container not found');
+
+  const COLORS: Record<string, string> = { 文化遗产: '#C2542F', 自然遗产: '#2E7D32', 双重遗产: '#4A6FA5' };
+  const NAME_EN: Record<string, string> = {
+    北京: 'Beijing', 天津: 'Tianjin', 河北: 'Hebei', 山西: 'Shanxi', 内蒙古: 'Inner Mongolia', 辽宁: 'Liaoning',
+    吉林: 'Jilin', 黑龙江: 'Heilongjiang', 上海: 'Shanghai', 江苏: 'Jiangsu', 浙江: 'Zhejiang', 安徽: 'Anhui',
+    福建: 'Fujian', 江西: 'Jiangxi', 山东: 'Shandong', 河南: 'Henan', 湖北: 'Hubei', 湖南: 'Hunan',
+    广东: 'Guangdong', 广西: 'Guangxi', 海南: 'Hainan', 重庆: 'Chongqing', 四川: 'Sichuan', 贵州: 'Guizhou',
+    云南: 'Yunnan', 西藏: 'Tibet', 陕西: 'Shaanxi', 甘肃: 'Gansu', 青海: 'Qinghai', 宁夏: 'Ningxia',
+    新疆: 'Xinjiang', 台湾: 'Taiwan', 香港: 'Hong Kong', 澳门: 'Macao',
+  };
+
+  const chart = echarts.init(el);
+
+  fetch('/china.json')
+    .then((r) => r.json())
+    .then((geo) => {
+      echarts.registerMap('china', geo);
+      const series = [
+        ['文化遗产', ui.cultural],
+        ['自然遗产', ui.natural],
+        ['双重遗产', ui.mixed],
+      ].map(([key, label]) => ({
+        name: label,
+        type: 'scatter',
+        coordinateSystem: 'geo',
+        data: sites
+          .filter((s) => s.catKey === key)
+          .map((s) => ({ value: [s.lon, s.lat], name: s.name, year: s.year, prov: s.prov, cat: s.cat, href: s.href })),
+        symbolSize: 9,
+        itemStyle: { color: COLORS[key] },
+        emphasis: {
+          scale: 1.6,
+          label: {
+            show: true,
+            position: 'top',
+            formatter: '{b}',
+            fontSize: 11,
+            color: '#4a3f2f',
+            backgroundColor: 'rgba(255,255,255,.9)',
+            padding: [2, 6],
+            borderRadius: 4,
+          },
+        },
+      }));
+
+      chart.setOption({
+        tooltip: {
+          trigger: 'item',
+          backgroundColor: 'rgba(23,46,40,.93)',
+          borderColor: 'rgba(201,162,39,.6)',
+          borderWidth: 1,
+          textStyle: { color: '#f5efe3', fontSize: 12 },
+          formatter: (p: any) => {
+            const d = p?.data || {};
+            return `<b>${d.name || ''}</b><br/>${ui.cat}: ${d.cat || ''}<br/>${ui.year}: ${d.year ?? ''}<br/>${ui.prov}: ${d.prov || ''}`;
+          },
+        },
+        legend: {
+          data: [ui.cultural, ui.natural, ui.mixed],
+          bottom: 10,
+          left: 'center',
+          itemWidth: 12,
+          itemHeight: 12,
+          textStyle: { color: '#5f8f7e', fontSize: 12 },
+        },
+        geo: {
+          map: 'china',
+          roam: true,
+          zoom: 1.12,
+          label: { show: false },
+          nameMap: lang === 'en' ? NAME_EN : undefined,
+          itemStyle: { areaColor: '#f3edde', borderColor: '#cdbf9c', borderWidth: 0.6 },
+          emphasis: { itemStyle: { areaColor: '#e8dcbd' }, label: { show: true, color: '#5f8f7e' } },
+        },
+        series,
+      });
+
+      chart.on('click', (p: any) => {
+        if (p?.data?.href) location.href = p.data.href;
+      });
+      window.addEventListener('resize', () => chart.resize());
+      document.getElementById('wh-map-loading')?.remove();
+    })
+    .catch((err) => {
+      console.error('map load failed', err);
+      const loading = document.getElementById('wh-map-loading');
+      if (loading) loading.textContent = '×';
+    });
+</script>

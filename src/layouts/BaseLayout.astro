@@ -1,0 +1,53 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SearchOverlay from '../components/SearchOverlay.astro';
+import { getLangFromUrl, useTranslations, type Lang } from '../i18n/utils';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: Lang;
+  image?: string;
+}
+
+const { title, description, image } = Astro.props;
+const lang = Astro.props.lang ?? getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const fullTitle = title === t('nav.home') ? t('site.name') : `${title} · ${t('site.name')}`;
+const defaultDescription = `${t('site.name')} —— ${t('site.slogan')}`;
+const pageDescription = description ?? defaultDescription;
+const site = 'https://china-world-heritage.pages.dev';
+const pageUrl = new URL(Astro.url.pathname, site).toString();
+const ogLocale = lang === 'en' ? 'en_US' : 'zh_CN';
+const ogImage = image ? new URL(image, site).toString() : `${site}/favicon.svg`;
+---
+
+<!doctype html>
+<html lang={lang === 'en' ? 'en' : 'zh-CN'}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={pageDescription} />
+    <link rel="canonical" href={pageUrl} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{fullTitle}</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t('site.name')} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:url" content={pageUrl} />
+    <meta property="og:locale" content={ogLocale} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary" />
+  </head>
+  <body class="flex min-h-screen flex-col">
+    <Header lang={lang} />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer lang={lang} />
+    <SearchOverlay lang={lang} />
+  </body>
+</html>

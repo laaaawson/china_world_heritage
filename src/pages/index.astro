@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HeritageCard from '../components/HeritageCard.astro';
+import { getHeritageList } from '../lib/heritage';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const all = await getHeritageList();
+const featured = all.filter((h) => h.data.featured);
+const recent = all.slice(-4).reverse();
+
+const stats = [
+  { label: t('stat.heritage'), value: String(all.length), sub: t('stat.heritage.sub') },
+  {
+    label: t('stat.cultural'),
+    value: String(all.filter((h) => h.data.category === '文化遗产').length),
+    sub: t('stat.cultural.sub'),
+  },
+  {
+    label: t('stat.natural'),
+    value: String(all.filter((h) => h.data.category === '自然遗产').length),
+    sub: t('stat.natural.sub'),
+  },
+  {
+    label: t('stat.province'),
+    value: String(new Set(all.flatMap((h) => h.data.province)).size),
+    sub: t('stat.province.sub'),
+  },
+];
+---
+
+<BaseLayout lang={lang} title={t('nav.home')} description={t('hero.subtitle')}>
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-ink-900 text-paper-100">
+    <div class="pointer-events-none absolute inset-0 opacity-20" style="background-image: radial-gradient(circle at 20% 30%, #c9a227 0, transparent 30%), radial-gradient(circle at 80% 70%, #3f7563 0, transparent 40%)"></div>
+    <div class="relative mx-auto max-w-6xl px-4 py-20 sm:px-6 sm:py-28 text-center">
+      <p class="mb-4 text-sm tracking-[0.3em] text-gold-300">{t('site.slogan')}</p>
+      <h1 class="font-serif-cn text-4xl font-bold leading-tight sm:text-5xl">{t('hero.title')}</h1>
+      <p class="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-ink-200 sm:text-lg">{t('hero.subtitle')}</p>
+      <div class="mt-8 flex flex-wrap justify-center gap-3">
+        <a href={lang === 'en' ? '/en/directory/' : '/directory/'} class="rounded-lg bg-gold-500 px-6 py-3 font-medium text-ink-950 transition-colors hover:bg-gold-400">
+          {t('hero.browse')}
+        </a>
+        <a href={lang === 'en' ? '/en/contribute/' : '/contribute/'} class="rounded-lg border border-ink-400 px-6 py-3 font-medium text-paper-100 transition-colors hover:border-gold-300 hover:text-gold-300">
+          {t('hero.join')}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 数据看板 -->
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="grid grid-cols-2 gap-4 lg:grid-cols-4">
+      {
+        stats.map((s) => (
+          <div class="rounded-2xl border border-ink-100 bg-white p-5 text-center shadow-sm">
+            <p class="font-serif-cn text-3xl font-bold text-ink-700">{s.value}</p>
+            <p class="mt-1 font-medium text-ink-900">{s.label}</p>
+            <p class="mt-0.5 text-xs text-ink-400">{s.sub}</p>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  <!-- 精选推荐 -->
+  {
+    featured.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
+        <div class="mb-6 flex items-end justify-between">
+          <div>
+            <h2 class="font-serif-cn text-2xl font-bold text-ink-900">{t('featured.title')}</h2>
+            <p class="mt-1 text-sm text-ink-500">{t('featured.subtitle')}</p>
+          </div>
+          <a href={lang === 'en' ? '/en/directory/' : '/directory/'} class="text-sm font-medium text-ink-600 hover:text-ink-800">{t('view.all')} →</a>
+        </div>
+        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {featured.slice(0, 3).map((h) => <HeritageCard heritage={h} />)}
+        </div>
+      </section>
+    )
+  }
+
+  <!-- 最新收录 -->
+  <section class="border-t border-ink-100 bg-white/60">
+    <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+      <div class="mb-6 flex items-end justify-between">
+        <div>
+          <h2 class="font-serif-cn text-2xl font-bold text-ink-900">{t('latest.title')}</h2>
+          <p class="mt-1 text-sm text-ink-500">{t('latest.subtitle')}</p>
+        </div>
+        <a href={lang === 'en' ? '/en/directory/' : '/directory/'} class="text-sm font-medium text-ink-600 hover:text-ink-800">{t('view.all')} →</a>
+      </div>
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        {recent.map((h) => <HeritageCard heritage={h} />)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
