@@ -83,8 +83,24 @@ npm run preview    # 本地预览构建产物
 
 1. 将仓库推送到 GitHub。
 2. Cloudflare 控制台 → Pages → Create a project → 连接 GitHub 仓库。
-3. 构建设置：Build command = `npm run build`，Build output directory = `dist`。
+3. 构建设置：Build command = `npm run build`，Build output directory = `dist`（Node 版本由仓库根目录 `.node-version` 锁定为 22，Astro 7 需要 Node ≥ 22.12）。
 4. 保存后自动部署，分配 `.pages.dev` 子域名；绑定自定义域名可选。
+
+### 访问计数（可选）
+
+全站访问量与单页浏览量由 `functions/api/count.js` 提供，数据存于 Cloudflare D1。
+
+1. 创建数据库并建表（需要先 `npx wrangler login`）：
+
+   ```bash
+   npx wrangler d1 create heritage-visits   # 输出 database_id
+   npx wrangler d1 execute heritage-visits --remote --file=./schema.sql
+   ```
+
+2. 把上一步的 `database_id` 填入 `wrangler.toml`（本地开发用）。
+3. Cloudflare 控制台 → Pages 项目 → Settings → Bindings → Add → D1 database：变量名 `DB`，选择 `heritage-visits`，重新部署。
+
+本地联调：`npx wrangler pages dev dist --d1 DB=heritage-visits`。
 
 ## 参与贡献
 

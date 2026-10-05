@@ -2,6 +2,7 @@
 node_modules/
 dist/
 .astro/
+.wrangler/
 
 # 本机环境 CA 证书（不入库）
 .certs/

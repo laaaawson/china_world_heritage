@@ -1,0 +1,13 @@
+name = "china-world-heritage"
+pages_build_output_dir = "./dist"
+compatibility_date = "2025-09-01"
+
+# 访问计数使用的 D1 数据库（本地开发与 CLI 部署用）。
+# 首次部署前执行：npx wrangler d1 create heritage-visits
+# 然后把输出的 database_id 填到下面。
+# Git 集成部署时，还需在 Cloudflare 控制台：
+# Pages 项目 → Settings → Bindings → D1 database → 变量名 DB，选择该数据库。
+[[d1_databases]]
+binding = "DB"
+database_name = "heritage-visits"
+database_id = "PASTE_DATABASE_ID_HERE"
