@@ -10,4 +10,4 @@ compatibility_date = "2025-09-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "heritage-visits"
-database_id = "PASTE_DATABASE_ID_HERE"
+database_id = "bb4d332d-6f05-4f33-9ec1-599de17cb600"
