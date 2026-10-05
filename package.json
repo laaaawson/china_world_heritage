@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.1.0",
   "private": true,
-  "description": "中国世界文化遗产数字百科 - 零商业利益、完全开源的文化遗产学习与研究平台",
+  "description": "文化遗产数字平台 - 零商业利益、完全开源的文化遗产学习与研究平台",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",

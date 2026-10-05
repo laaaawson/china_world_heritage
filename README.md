@@ -1,6 +1,6 @@
-# 中国世界文化遗产数字百科 (China World Cultural Heritage Digital Encyclopedia)
+# 文化遗产数字平台 (Cultural Heritage Digital Platform)
 
-> 零商业利益、完全开源的「中国世界文化遗产数字百科」。
+> 零商业利益、完全开源的「文化遗产数字平台」。
 > 全景覆盖 · 严谨溯源 · 开源共建 · 零预算运行
 
 ![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)

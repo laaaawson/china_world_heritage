@@ -48,9 +48,45 @@ const infoItems = [
 
 const backHref = lang === 'en' ? '/en/directory/' : '/directory/';
 const feedbackHref = `${lang === 'en' ? '/en/contribute/' : '/contribute/'}#feedback`;
+
+// Article + Place 结构化数据（与 BaseLayout 的 WebSite/Organization @id 互相引用）
+const site = 'https://china-world-heritage.pages.dev';
+const pagePath = `/heritage/${entry.id}/`;
+const pageUrl = new URL(pagePath, site).toString();
+const pageImage = data.cover_image ? new URL(data.cover_image, site).toString() : `${site}/favicon.svg`;
+const pageDescription = `${data.title}（${data.title_en}）—— 中国${data.category}，${data.year_inscribed} 年入选《世界遗产名录》。`;
+const heritageLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Article',
+      '@id': `${pageUrl}#article`,
+      headline: data.title,
+      description: pageDescription,
+      inLanguage: 'zh-CN',
+      url: pageUrl,
+      image: pageImage,
+      mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+      isPartOf: { '@id': `${site}/#website` },
+      about: { '@id': `${pageUrl}#place` },
+      publisher: { '@type': 'Organization', '@id': `${site}/#organization`, name: '文化遗产数字平台', url: `${site}/` },
+    },
+    {
+      '@type': 'Place',
+      '@id': `${pageUrl}#place`,
+      name: data.title,
+      alternateName: data.title_en,
+      url: pageUrl,
+      image: pageImage,
+      geo: { '@type': 'GeoCoordinates', latitude: data.coordinates[0], longitude: data.coordinates[1] },
+      address: { '@type': 'PostalAddress', addressRegion: data.province.join('、'), addressCountry: 'CN' },
+    },
+  ],
+};
 ---
 
-<BaseLayout lang={lang} title={data.title} description={`${data.title}（${data.title_en}）—— 中国${data.category}，${data.year_inscribed} 年入选《世界遗产名录》。`}>
+<BaseLayout lang={lang} title={data.title} description={pageDescription}>
+  <script type="application/ld+json" set:html={JSON.stringify(heritageLd)} />
   <!-- 顶部：标题与封面 -->
   <section class="border-b border-ink-100 bg-ink-900 text-paper-100">
     <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">

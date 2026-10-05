@@ -7,14 +7,14 @@ export const defaultLang = 'zh';
 
 export const ui = {
   zh: {
-    'site.name': '中国世界文化遗产数字百科',
+    'site.name': '文化遗产数字平台',
     'site.slogan': '全景覆盖 · 严谨溯源 · 开源共建',
     'nav.home': '首页',
     'nav.directory': '遗产名录',
     'nav.map': '地图',
     'nav.topics': '专题科普',
     'nav.contribute': '参与贡献',
-    'hero.title': '中国世界文化遗产数字百科',
+    'hero.title': '文化遗产数字平台',
     'hero.subtitle':
       '收录中国所有已入选《世界遗产名录》的文化遗产项目，每处遗产均标注数据来源与版权协议，支持学术级引用。零商业利益，完全开源，欢迎全球志愿者共建。',
     'hero.browse': '浏览遗产名录',
@@ -109,14 +109,14 @@ export const ui = {
     'common.unknown': '待补充',
   },
   en: {
-    'site.name': 'China World Heritage Digital Encyclopedia',
+    'site.name': 'Cultural Heritage Digital Platform',
     'site.slogan': 'Full Coverage · Rigorous Sourcing · Open Collaboration',
     'nav.home': 'Home',
     'nav.directory': 'Directory',
     'nav.map': 'Map',
     'nav.topics': 'Topics',
     'nav.contribute': 'Contribute',
-    'hero.title': 'China World Heritage Digital Encyclopedia',
+    'hero.title': 'Cultural Heritage Digital Platform',
     'hero.subtitle':
       'A comprehensive encyclopedia of China\u2019s World Heritage properties inscribed on the UNESCO World Heritage List. Every entry is fully sourced with copyright details, ready for academic citation. Non-commercial, fully open source \u2014 everyone is welcome to contribute.',
     'hero.browse': 'Browse the Directory',

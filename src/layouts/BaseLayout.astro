@@ -22,15 +22,43 @@ const site = 'https://china-world-heritage.pages.dev';
 const pageUrl = new URL(Astro.url.pathname, site).toString();
 const ogLocale = lang === 'en' ? 'en_US' : 'zh_CN';
 const ogImage = image ? new URL(image, site).toString() : `${site}/favicon.svg`;
+
+// hreflang 互指：中文路由无前缀，英文路由带 /en 前缀
+const path = Astro.url.pathname;
+const isEn = lang === 'en';
+const zhPath = isEn ? (path.replace(/^\/en(?=\/|$)/, '') || '/') : path;
+const enPath = isEn ? path : path === '/' ? '/en/' : `/en${path}`;
+const zhUrl = new URL(zhPath, site).toString();
+const enUrl = new URL(enPath, site).toString();
+const htmlLang = lang === 'en' ? 'en' : 'zh-CN';
+
+const websiteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${site}/#website`,
+  name: t('site.name'),
+  alternateName: useTranslations(isEn ? 'zh' : 'en')('site.name'),
+  url: `${site}/`,
+  inLanguage: htmlLang,
+  publisher: {
+    '@type': 'Organization',
+    '@id': `${site}/#organization`,
+    name: t('site.name'),
+    url: `${site}/`,
+  },
+};
 ---
 
 <!doctype html>
-<html lang={lang === 'en' ? 'en' : 'zh-CN'}>
+<html lang={htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={pageDescription} />
     <link rel="canonical" href={pageUrl} />
+    <link rel="alternate" hreflang="zh-CN" href={zhUrl} />
+    <link rel="alternate" hreflang="en" href={enUrl} />
+    <link rel="alternate" hreflang="x-default" href={zhUrl} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{fullTitle}</title>
     <meta property="og:type" content="website" />
@@ -41,6 +69,7 @@ const ogImage = image ? new URL(image, site).toString() : `${site}/favicon.svg`;
     <meta property="og:locale" content={ogLocale} />
     <meta property="og:image" content={ogImage} />
     <meta name="twitter:card" content="summary" />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteLd)} />
   </head>
   <body class="flex min-h-screen flex-col">
     <Header lang={lang} />
