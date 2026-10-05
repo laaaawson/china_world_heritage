@@ -89,6 +89,7 @@ npm run preview    # 本地预览构建产物
 ### 访问计数（可选）
 
 全站访问量与单页浏览量由 `functions/api/count.js` 提供，数据存于 Cloudflare D1。
+独立访客数（UV）通过匿名 `uv_id` Cookie 去重（不含任何个人身份信息，有效期一年）。
 
 1. 创建数据库并建表（需要先 `npx wrangler login`）：
 

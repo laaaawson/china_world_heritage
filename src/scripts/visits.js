@@ -1,5 +1,6 @@
 // 访问计数：页面加载后 POST /api/count，把返回的访问量写入 data-visit 元素。
-// 全站元素 data-visit="site"（页脚），单页元素 data-visit="page"（遗产页头部）。
+// 全站元素 data-visit="site"（页脚访问量），data-visit="uv"（页脚访客数），
+// 单页元素 data-visit="page"（遗产页头部）。
 const isZh = document.documentElement.lang === 'zh-CN';
 const fmt = (n) => {
   if (n >= 100000000) return (n / 100000000).toFixed(1) + (isZh ? '亿' : 'm');
@@ -8,9 +9,10 @@ const fmt = (n) => {
 };
 
 const siteEl = document.querySelector('[data-visit="site"]');
+const uvEl = document.querySelector('[data-visit="uv"]');
 const pageEl = document.querySelector('[data-visit="page"]');
 
-if (siteEl || pageEl) {
+if (siteEl || uvEl || pageEl) {
   // 中英文页面共用同一计数：去掉 /en 前缀后按遗产路径累计
   const page = pageEl ? location.pathname.replace(/^\/en(?=\/)/, '') : null;
 
@@ -24,6 +26,7 @@ if (siteEl || pageEl) {
     .then((d) => {
       if (!d) return;
       if (siteEl && d.site_pv) siteEl.textContent = fmt(d.site_pv);
+      if (uvEl && d.site_uv) uvEl.textContent = fmt(d.site_uv);
       if (pageEl && d.page_pv) pageEl.textContent = fmt(d.page_pv);
     })
     .catch(() => {
