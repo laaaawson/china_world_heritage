@@ -14,7 +14,7 @@ core_area_km2: 1.53
 buffer_area_km2: 9.35
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
 cover_source: Wikimedia Commons / Gisling
 cover_license: "CC BY-SA 4.0"
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
     caption: "The Tianluokeng tulou cluster — \"four dishes and a soup\""
     source: Wikimedia Commons / Gisling
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tulou_from_Fujian_-_Aug_2022.jpg/1280px-Tulou_from_Fujian_-_Aug_2022.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tulou_from_Fujian_-_Aug_2022.jpg/1280px-Tulou_from_Fujian_-_Aug_2022.jpg"
     caption: Exterior of a Fujian tulou
     source: Wikimedia Commons / HGShg
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hakka_Round_House_20190818.jpg/1280px-Hakka_Round_House_20190818.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hakka_Round_House_20190818.jpg/1280px-Hakka_Round_House_20190818.jpg"
     caption: A round tulou (in the manner of Zhencheng Lou)
     source: "Wikimedia Commons / [unknown]"
     license: "CC BY-SA 2.0"

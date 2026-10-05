@@ -14,7 +14,7 @@ core_area_km2: 3.72
 buffer_area_km2: 27.38
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg/1280px-Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg/1280px-Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg"
 cover_source: Wikimedia Commons / DragonSamYU
 cover_license: "CC BY-SA 4.0"
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg/1280px-Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg/1280px-Kaiping_Diaolou_in_Zili_Village_-_20181028-1.jpg"
     caption: The diaolou cluster of Zili village
     source: Wikimedia Commons / DragonSamYU
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kaiping_Diaolou_Castles_in_Zili_Village_-_20181028-2.jpg/1280px-Kaiping_Diaolou_Castles_in_Zili_Village_-_20181028-2.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kaiping_Diaolou_Castles_in_Zili_Village_-_20181028-2.jpg/1280px-Kaiping_Diaolou_Castles_in_Zili_Village_-_20181028-2.jpg"
     caption: Diaolou in Zili village
     source: Wikimedia Commons / DragonSamYU
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Southern_Diaolou_19012-Kaiping_%2849037652353%29.jpg/1280px-The_Southern_Diaolou_19012-Kaiping_%2849037652353%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Southern_Diaolou_19012-Kaiping_%2849037652353%29.jpg/1280px-The_Southern_Diaolou_19012-Kaiping_%2849037652353%29.jpg"
     caption: A Kaiping diaolou (the Southern Tower)
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0

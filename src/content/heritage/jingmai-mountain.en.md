@@ -14,7 +14,7 @@ core_area_km2: 71.68
 buffer_area_km2: 119.28
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Old_Tea_Forest_of_the_Jingmai_Mountain.jpg/1280px-Old_Tea_Forest_of_the_Jingmai_Mountain.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Old_Tea_Forest_of_the_Jingmai_Mountain.jpg/1280px-Old_Tea_Forest_of_the_Jingmai_Mountain.jpg"
 cover_source: Wikimedia Commons / 919sth.
 cover_license: "CC BY-SA 4.0"
 
@@ -36,15 +36,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Old_Tea_Forest_of_the_Jingmai_Mountain.jpg/1280px-Old_Tea_Forest_of_the_Jingmai_Mountain.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Old_Tea_Forest_of_the_Jingmai_Mountain.jpg/1280px-Old_Tea_Forest_of_the_Jingmai_Mountain.jpg"
     caption: The old tea forests of Jingmai Mountain
     source: Wikimedia Commons / 919sth.
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%E6%BE%9C%E6%B2%A7_XJ69%E6%99%AF%E8%BF%88%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%B2%89%E8%8A%B1_01.jpg/1280px-%E6%BE%9C%E6%B2%A7_XJ69%E6%99%AF%E8%BF%88%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%B2%89%E8%8A%B1_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%E6%BE%9C%E6%B2%A7_XJ69%E6%99%AF%E8%BF%88%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%B2%89%E8%8A%B1_01.jpg/1280px-%E6%BE%9C%E6%B2%A7_XJ69%E6%99%AF%E8%BF%88%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%B2%89%E8%8A%B1_01.jpg"
     caption: Scenes of the Jingmai old tea forests
     source: Wikimedia Commons / Liuxingy
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%E6%BE%9C%E6%B2%A7_%E6%99%AF%E8%BF%88%E5%B1%B1%E4%B9%8B%E5%8F%A4%E8%8C%B6%E6%9E%97%E6%9C%A8%E9%97%A8_01.jpg/1280px-%E6%BE%9C%E6%B2%A7_%E6%99%AF%E8%BF%88%E5%B1%B1%E4%B9%8B%E5%8F%A4%E8%8C%B6%E6%9E%97%E6%9C%A8%E9%97%A8_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%E6%BE%9C%E6%B2%A7_%E6%99%AF%E8%BF%88%E5%B1%B1%E4%B9%8B%E5%8F%A4%E8%8C%B6%E6%9E%97%E6%9C%A8%E9%97%A8_01.jpg/1280px-%E6%BE%9C%E6%B2%A7_%E6%99%AF%E8%BF%88%E5%B1%B1%E4%B9%8B%E5%8F%A4%E8%8C%B6%E6%9E%97%E6%9C%A8%E9%97%A8_01.jpg"
     caption: "Wooden gate to the old tea forest, Jingmai Mountain"
     source: Wikimedia Commons / Liuxingy
     license: "CC BY-SA 4.0"

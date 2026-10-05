@@ -14,25 +14,25 @@ core_area_km2: 3.49
 buffer_area_km2: 8.47
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
 cover_source: "Wikimedia Commons / Dudva"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
     caption: "云冈石窟第 20 窟露天大佛"
     source: "Wikimedia Commons / Dudva"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Yungang_Grottoes_03.2025._1.jpg/1280px-Yungang_Grottoes_03.2025._1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Yungang_Grottoes_03.2025._1.jpg/1280px-Yungang_Grottoes_03.2025._1.jpg"
     caption: "云冈石窟洞窟外景"
     source: "Wikimedia Commons / Dudva"
     license: "CC0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Yungang_Grottoes_and_temples.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/d/db/Yungang_Grottoes_and_temples.jpg"
     caption: "云冈石窟与寺庙"
     source: "Wikimedia Commons / Anonymous. The postcard set was published in Keijo(Today Seoul) in 1939."
     license: "Public domain"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Carving_inside_Yungang_Grottoes.jpg/1280px-Carving_inside_Yungang_Grottoes.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Carving_inside_Yungang_Grottoes.jpg/1280px-Carving_inside_Yungang_Grottoes.jpg"
     caption: "云冈石窟内造像"
     source: "Wikimedia Commons / Mathew Toll"
     license: "CC BY-SA 4.0"

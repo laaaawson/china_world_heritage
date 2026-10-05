@@ -14,25 +14,25 @@ core_area_km2: 1070.44
 buffer_area_km2: 401.7
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/20121029_Mount_Wuyi_01.jpg/1280px-20121029_Mount_Wuyi_01.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/20121029_Mount_Wuyi_01.jpg/1280px-20121029_Mount_Wuyi_01.jpg"
 cover_source: "Wikimedia Commons / Windmemories"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/20121029_Mount_Wuyi_01.jpg/1280px-20121029_Mount_Wuyi_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/20121029_Mount_Wuyi_01.jpg/1280px-20121029_Mount_Wuyi_01.jpg"
     caption: "武夷山九曲溪"
     source: "Wikimedia Commons / Windmemories"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/20121030_Mount_Wuyi_01.jpg/1280px-20121030_Mount_Wuyi_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/42/20121030_Mount_Wuyi_01.jpg/1280px-20121030_Mount_Wuyi_01.jpg"
     caption: "武夷山丹霞峰峦"
     source: "Wikimedia Commons / Windmemories"
     license: "CC BY-SA 4.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wuyi_Mountains_Sea_of_clouds.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/c/cb/Wuyi_Mountains_Sea_of_clouds.jpg"
     caption: "武夷山云海"
     source: "Wikimedia Commons / 老过"
     license: "CC BY 2.5 cn"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/UNESCO_World_Heritage_Mount_Wuyi.JPG/1280px-UNESCO_World_Heritage_Mount_Wuyi.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/77/UNESCO_World_Heritage_Mount_Wuyi.JPG/1280px-UNESCO_World_Heritage_Mount_Wuyi.JPG"
     caption: "武夷山世界遗产标识"
     source: "Wikimedia Commons / Gisling"
     license: "CC BY-SA 3.0"

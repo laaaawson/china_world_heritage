@@ -14,7 +14,7 @@ core_area_km2: 302.0
 buffer_area_km2: 500.0
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
 cover_source: Wikimedia Commons / 钹钹
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
     caption: Lushan UNESCO Global Geopark
     source: Wikimedia Commons / 钹钹
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mount_Lu_16100-Lushan_%2849051840613%29.jpg/1280px-Mount_Lu_16100-Lushan_%2849051840613%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mount_Lu_16100-Lushan_%2849051840613%29.jpg/1280px-Mount_Lu_16100-Lushan_%2849051840613%29.jpg"
     caption: Mountain scenery of Lushan
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mount_Lu.jpg/1280px-Mount_Lu.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mount_Lu.jpg/1280px-Mount_Lu.jpg"
     caption: Landscape of Lushan
     source: Wikimedia Commons / Pauloleong2002
     license: "CC BY-SA 4.0"

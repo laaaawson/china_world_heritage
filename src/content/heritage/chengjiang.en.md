@@ -14,7 +14,7 @@ core_area_km2: 5.12
 buffer_area_km2: 2.20
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -36,19 +36,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
     caption: "Chengjiang Fossil Site (Yuxi, Yunnan)"
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chengjiang_Fossil_Site_%2853696396404%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696396404%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chengjiang_Fossil_Site_%2853696396404%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696396404%29.jpg"
     caption: Landscape of the Chengjiang Fossil Site
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Maotianshan_shale_outcrop.JPG/1280px-Maotianshan_shale_outcrop.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Maotianshan_shale_outcrop.JPG/1280px-Maotianshan_shale_outcrop.JPG"
     caption: "Maotianshan shale outcrop — the fossil-bearing strata"
     source: Wikimedia Commons / Martin Smith
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Retifacies_abnormalis%2C_Chengjiang_biota.jpg/1280px-Retifacies_abnormalis%2C_Chengjiang_biota.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Retifacies_abnormalis%2C_Chengjiang_biota.jpg/1280px-Retifacies_abnormalis%2C_Chengjiang_biota.jpg"
     caption: "Chengjiang biota fossil: the net-like Retifacies"
     source: Wikimedia Commons / Woudloper
     license: "CC BY-SA 4.0"

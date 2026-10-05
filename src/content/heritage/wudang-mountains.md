@@ -13,21 +13,21 @@ coordinates: [32.4448, 111.0583] # [纬度, 经度]
 core_area_km2: 0.69
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
 cover_source: "Wikimedia Commons / xiquinhosilva"
 cover_license: "CC BY 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
     caption: "武当山金顶远眺"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wudang_Mountain_%2854130227067%29.jpg/1280px-Wudang_Mountain_%2854130227067%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wudang_Mountain_%2854130227067%29.jpg/1280px-Wudang_Mountain_%2854130227067%29.jpg"
     caption: "武当山宫观建筑与山势"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wudang_Mountain_%2854131425234%29.jpg/1280px-Wudang_Mountain_%2854131425234%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wudang_Mountain_%2854131425234%29.jpg/1280px-Wudang_Mountain_%2854131425234%29.jpg"
     caption: "武当山紫霄宫一带建筑群"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"

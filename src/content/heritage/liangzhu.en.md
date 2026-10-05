@@ -14,7 +14,7 @@ core_area_km2: 14.34
 buffer_area_km2: 99.8
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Model_of_Liangzhu_Ancient_City.jpg/1280px-Model_of_Liangzhu_Ancient_City.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Model_of_Liangzhu_Ancient_City.jpg/1280px-Model_of_Liangzhu_Ancient_City.jpg"
 cover_source: Wikimedia Commons / Siyuwj
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Model_of_Liangzhu_Ancient_City.jpg/1280px-Model_of_Liangzhu_Ancient_City.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Model_of_Liangzhu_Ancient_City.jpg/1280px-Model_of_Liangzhu_Ancient_City.jpg"
     caption: Model of the Liangzhu ancient city (Liangzhu Museum)
     source: Wikimedia Commons / Siyuwj
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Center_of_the_model_of_Liangzhu_Ancient_City.jpg/1280px-Center_of_the_model_of_Liangzhu_Ancient_City.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Center_of_the_model_of_Liangzhu_Ancient_City.jpg/1280px-Center_of_the_model_of_Liangzhu_Ancient_City.jpg"
     caption: Model of the centre of the Liangzhu ancient city
     source: Wikimedia Commons / Siyuwj
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Courtyard_of_Liangzhu_Museum%2C_2016-06-18.jpg/1280px-Courtyard_of_Liangzhu_Museum%2C_2016-06-18.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Courtyard_of_Liangzhu_Museum%2C_2016-06-18.jpg/1280px-Courtyard_of_Liangzhu_Museum%2C_2016-06-18.jpg"
     caption: The Liangzhu Museum
     source: Wikimedia Commons / Siyuwj
     license: "CC BY-SA 4.0"

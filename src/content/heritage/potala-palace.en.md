@@ -14,7 +14,7 @@ core_area_km2: 0.61
 buffer_area_km2: 1.99
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
 cover_source: Wikimedia Commons / Fumikas Sagisavas
 cover_license: CC0
 
@@ -42,19 +42,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
     caption: Panorama of the Potala Palace
     source: Wikimedia Commons / Fumikas Sagisavas
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Potala_Palace_appearance.jpg/1280px-Potala_Palace_appearance.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Potala_Palace_appearance.jpg/1280px-Potala_Palace_appearance.jpg"
     caption: Exterior of the Potala Palace
     source: Wikimedia Commons / Yahahaya
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Potala.jpg/1280px-Potala.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Potala.jpg/1280px-Potala.jpg"
     caption: "The Potala Palace on Red Mountain, seen from afar"
     source: Wikimedia Commons / Ondřej Zváček
     license: CC BY 2.5
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/1280px-Potala_Palace%2C_August_2009.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/1280px-Potala_Palace%2C_August_2009.jpg"
     caption: The Potala Palace ensemble
     source: Wikimedia Commons / Antoine Taveneaux
     license: "CC BY-SA 3.0"

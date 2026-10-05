@@ -14,21 +14,21 @@ core_area_km2: 720.0
 buffer_area_km2: 600.0
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
 cover_source: "Wikimedia Commons / Chensiyuan"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
     caption: "九寨沟五花海"
     source: "Wikimedia Commons / Chensiyuan"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Jiuzhaigou_Sichuan_China_Jiuzhaigou-Valley-02.jpg/1280px-Jiuzhaigou_Sichuan_China_Jiuzhaigou-Valley-02.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Jiuzhaigou_Sichuan_China_Jiuzhaigou-Valley-02.jpg/1280px-Jiuzhaigou_Sichuan_China_Jiuzhaigou-Valley-02.jpg"
     caption: "九寨沟河谷风光"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E4%B9%9D%E5%AF%A8%E6%BA%9D-%E8%80%81%E8%99%8E%E6%B5%B7_Jiuzhaigou_Tiger_Lake.jpg/1280px-%E4%B9%9D%E5%AF%A8%E6%BA%9D-%E8%80%81%E8%99%8E%E6%B5%B7_Jiuzhaigou_Tiger_Lake.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E4%B9%9D%E5%AF%A8%E6%BA%9D-%E8%80%81%E8%99%8E%E6%B5%B7_Jiuzhaigou_Tiger_Lake.jpg/1280px-%E4%B9%9D%E5%AF%A8%E6%BA%9D-%E8%80%81%E8%99%8E%E6%B5%B7_Jiuzhaigou_Tiger_Lake.jpg"
     caption: "九寨沟老虎海"
     source: "Wikimedia Commons / Culantor Lin"
     license: "CC BY-SA 2.0"

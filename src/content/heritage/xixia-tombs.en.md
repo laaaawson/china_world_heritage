@@ -14,7 +14,7 @@ core_area_km2: 38.99
 buffer_area_km2: 405.7
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/20260810_Xixia_Imperial_Tombs_Museum.jpg/1280px-20260810_Xixia_Imperial_Tombs_Museum.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/20260810_Xixia_Imperial_Tombs_Museum.jpg/1280px-20260810_Xixia_Imperial_Tombs_Museum.jpg"
 cover_source: Wikimedia Commons / Windmemories
 cover_license: "CC BY-SA 4.0"
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/20260810_Xixia_Imperial_Tombs_Museum.jpg/1280px-20260810_Xixia_Imperial_Tombs_Museum.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/20260810_Xixia_Imperial_Tombs_Museum.jpg/1280px-20260810_Xixia_Imperial_Tombs_Museum.jpg"
     caption: The Xixia Imperial Tombs Museum
     source: Wikimedia Commons / Windmemories
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Reconstructed_model_of_Xixia%28western_Xia%29_Mausoleum_in_Xixia_museum.jpg/1280px-Reconstructed_model_of_Xixia%28western_Xia%29_Mausoleum_in_Xixia_museum.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Reconstructed_model_of_Xixia%28western_Xia%29_Mausoleum_in_Xixia_museum.jpg/1280px-Reconstructed_model_of_Xixia%28western_Xia%29_Mausoleum_in_Xixia_museum.jpg"
     caption: Reconstructed model of a Western Xia mausoleum
     source: Wikimedia Commons / Hiroooooo
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Xixia_Tomb_3_Kalavinka_1.jpg/1280px-Xixia_Tomb_3_Kalavinka_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Xixia_Tomb_3_Kalavinka_1.jpg/1280px-Xixia_Tomb_3_Kalavinka_1.jpg"
     caption: Kalavinka ornament from Tomb No. 3 of the Xixia Imperial Tombs
     source: Wikimedia Commons / BabelStone
     license: "CC BY-SA 3.0"

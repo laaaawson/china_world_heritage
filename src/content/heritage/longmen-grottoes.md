@@ -14,21 +14,21 @@ core_area_km2: 3.31
 buffer_area_km2: 7.11
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Longmen_Grottoes_20240810_010.jpg/1280px-Longmen_Grottoes_20240810_010.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Longmen_Grottoes_20240810_010.jpg/1280px-Longmen_Grottoes_20240810_010.jpg"
 cover_source: "Wikimedia Commons / 沈澄心"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Longmen_Grottoes_20240810_010.jpg/1280px-Longmen_Grottoes_20240810_010.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Longmen_Grottoes_20240810_010.jpg/1280px-Longmen_Grottoes_20240810_010.jpg"
     caption: "龙门石窟奉先寺"
     source: "Wikimedia Commons / 沈澄心"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/27333-Luoyang%2C_Longmen_Grottoes.jpg/1280px-27333-Luoyang%2C_Longmen_Grottoes.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/27333-Luoyang%2C_Longmen_Grottoes.jpg/1280px-27333-Luoyang%2C_Longmen_Grottoes.jpg"
     caption: "龙门石窟伊河两岸"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Longmen_Grottoes_3.jpg/1280px-Longmen_Grottoes_3.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Longmen_Grottoes_3.jpg/1280px-Longmen_Grottoes_3.jpg"
     caption: "龙门石窟造像"
     source: "Wikimedia Commons / Rialfver"
     license: "CC BY-SA 3.0"

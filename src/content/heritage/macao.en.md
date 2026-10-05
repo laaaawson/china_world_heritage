@@ -14,7 +14,7 @@ core_area_km2: 0.16
 buffer_area_km2: 1.07
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Historic_Centre_of_Macau_IMG_5313.JPG/1280px-Historic_Centre_of_Macau_IMG_5313.JPG"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Historic_Centre_of_Macau_IMG_5313.JPG/1280px-Historic_Centre_of_Macau_IMG_5313.JPG"
 cover_source: Wikimedia Commons / deror_avi
 cover_license: "CC BY-SA 3.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Historic_Centre_of_Macau_IMG_5313.JPG/1280px-Historic_Centre_of_Macau_IMG_5313.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Historic_Centre_of_Macau_IMG_5313.JPG/1280px-Historic_Centre_of_Macau_IMG_5313.JPG"
     caption: Street scene in the Historic Centre of Macao
     source: Wikimedia Commons / deror_avi
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Historic_Centre_of_Macau_IMG_5355.JPG/1280px-Historic_Centre_of_Macau_IMG_5355.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Historic_Centre_of_Macau_IMG_5355.JPG/1280px-Historic_Centre_of_Macau_IMG_5355.JPG"
     caption: Historic buildings in Macao
     source: Wikimedia Commons / deror_avi
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Historic_Centre_of_Macau_IMG_5379.JPG/1280px-Historic_Centre_of_Macau_IMG_5379.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Historic_Centre_of_Macau_IMG_5379.JPG/1280px-Historic_Centre_of_Macau_IMG_5379.JPG"
     caption: A corner of the historic city of Macao
     source: Wikimedia Commons / deror_avi
     license: "CC BY-SA 3.0"

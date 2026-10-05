@@ -14,7 +14,7 @@ core_area_km2: 5.89
 buffer_area_km2: 45.42
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg/1280px-Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg/1280px-Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg"
 cover_source: Wikimedia Commons / N509FZ
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg/1280px-Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg/1280px-Central_Axis_of_Beijing_from_Yongdingmenwai_%2820240812145818%29.jpg"
     caption: The central axis seen from outside Yongdingmen
     source: Wikimedia Commons / N509FZ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/North-South_Central_Axis_of_Beijing_City.jpg/1280px-North-South_Central_Axis_of_Beijing_City.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/12/North-South_Central_Axis_of_Beijing_City.jpg/1280px-North-South_Central_Axis_of_Beijing_City.jpg"
     caption: "Diagram of Beijing's north–south central axis"
     source: Wikimedia Commons / EditQ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Peking_verbotene_Stadt-20071018-RM-162411.jpg/1280px-Peking_verbotene_Stadt-20071018-RM-162411.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Peking_verbotene_Stadt-20071018-RM-162411.jpg/1280px-Peking_verbotene_Stadt-20071018-RM-162411.jpg"
     caption: "The Forbidden City, heart of the axis"
     source: Wikimedia Commons / Ermell
     license: "CC BY-SA 4.0"

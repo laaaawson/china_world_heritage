@@ -14,21 +14,21 @@ core_area_km2: 4.14
 buffer_area_km2: 7.2
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg"
 cover_source: "Wikimedia Commons / Gary Todd"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197192394%29.jpg"
     caption: "殷墟世界遗产标识"
     source: "Wikimedia Commons / Gary Todd"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Yinxu_World_Heritage_Site%2C_Anyang_%2810197708543%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197708543%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Yinxu_World_Heritage_Site%2C_Anyang_%2810197708543%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197708543%29.jpg"
     caption: "殷墟宫殿宗庙遗址"
     source: "Wikimedia Commons / Gary Todd"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Yinxu_World_Heritage_Site%2C_Anyang_%2810197708495%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197708495%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Yinxu_World_Heritage_Site%2C_Anyang_%2810197708495%29.jpg/1280px-Yinxu_World_Heritage_Site%2C_Anyang_%2810197708495%29.jpg"
     caption: "殷墟遗址景象"
     source: "Wikimedia Commons / Gary Todd"
     license: "CC0"

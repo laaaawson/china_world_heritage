@@ -12,7 +12,7 @@ province: [北京, 辽宁]
 coordinates: [39.9163, 116.3972] # [latitude, longitude]
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Beijing_China_Forbidden-City-03.jpg/1280px-Beijing_China_Forbidden-City-03.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Beijing_China_Forbidden-City-03.jpg/1280px-Beijing_China_Forbidden-City-03.jpg"
 cover_source: "Wikimedia Commons / CEphoto, Uwe Aranas"
 cover_license: "CC BY-SA 3.0"
 
@@ -43,15 +43,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Beijing_China_Forbidden-City-03.jpg/1280px-Beijing_China_Forbidden-City-03.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Beijing_China_Forbidden-City-03.jpg/1280px-Beijing_China_Forbidden-City-03.jpg"
     caption: "The plaza of the Hall of Supreme Harmony, Forbidden City"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Forbidden_City_Beijing_China.jpg/1280px-Forbidden_City_Beijing_China.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Forbidden_City_Beijing_China.jpg/1280px-Forbidden_City_Beijing_China.jpg"
     caption: The Forbidden City complex from afar
     source: Wikimedia Commons / Philip Nalangan
     license: CC BY 4.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg/1280px-Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg/1280px-Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg"
     caption: Terrace of the Hall of Central Harmony
     source: Wikimedia Commons / Reinhold Möller
     license: "CC BY-SA 4.0"

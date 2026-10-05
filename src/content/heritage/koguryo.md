@@ -14,21 +14,21 @@ core_area_km2: 41.65
 buffer_area_km2: 141.42
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
 cover_source: "Wikimedia Commons / EditQ"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
     caption: "高句丽遗迹博物馆"
     source: "Wikimedia Commons / EditQ"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Goguryeo_Ancient_Tomb_Museum_10.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_10.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Goguryeo_Ancient_Tomb_Museum_10.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_10.jpg"
     caption: "高句丽墓葬遗迹"
     source: "Wikimedia Commons / EditQ"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Goguryeo_Tomb_Museum.jpg/1280px-Goguryeo_Tomb_Museum.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Goguryeo_Tomb_Museum.jpg/1280px-Goguryeo_Tomb_Museum.jpg"
     caption: "高句丽墓葬博物馆"
     source: "Wikimedia Commons / Prcshaw"
     license: "CC BY-SA 4.0"

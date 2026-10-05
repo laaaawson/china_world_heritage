@@ -14,7 +14,7 @@ core_area_km2: 4.8
 buffer_area_km2: 8.88
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg/1280px-Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg/1280px-Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -42,19 +42,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg/1280px-Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg/1280px-Zhoukoudian_66028-Peking-Man-Site_%2828097492114%29.jpg"
     caption: "The Zhoukoudian site (around the ape-man cave)"
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zhoukoudian_Caves_July2004.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/a/a3/Zhoukoudian_Caves_July2004.jpg"
     caption: Caves of the Zhoukoudian site
     source: "Wikimedia Commons / "
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/In_cave_in_Zhoukoudian_01.jpg/1280px-In_cave_in_Zhoukoudian_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/In_cave_in_Zhoukoudian_01.jpg/1280px-In_cave_in_Zhoukoudian_01.jpg"
     caption: "Interior of the Zhoukoudian ape-man cave"
     source: Wikimedia Commons / Dquai
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Zhoukoudian_Site_Entrance.JPG/1280px-Zhoukoudian_Site_Entrance.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Zhoukoudian_Site_Entrance.JPG/1280px-Zhoukoudian_Site_Entrance.JPG"
     caption: Entrance to the Zhoukoudian site
     source: Wikimedia Commons / Siyuwj
     license: "CC BY-SA 3.0"

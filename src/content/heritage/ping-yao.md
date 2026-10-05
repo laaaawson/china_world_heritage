@@ -14,21 +14,21 @@ core_area_km2: 2.46
 buffer_area_km2: 0.96
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/1_pingyao_ancient_city_aerial_pano_2019.jpg/1280px-1_pingyao_ancient_city_aerial_pano_2019.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/52/1_pingyao_ancient_city_aerial_pano_2019.jpg/1280px-1_pingyao_ancient_city_aerial_pano_2019.jpg"
 cover_source: "Wikimedia Commons / Chensiyuan"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/1_pingyao_ancient_city_aerial_pano_2019.jpg/1280px-1_pingyao_ancient_city_aerial_pano_2019.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/52/1_pingyao_ancient_city_aerial_pano_2019.jpg/1280px-1_pingyao_ancient_city_aerial_pano_2019.jpg"
     caption: "平遥古城航拍全景"
     source: "Wikimedia Commons / Chensiyuan"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pingyao_40.JPG/1280px-Pingyao_40.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pingyao_40.JPG/1280px-Pingyao_40.JPG"
     caption: "平遥古城街景"
     source: "Wikimedia Commons / Nicor"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pingyao_Ancient_City_%E5%B9%B3%E9%81%99%E5%8F%A4%E5%9F%8E_-_panoramio.jpg/1280px-Pingyao_Ancient_City_%E5%B9%B3%E9%81%99%E5%8F%A4%E5%9F%8E_-_panoramio.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pingyao_Ancient_City_%E5%B9%B3%E9%81%99%E5%8F%A4%E5%9F%8E_-_panoramio.jpg/1280px-Pingyao_Ancient_City_%E5%B9%B3%E9%81%99%E5%8F%A4%E5%9F%8E_-_panoramio.jpg"
     caption: "平遥古城墙与市楼"
     source: "Wikimedia Commons / lienyuan lee"
     license: "CC BY 3.0"

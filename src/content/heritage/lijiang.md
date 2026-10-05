@@ -14,21 +14,21 @@ core_area_km2: 1.37
 buffer_area_km2: 6.07
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
 cover_source: "Wikimedia Commons / chensiyuan"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
     caption: "丽江古城俯瞰"
     source: "Wikimedia Commons / chensiyuan"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lijiang_Yunnan_Old-town-01.jpg/1280px-Lijiang_Yunnan_Old-town-01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lijiang_Yunnan_Old-town-01.jpg/1280px-Lijiang_Yunnan_Old-town-01.jpg"
     caption: "丽江古城街巷"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Town_of_Lijiang_at_night_20260221-1.jpg/1280px-Old_Town_of_Lijiang_at_night_20260221-1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Town_of_Lijiang_at_night_20260221-1.jpg/1280px-Old_Town_of_Lijiang_at_night_20260221-1.jpg"
     caption: "丽江古城夜景"
     source: "Wikimedia Commons / ShuQizhe"
     license: "CC BY-SA 4.0"

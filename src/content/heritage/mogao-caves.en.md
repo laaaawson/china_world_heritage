@@ -14,7 +14,7 @@ core_area_km2: 233.92
 buffer_area_km2: 1076.37
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
 cover_source: Wikimedia Commons / N509FZ
 cover_license: "CC BY-SA 4.0"
 
@@ -42,19 +42,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
     caption: "The Nine-Storey Tower, landmark building of the Mogao Caves"
     source: Wikimedia Commons / N509FZ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg/1280px-Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg/1280px-Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg"
     caption: The cave openings on the Mogao cliff face
     source: Wikimedia Commons / Zhangzhugang
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg/1280px-Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg/1280px-Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg"
     caption: Exterior of Caves 16–17 (the Library Cave) at Mogao
     source: Wikimedia Commons / N509FZ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg/1280px-Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg/1280px-Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg"
     caption: Reproduced mural of Cave 220 at Mogao
     source: Wikimedia Commons / Hiroooooo
     license: "CC BY-SA 3.0"

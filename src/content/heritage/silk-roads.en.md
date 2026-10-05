@@ -14,7 +14,7 @@ core_area_km2: 426.68
 buffer_area_km2: 1899.63
 
 # === Media & Credits ===
-cover_image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Silk_Road_%2840891202075%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/1/1c/Silk_Road_%2840891202075%29.jpg"
 cover_source: Wikimedia Commons / David Stanley
 cover_license: CC BY 2.0
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Silk_Road_%2840891202075%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/1/1c/Silk_Road_%2840891202075%29.jpg"
     caption: Landscape along the Silk Road
     source: Wikimedia Commons / David Stanley
     license: CC BY 2.0
-  - image: "https://upload.wikimedia.org/wikipedia/commons/9/99/The_last_checkpount_on_the_Silk_Road_on_China_side.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/9/99/The_last_checkpount_on_the_Silk_Road_on_China_side.jpg"
     caption: Ruins of a pass on the Chinese section of the Silk Road
     source: Wikimedia Commons / Leon petrosyan
     license: "CC BY-SA 4.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Silk_Road_%284366866931%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/1/17/Silk_Road_%284366866931%29.jpg"
     caption: Scenery of the ancient Silk Road route
     source: Wikimedia Commons / fdecomite
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Horse_in_the_Tianshan_Mountains%2C_Xinjiang.jpg/1280px-Horse_in_the_Tianshan_Mountains%2C_Xinjiang.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Horse_in_the_Tianshan_Mountains%2C_Xinjiang.jpg/1280px-Horse_in_the_Tianshan_Mountains%2C_Xinjiang.jpg"
     caption: Pastoral landscape of the Tianshan corridor
     source: Wikimedia Commons / Dmitry P
     license: CC BY 2.0

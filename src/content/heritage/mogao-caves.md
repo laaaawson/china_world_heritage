@@ -14,25 +14,25 @@ core_area_km2: 233.92
 buffer_area_km2: 1076.37
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
 cover_source: "Wikimedia Commons / N509FZ"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg/1280px-Cave_96_of_Mogao_Grottoes_%2820230918151944%29.jpg"
     caption: "莫高窟标志性建筑——九层楼"
     source: "Wikimedia Commons / N509FZ"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg/1280px-Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg/1280px-Dunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg"
     caption: "莫高窟崖面洞窟"
     source: "Wikimedia Commons / Zhangzhugang"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg/1280px-Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg/1280px-Caves_16-17_of_Mogao_Grottoes_%2820230918142815%29.jpg"
     caption: "莫高窟第 16-17 窟（藏经洞）外景"
     source: "Wikimedia Commons / N509FZ"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg/1280px-Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg/1280px-Reproduced_Mural_of_220_cave%2C_Mogao_caves%2C_Dunhuang.jpg"
     caption: "莫高窟第 220 窟壁画（复制）"
     source: "Wikimedia Commons / Hiroooooo"
     license: "CC BY-SA 3.0"

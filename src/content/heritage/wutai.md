@@ -14,25 +14,25 @@ core_area_km2: 184.15
 buffer_area_km2: 423.12
 
 # === 媒体与版权 ===
-cover_image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
 cover_source: "Wikimedia Commons / Naplee12"
 cover_license: "CC BY-SA 3.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
     caption: "五台山台怀镇寺院群"
     source: "Wikimedia Commons / Naplee12"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Wutai_2009_378.jpg/1280px-Wutai_2009_378.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Wutai_2009_378.jpg/1280px-Wutai_2009_378.jpg"
     caption: "五台山寺院建筑"
     source: "Wikimedia Commons / G41rn8"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg/1280px-Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg/1280px-Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg"
     caption: "五台山中台顶"
     source: "Wikimedia Commons / Hanbud"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Burning_incense_sticks_at_Wutai_Shan.jpg/1280px-Burning_incense_sticks_at_Wutai_Shan.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Burning_incense_sticks_at_Wutai_Shan.jpg/1280px-Burning_incense_sticks_at_Wutai_Shan.jpg"
     caption: "五台山礼佛场景"
     source: "Wikimedia Commons / David Wilmot"
     license: "CC BY-SA 2.0"

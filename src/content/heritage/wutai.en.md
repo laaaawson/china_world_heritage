@@ -14,7 +14,7 @@ core_area_km2: 184.15
 buffer_area_km2: 423.12
 
 # === Media & Credits ===
-cover_image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
 cover_source: Wikimedia Commons / Naplee12
 cover_license: "CC BY-SA 3.0"
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/9/93/Wutai_Shan.jpg"
     caption: Temple complex of Taihuai Town on Mount Wutai
     source: Wikimedia Commons / Naplee12
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Wutai_2009_378.jpg/1280px-Wutai_2009_378.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Wutai_2009_378.jpg/1280px-Wutai_2009_378.jpg"
     caption: Temple buildings on Mount Wutai
     source: Wikimedia Commons / G41rn8
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg/1280px-Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg/1280px-Wutai_-_Central_Peak_%E4%BA%94%E5%8F%B0%E5%B1%B1%E4%B8%AD%E5%8F%B0.jpg"
     caption: The Central Terrace of Mount Wutai
     source: Wikimedia Commons / Hanbud
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Burning_incense_sticks_at_Wutai_Shan.jpg/1280px-Burning_incense_sticks_at_Wutai_Shan.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Burning_incense_sticks_at_Wutai_Shan.jpg/1280px-Burning_incense_sticks_at_Wutai_Shan.jpg"
     caption: Worshippers offering incense at Mount Wutai
     source: Wikimedia Commons / David Wilmot
     license: "CC BY-SA 2.0"

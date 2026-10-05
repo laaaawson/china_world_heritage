@@ -14,7 +14,7 @@ core_area_km2: 7262.91
 buffer_area_km2: 8911.14
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Small_Dunes_of_Badain_Jaran_Desert.JPG/1280px-Small_Dunes_of_Badain_Jaran_Desert.JPG"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Small_Dunes_of_Badain_Jaran_Desert.JPG/1280px-Small_Dunes_of_Badain_Jaran_Desert.JPG"
 cover_source: Wikimedia Commons / Sjoerd van Oort
 cover_license: "CC BY-SA 3.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Small_Dunes_of_Badain_Jaran_Desert.JPG/1280px-Small_Dunes_of_Badain_Jaran_Desert.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Small_Dunes_of_Badain_Jaran_Desert.JPG/1280px-Small_Dunes_of_Badain_Jaran_Desert.JPG"
     caption: "Dunes and lakes of the Badain Jaran Desert (Alxa, Inner Mongolia)"
     source: Wikimedia Commons / Sjoerd van Oort
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/W%C3%BCste_Badai_Jaran_China.jpg/1280px-W%C3%BCste_Badai_Jaran_China.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/76/W%C3%BCste_Badai_Jaran_China.jpg/1280px-W%C3%BCste_Badai_Jaran_China.jpg"
     caption: Dune field of the Badain Jaran Desert
     source: Wikimedia Commons / Worldwidewheeler
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Badain_Jaran_Temple.JPG/1280px-Badain_Jaran_Temple.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Badain_Jaran_Temple.JPG/1280px-Badain_Jaran_Temple.JPG"
     caption: "The Badain Jaran Temple, a Tibetan Buddhist shrine in the desert heart"
     source: Wikimedia Commons / Sjoerd van Oort
     license: "CC BY-SA 3.0"

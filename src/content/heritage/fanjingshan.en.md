@@ -14,7 +14,7 @@ core_area_km2: 402.75
 buffer_area_km2: 372.39
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fanjingshan-new.jpg/1280px-Fanjingshan-new.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fanjingshan-new.jpg/1280px-Fanjingshan-new.jpg"
 cover_source: Wikimedia Commons / sizzhot0
 cover_license: CC0
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fanjingshan-new.jpg/1280px-Fanjingshan-new.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fanjingshan-new.jpg/1280px-Fanjingshan-new.jpg"
     caption: "Fanjingshan (Tongren, Guizhou)"
     source: Wikimedia Commons / sizzhot0
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mount_Fanjing%2C_31_March_2020c.jpg/1280px-Mount_Fanjing%2C_31_March_2020c.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mount_Fanjing%2C_31_March_2020c.jpg/1280px-Mount_Fanjing%2C_31_March_2020c.jpg"
     caption: The massif of Fanjingshan
     source: Wikimedia Commons / Huangdan2060
     license: CC BY 3.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gorge%2C_Mount_Fanjing%2C_31_March_2020D.jpg/1280px-Gorge%2C_Mount_Fanjing%2C_31_March_2020D.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gorge%2C_Mount_Fanjing%2C_31_March_2020D.jpg/1280px-Gorge%2C_Mount_Fanjing%2C_31_March_2020D.jpg"
     caption: Gorge on Mount Fanjing
     source: Wikimedia Commons / Huangdan2060
     license: CC BY 3.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Jinding%2C_Mount_Fanjing%2C_31_March_2020a.jpg/1280px-Jinding%2C_Mount_Fanjing%2C_31_March_2020a.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Jinding%2C_Mount_Fanjing%2C_31_March_2020a.jpg/1280px-Jinding%2C_Mount_Fanjing%2C_31_March_2020a.jpg"
     caption: The Golden Summit of Fanjingshan
     source: Wikimedia Commons / Huangdan2060
     license: CC BY 3.0

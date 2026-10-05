@@ -12,7 +12,7 @@ province: [四川]
 coordinates: [30.9068, 103.5679] # [latitude, longitude]
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg"
 cover_source: Wikimedia Commons / 星星
 cover_license: "CC BY-SA 4.0"
 
@@ -37,15 +37,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dujiang_Weir.jpg/1280px-Dujiang_Weir.jpg"
     caption: "The Fish Mouth of the Dujiangyan water-dividing works"
     source: Wikimedia Commons / 星星
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dujiangyan_Irrigation_System_%2850620354352%29.jpg/1280px-Dujiangyan_Irrigation_System_%2850620354352%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dujiangyan_Irrigation_System_%2850620354352%29.jpg/1280px-Dujiangyan_Irrigation_System_%2850620354352%29.jpg"
     caption: The Dujiangyan irrigation system
     source: Wikimedia Commons / Hugh Llewelyn
     license: "CC BY-SA 2.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Dujiangyan_irrigation_system%2C_Sichuan%2C_China.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/5/55/Dujiangyan_irrigation_system%2C_Sichuan%2C_China.JPG"
     caption: The Bottle Neck of the Dujiangyan
     source: "Wikimedia Commons / [unknown]"
     license: "CC BY-SA 3.0"

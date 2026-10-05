@@ -14,7 +14,7 @@ core_area_km2: 208.19
 buffer_area_km2: 556.29
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/A_boat_on_Grand_Canal_of_China.JPG/1280px-A_boat_on_Grand_Canal_of_China.JPG"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/A_boat_on_Grand_Canal_of_China.JPG/1280px-A_boat_on_Grand_Canal_of_China.JPG"
 cover_source: "Wikimedia Commons / No machine-readable author provided. IcaN assumed (based on copyright claims)."
 cover_license: Public domain
 
@@ -42,19 +42,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/A_boat_on_Grand_Canal_of_China.JPG/1280px-A_boat_on_Grand_Canal_of_China.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/A_boat_on_Grand_Canal_of_China.JPG/1280px-A_boat_on_Grand_Canal_of_China.JPG"
     caption: A boat on the Grand Canal
     source: "Wikimedia Commons / No machine-readable author provided. IcaN assumed (based on copyright claims)."
     license: Public domain
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Beijing-Hangzhou_Grand_Canal_in_Chongfu_Town_2014-06.jpg/1280px-The_Beijing-Hangzhou_Grand_Canal_in_Chongfu_Town_2014-06.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Beijing-Hangzhou_Grand_Canal_in_Chongfu_Town_2014-06.jpg/1280px-The_Beijing-Hangzhou_Grand_Canal_in_Chongfu_Town_2014-06.jpg"
     caption: The Beijing–Hangzhou Grand Canal at Chongfu
     source: Wikimedia Commons / 猫猫的日记本
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/China_Grand_Canal_Museum.jpg/1280px-China_Grand_Canal_Museum.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/75/China_Grand_Canal_Museum.jpg/1280px-China_Grand_Canal_Museum.jpg"
     caption: China Grand Canal Museum
     source: Wikimedia Commons / FoolPiasar
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Grand_Canal_Museum_of_Beijing.jpg/1280px-The_Grand_Canal_Museum_of_Beijing.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Grand_Canal_Museum_of_Beijing.jpg/1280px-The_Grand_Canal_Museum_of_Beijing.jpg"
     caption: The Grand Canal Museum of Beijing
     source: Wikimedia Commons / E2568
     license: CC0

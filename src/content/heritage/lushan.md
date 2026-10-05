@@ -14,21 +14,21 @@ core_area_km2: 302.0
 buffer_area_km2: 500.0
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
 cover_source: "Wikimedia Commons / 钹钹"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lushan_Geopark.jpg/1280px-Lushan_Geopark.jpg"
     caption: "庐山世界地质公园"
     source: "Wikimedia Commons / 钹钹"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mount_Lu_16100-Lushan_%2849051840613%29.jpg/1280px-Mount_Lu_16100-Lushan_%2849051840613%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mount_Lu_16100-Lushan_%2849051840613%29.jpg/1280px-Mount_Lu_16100-Lushan_%2849051840613%29.jpg"
     caption: "庐山山景"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mount_Lu.jpg/1280px-Mount_Lu.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mount_Lu.jpg/1280px-Mount_Lu.jpg"
     caption: "庐山风光"
     source: "Wikimedia Commons / Pauloleong2002"
     license: "CC BY-SA 4.0"

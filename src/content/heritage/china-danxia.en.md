@@ -14,7 +14,7 @@ core_area_km2: 824.51
 buffer_area_km2: 1326.10
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
 cover_source: Wikimedia Commons / iamangela9
 cover_license: CC0
 
@@ -39,11 +39,11 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
     caption: Danxia landform — red cliffs and cinnabar walls
     source: Wikimedia Commons / iamangela9
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Danxia_Landform_%2847923838738%29.jpg/1280px-Danxia_Landform_%2847923838738%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Danxia_Landform_%2847923838738%29.jpg/1280px-Danxia_Landform_%2847923838738%29.jpg"
     caption: Peaks of the Danxia landform
     source: Wikimedia Commons / Rod Waddington
     license: "CC BY-SA 2.0"

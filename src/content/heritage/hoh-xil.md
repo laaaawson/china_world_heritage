@@ -14,25 +14,25 @@ core_area_km2: 37356.32
 buffer_area_km2: 22909.04
 
 # === 媒体与版权 ===
-cover_image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hoh_Xil.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/f/fe/Hoh_Xil.jpg"
 cover_source: "Wikimedia Commons / 始见"
 cover_license: "CC BY 2.5 cn"
 
 # === 图集 ===
 gallery:
-  - image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hoh_Xil.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/f/fe/Hoh_Xil.jpg"
     caption: "可可西里高原景观"
     source: "Wikimedia Commons / 始见"
     license: "CC BY 2.5 cn"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Procapra_picticaudata.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/5/58/Procapra_picticaudata.jpg"
     caption: "藏原羚（可可西里）"
     source: "Wikimedia Commons / B_cool from SIN, Singapore"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A83%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg/1280px-%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A83%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A83%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg/1280px-%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A83%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg"
     caption: "可可西里东部地貌"
     source: "Wikimedia Commons / leej1118bj"
     license: "CC BY 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A85%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg/1280px-%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A85%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A85%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg/1280px-%E7%A9%BF%E8%A1%8C%E5%9C%A8%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E4%B8%9C%E9%83%A85%E3%80%90%E8%B7%AF%E4%BA%BA%E3%80%91_-_panoramio.jpg"
     caption: "可可西里草原"
     source: "Wikimedia Commons / leej1118bj"
     license: "CC BY 3.0"

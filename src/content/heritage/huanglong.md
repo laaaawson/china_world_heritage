@@ -13,21 +13,21 @@ coordinates: [32.75, 103.82] # [纬度, 经度]
 core_area_km2: 600.00
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Huanglong_Sichuan_China_Multicolored-ponds-02.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-02.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Huanglong_Sichuan_China_Multicolored-ponds-02.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-02.jpg"
 cover_source: "Wikimedia Commons / CEphoto, Uwe Aranas"
 cover_license: "CC BY-SA 3.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Huanglong_Sichuan_China_Multicolored-ponds-02.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-02.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Huanglong_Sichuan_China_Multicolored-ponds-02.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-02.jpg"
     caption: "黄龙五彩池（四川阿坝）"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg/1280px-Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg/1280px-Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg"
     caption: "黄龙景区与索道"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Huanglong_Sichuan_China_Multicolored-ponds-04.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-04.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Huanglong_Sichuan_China_Multicolored-ponds-04.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-04.jpg"
     caption: "黄龙钙华彩池"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"

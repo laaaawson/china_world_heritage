@@ -14,7 +14,7 @@ core_area_km2: 1.37
 buffer_area_km2: 6.07
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
 cover_source: Wikimedia Commons / chensiyuan
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg"
     caption: Aerial view of the Old Town of Lijiang
     source: Wikimedia Commons / chensiyuan
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lijiang_Yunnan_Old-town-01.jpg/1280px-Lijiang_Yunnan_Old-town-01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lijiang_Yunnan_Old-town-01.jpg/1280px-Lijiang_Yunnan_Old-town-01.jpg"
     caption: Streets of the Old Town of Lijiang
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Town_of_Lijiang_at_night_20260221-1.jpg/1280px-Old_Town_of_Lijiang_at_night_20260221-1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Town_of_Lijiang_at_night_20260221-1.jpg/1280px-Old_Town_of_Lijiang_at_night_20260221-1.jpg"
     caption: The Old Town of Lijiang at night
     source: Wikimedia Commons / ShuQizhe
     license: "CC BY-SA 4.0"

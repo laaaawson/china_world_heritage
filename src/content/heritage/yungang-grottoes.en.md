@@ -14,7 +14,7 @@ core_area_km2: 3.49
 buffer_area_km2: 8.47
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
 cover_source: Wikimedia Commons / Dudva
 cover_license: CC0
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cave_20%2C_Yungang_Grottoes_03.2025.jpg/1280px-Cave_20%2C_Yungang_Grottoes_03.2025.jpg"
     caption: "The open-air Great Buddha of Cave 20, Yungang Grottoes"
     source: Wikimedia Commons / Dudva
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Yungang_Grottoes_03.2025._1.jpg/1280px-Yungang_Grottoes_03.2025._1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Yungang_Grottoes_03.2025._1.jpg/1280px-Yungang_Grottoes_03.2025._1.jpg"
     caption: Exterior of the Yungang cave chambers
     source: Wikimedia Commons / Dudva
     license: CC0
-  - image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Yungang_Grottoes_and_temples.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/d/db/Yungang_Grottoes_and_temples.jpg"
     caption: The Yungang Grottoes and temple buildings
     source: Wikimedia Commons / Anonymous. The postcard set was published in Keijo(Today Seoul) in 1939.
     license: Public domain
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Carving_inside_Yungang_Grottoes.jpg/1280px-Carving_inside_Yungang_Grottoes.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Carving_inside_Yungang_Grottoes.jpg/1280px-Carving_inside_Yungang_Grottoes.jpg"
     caption: Carved statues inside the Yungang Grottoes
     source: Wikimedia Commons / Mathew Toll
     license: "CC BY-SA 4.0"

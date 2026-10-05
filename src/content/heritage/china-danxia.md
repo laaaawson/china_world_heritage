@@ -14,17 +14,17 @@ core_area_km2: 824.51
 buffer_area_km2: 1326.10
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
 cover_source: "Wikimedia Commons / iamangela9"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Danxia-landform-1562852.jpg/1280px-Danxia-landform-1562852.jpg"
     caption: "丹霞地貌——赤壁丹崖"
     source: "Wikimedia Commons / iamangela9"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Danxia_Landform_%2847923838738%29.jpg/1280px-Danxia_Landform_%2847923838738%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Danxia_Landform_%2847923838738%29.jpg/1280px-Danxia_Landform_%2847923838738%29.jpg"
     caption: "丹霞地貌群峰"
     source: "Wikimedia Commons / Rod Waddington"
     license: "CC BY-SA 2.0"

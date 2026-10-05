@@ -14,25 +14,25 @@ core_area_km2: 733.18
 buffer_area_km2: 415.36
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
 cover_source: "Wikimedia Commons / Fumikas Sagisavas"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
     caption: "神农架（湖北）"
     source: "Wikimedia Commons / Fumikas Sagisavas"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Shennongjia_virgin_forest.jpg/1280px-Shennongjia_virgin_forest.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Shennongjia_virgin_forest.jpg/1280px-Shennongjia_virgin_forest.jpg"
     caption: "神农架原始森林"
     source: "Wikimedia Commons / Evilbish"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg/1280px-Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg/1280px-Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg"
     caption: "神农架山谷景观"
     source: "Wikimedia Commons / Z Zzl"
     license: "CC BY 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shennongjia-Wenshui-G209-5384.jpg/1280px-Shennongjia-Wenshui-G209-5384.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shennongjia-Wenshui-G209-5384.jpg/1280px-Shennongjia-Wenshui-G209-5384.jpg"
     caption: "神农架林区公路沿线"
     source: "Wikimedia Commons / User:Vmenkov"
     license: "CC BY-SA 3.0"

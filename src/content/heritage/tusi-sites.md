@@ -14,21 +14,21 @@ core_area_km2: 7.81
 buffer_area_km2: 31.25
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
 cover_source: "Wikimedia Commons / xiquinhosilva"
 cover_license: "CC BY 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
     caption: "海龙屯土司城址"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hailongtun_Tusi_Fortress_%2854394980659%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854394980659%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hailongtun_Tusi_Fortress_%2854394980659%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854394980659%29.jpg"
     caption: "海龙屯城墙"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hailongtun_Tusi_Fortress_%2854393913262%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854393913262%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hailongtun_Tusi_Fortress_%2854393913262%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854393913262%29.jpg"
     caption: "海龙屯飞虎关"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"

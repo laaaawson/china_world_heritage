@@ -14,7 +14,7 @@ core_area_km2: 2897.11
 buffer_area_km2: 1175.02
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
 cover_source: "Wikimedia Commons / KongFu Wang from Beijing, China"
 cover_license: "CC BY-SA 2.0"
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
     caption: "Red-crowned crane — a representative migrant of the Yellow Sea–Bohai wetlands"
     source: "Wikimedia Commons / KongFu Wang from Beijing, China"
     license: "CC BY-SA 2.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Grus_japonensis_05.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/f/f3/Grus_japonensis_05.jpg"
     caption: "Red-crowned crane"
     source: Wikimedia Commons / マガちゃん
     license: "CC BY-SA 3.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Saunders%27s_Gull%2C_Diaoyugang%2C_Jiangsu%2C_China_53174278.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/0/04/Saunders%27s_Gull%2C_Diaoyugang%2C_Jiangsu%2C_China_53174278.jpg"
     caption: "Saunders's gull (Jiangsu coast)"
     source: "Wikimedia Commons / "
     license: CC BY 4.0
-  - image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/P%C3%A8re_David%27s_Deer_imported_from_iNaturalist_photo_162354420_on_24_January_2024.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/b/b5/P%C3%A8re_David%27s_Deer_imported_from_iNaturalist_photo_162354420_on_24_January_2024.jpg"
     caption: "Père David's deer (coastal wetlands)"
     source: "Wikimedia Commons / "
     license: CC BY 4.0

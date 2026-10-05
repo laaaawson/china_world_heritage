@@ -14,7 +14,7 @@ core_area_km2: 3.16
 buffer_area_km2: 8.86
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg/1280px-Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg/1280px-Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg"
 cover_source: Wikimedia Commons / Slyronit
 cover_license: "CC BY-SA 4.0"
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg/1280px-Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg/1280px-Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg"
     caption: "Kulangsu seen from Zhongshan Road, Xiamen"
     source: Wikimedia Commons / Slyronit
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gulangyu_Island.jpg/1280px-Gulangyu_Island.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gulangyu_Island.jpg/1280px-Gulangyu_Island.jpg"
     caption: View of Kulangsu Island
     source: Wikimedia Commons / bfishadow
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Gulangyu_street.jpg/1280px-Gulangyu_street.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Gulangyu_street.jpg/1280px-Gulangyu_street.jpg"
     caption: A Kulangsu street
     source: Wikimedia Commons / Jerry Luo
     license: CC BY 2.0

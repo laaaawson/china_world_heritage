@@ -14,25 +14,25 @@ core_area_km2: 0.61
 buffer_area_km2: 1.99
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
 cover_source: "Wikimedia Commons / Fumikas Sagisavas"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Potala_Palace_%2820230729%29.jpg/1280px-Potala_Palace_%2820230729%29.jpg"
     caption: "布达拉宫全景"
     source: "Wikimedia Commons / Fumikas Sagisavas"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Potala_Palace_appearance.jpg/1280px-Potala_Palace_appearance.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Potala_Palace_appearance.jpg/1280px-Potala_Palace_appearance.jpg"
     caption: "布达拉宫外观"
     source: "Wikimedia Commons / Yahahaya"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Potala.jpg/1280px-Potala.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Potala.jpg/1280px-Potala.jpg"
     caption: "布达拉宫红山远眺"
     source: "Wikimedia Commons / Ondřej Zváček"
     license: "CC BY 2.5"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/1280px-Potala_Palace%2C_August_2009.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/1280px-Potala_Palace%2C_August_2009.jpg"
     caption: "布达拉宫建筑群"
     source: "Wikimedia Commons / Antoine Taveneaux"
     license: "CC BY-SA 3.0"

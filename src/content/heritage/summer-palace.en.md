@@ -14,7 +14,7 @@ core_area_km2: 2.97
 buffer_area_km2: 55.95
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1280px-Longevity_Hill_of_the_Summer_Palace.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1280px-Longevity_Hill_of_the_Summer_Palace.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1280px-Longevity_Hill_of_the_Summer_Palace.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1280px-Longevity_Hill_of_the_Summer_Palace.jpg"
     caption: Longevity Hill of the Summer Palace
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Summer_Palace_-_Wenchang_Pavilion.jpg/1280px-Summer_Palace_-_Wenchang_Pavilion.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Summer_Palace_-_Wenchang_Pavilion.jpg/1280px-Summer_Palace_-_Wenchang_Pavilion.jpg"
     caption: The Wenchang Pavilion of the Summer Palace
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20090530_Beijing_Summer_Palace_8467.jpg/1280px-20090530_Beijing_Summer_Palace_8467.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20090530_Beijing_Summer_Palace_8467.jpg/1280px-20090530_Beijing_Summer_Palace_8467.jpg"
     caption: Kunming Lake of the Summer Palace
     source: Wikimedia Commons / Jakub Hałun
     license: "CC BY-SA 4.0"

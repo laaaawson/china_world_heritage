@@ -14,7 +14,7 @@ core_area_km2: 9245.0
 buffer_area_km2: 5271.0
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg/1280px-Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg/1280px-Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg"
 cover_source: "Wikimedia Commons / Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract."
 cover_license: "CC BY-SA 4.0"
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg/1280px-Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg/1280px-Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg"
     caption: A giant panda
     source: "Wikimedia Commons / Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract."
     license: "CC BY-SA 4.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg"
     caption: A giant panda (Chengdu base)
     source: Wikimedia Commons / Colegota
     license: "CC BY-SA 2.5 es"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lightmatter_panda.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/8/8d/Lightmatter_panda.jpg"
     caption: A giant panda
     source: Wikimedia Commons / Aaron Logan
     license: CC BY 1.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Panda_g%C3%A9ant_%28Ailuropoda_melanoleuca%29_%282%29.jpg/1280px-Panda_g%C3%A9ant_%28Ailuropoda_melanoleuca%29_%282%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Panda_g%C3%A9ant_%28Ailuropoda_melanoleuca%29_%282%29.jpg/1280px-Panda_g%C3%A9ant_%28Ailuropoda_melanoleuca%29_%282%29.jpg"
     caption: A giant panda
     source: Wikimedia Commons / Gzen92
     license: "CC BY-SA 4.0"

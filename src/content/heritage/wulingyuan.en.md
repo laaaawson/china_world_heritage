@@ -14,7 +14,7 @@ core_area_km2: 264.0
 buffer_area_km2: 126.8
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg/1280px-Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg/1280px-Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg"
 cover_source: Wikimedia Commons / 颐园居
 cover_license: "CC BY-SA 4.0"
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg/1280px-Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg/1280px-Wulingyuan%2C_Zhangjiajie%2C_Hunan_20230702.jpg"
     caption: Scenery of Huangshi Village in Wulingyuan
     source: Wikimedia Commons / 颐园居
     license: "CC BY-SA 4.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Wulingyuan_from_Tianzishan.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/4/40/Wulingyuan_from_Tianzishan.jpg"
     caption: Wulingyuan viewed from Tianzi Mountain
     source: Wikimedia Commons / Photo taken by Gjl
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Wulingyuan%2C_PRC_2016.jpg/1280px-Wulingyuan%2C_PRC_2016.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Wulingyuan%2C_PRC_2016.jpg/1280px-Wulingyuan%2C_PRC_2016.jpg"
     caption: Sandstone pillars of Wulingyuan
     source: "Wikimedia Commons / Kuruman from Tokyo, Japan"
     license: CC BY 2.0
-  - image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wulingyuan_3.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/d/d4/Wulingyuan_3.jpg"
     caption: Pillars and valleys of Wulingyuan
     source: Wikimedia Commons / John Philip
     license: "CC BY-SA 2.0"

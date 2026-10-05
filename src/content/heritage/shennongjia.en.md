@@ -14,7 +14,7 @@ core_area_km2: 733.18
 buffer_area_km2: 415.36
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
 cover_source: Wikimedia Commons / Fumikas Sagisavas
 cover_license: CC0
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shennongjia_%2820250119%29.jpg/1280px-Shennongjia_%2820250119%29.jpg"
     caption: Shennongjia (Hubei)
     source: Wikimedia Commons / Fumikas Sagisavas
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Shennongjia_virgin_forest.jpg/1280px-Shennongjia_virgin_forest.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Shennongjia_virgin_forest.jpg/1280px-Shennongjia_virgin_forest.jpg"
     caption: The virgin forest of Shennongjia
     source: Wikimedia Commons / Evilbish
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg/1280px-Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg/1280px-Shennongjia%2C_Hubei%2C_China_-_panoramio_%2819%29.jpg"
     caption: Valley landscape of Shennongjia
     source: Wikimedia Commons / Z Zzl
     license: CC BY 3.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shennongjia-Wenshui-G209-5384.jpg/1280px-Shennongjia-Wenshui-G209-5384.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shennongjia-Wenshui-G209-5384.jpg/1280px-Shennongjia-Wenshui-G209-5384.jpg"
     caption: Along the highway through the Shennongjia forest district
     source: "Wikimedia Commons / User:Vmenkov"
     license: "CC BY-SA 3.0"

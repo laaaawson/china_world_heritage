@@ -14,7 +14,7 @@ core_area_km2: 41.65
 buffer_area_km2: 141.42
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
 cover_source: Wikimedia Commons / EditQ
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Goguryeo_Ancient_Tomb_Museum_1.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_1.jpg"
     caption: The Koguryo Ancient Remains Museum
     source: Wikimedia Commons / EditQ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Goguryeo_Ancient_Tomb_Museum_10.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_10.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Goguryeo_Ancient_Tomb_Museum_10.jpg/1280px-Goguryeo_Ancient_Tomb_Museum_10.jpg"
     caption: Remains of Koguryo tombs
     source: Wikimedia Commons / EditQ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Goguryeo_Tomb_Museum.jpg/1280px-Goguryeo_Tomb_Museum.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Goguryeo_Tomb_Museum.jpg/1280px-Goguryeo_Tomb_Museum.jpg"
     caption: The Koguryo Tomb Museum
     source: Wikimedia Commons / Prcshaw
     license: "CC BY-SA 4.0"

@@ -14,7 +14,7 @@ core_area_km2: 66.22
 buffer_area_km2: 121.49
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg/1280px-Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg/1280px-Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -36,15 +36,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg/1280px-Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg/1280px-Zuojiang_Huashan_Rock_Art_%2853565287759%29.jpg"
     caption: Zuojiang Huashan rock art
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/20260211_%E8%8A%B1%E5%B1%B1%E5%B2%A9%E7%94%BB.jpg/1280px-20260211_%E8%8A%B1%E5%B1%B1%E5%B2%A9%E7%94%BB.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/30/20260211_%E8%8A%B1%E5%B1%B1%E5%B2%A9%E7%94%BB.jpg/1280px-20260211_%E8%8A%B1%E5%B1%B1%E5%B2%A9%E7%94%BB.jpg"
     caption: Human figures in the Huashan rock art
     source: Wikimedia Commons / Yumeto
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rock_painting_hua_mountain_1.jpg/1280px-Rock_painting_hua_mountain_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rock_painting_hua_mountain_1.jpg/1280px-Rock_painting_hua_mountain_1.jpg"
     caption: Cliff face bearing the Huashan paintings
     source: Wikimedia Commons / Rolfmueller
     license: "CC BY-SA 3.0"

@@ -14,7 +14,7 @@ core_area_km2: 2.44
 buffer_area_km2: 43.25
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
 cover_source: Wikimedia Commons / Gary Todd
 cover_license: CC0
 
@@ -42,19 +42,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
     caption: Pit No. 1 of the Terracotta Army
     source: Wikimedia Commons / Gary Todd
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/20230924_Pit_3_of_Terracotta_Army_03.jpg/1280px-20230924_Pit_3_of_Terracotta_Army_03.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/20230924_Pit_3_of_Terracotta_Army_03.jpg/1280px-20230924_Pit_3_of_Terracotta_Army_03.jpg"
     caption: Pit No. 3 of the Terracotta Army
     source: Wikimedia Commons / Windmemories
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Terracotta_Army_-_Pit_2_20240806_06.jpg/1280px-Terracotta_Army_-_Pit_2_20240806_06.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Terracotta_Army_-_Pit_2_20240806_06.jpg/1280px-Terracotta_Army_-_Pit_2_20240806_06.jpg"
     caption: Pit No. 2 of the Terracotta Army
     source: Wikimedia Commons / 沈澄心
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg"
     caption: The Terracotta Army in formation
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0

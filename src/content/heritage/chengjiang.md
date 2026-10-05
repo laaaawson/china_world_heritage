@@ -14,25 +14,25 @@ core_area_km2: 5.12
 buffer_area_km2: 2.20
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
 cover_source: "Wikimedia Commons / xiquinhosilva"
 cover_license: "CC BY 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Chengjiang_Fossil_Site_%2853696054031%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696054031%29.jpg"
     caption: "澄江化石遗址（云南玉溪）"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chengjiang_Fossil_Site_%2853696396404%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696396404%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Chengjiang_Fossil_Site_%2853696396404%29.jpg/1280px-Chengjiang_Fossil_Site_%2853696396404%29.jpg"
     caption: "澄江化石遗址地貌"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Maotianshan_shale_outcrop.JPG/1280px-Maotianshan_shale_outcrop.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Maotianshan_shale_outcrop.JPG/1280px-Maotianshan_shale_outcrop.JPG"
     caption: "帽天山页岩露头——化石赋存地层"
     source: "Wikimedia Commons / Martin Smith"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Retifacies_abnormalis%2C_Chengjiang_biota.jpg/1280px-Retifacies_abnormalis%2C_Chengjiang_biota.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Retifacies_abnormalis%2C_Chengjiang_biota.jpg/1280px-Retifacies_abnormalis%2C_Chengjiang_biota.jpg"
     caption: "澄江生物群化石：网纹虫（Retifacies）"
     source: "Wikimedia Commons / Woudloper"
     license: "CC BY-SA 4.0"

@@ -14,21 +14,21 @@ core_area_km2: 0.52
 buffer_area_km2: 7.3
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg/1280px-Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg/1280px-Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg"
 cover_source: "Wikimedia Commons / Siyuwj"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg/1280px-Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg/1280px-Hongcun%2C_Wuyuan%2C_2021-09-24_01.jpg"
     caption: "宏村南湖与古民居"
     source: "Wikimedia Commons / Siyuwj"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hongcun_1.jpg/1280px-Hongcun_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hongcun_1.jpg/1280px-Hongcun_1.jpg"
     caption: "宏村月沼"
     source: "Wikimedia Commons / EditQ"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/South_Lake_of_Hongcun_20141110.JPG/1280px-South_Lake_of_Hongcun_20141110.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/28/South_Lake_of_Hongcun_20141110.JPG/1280px-South_Lake_of_Hongcun_20141110.JPG"
     caption: "宏村南湖"
     source: "Wikimedia Commons / 颐园新居"
     license: "CC BY-SA 4.0"

@@ -14,7 +14,7 @@ core_area_km2: 6068.33
 buffer_area_km2: 4911.03
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg/1280px-Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg/1280px-Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg"
 cover_source: Wikimedia Commons / N509FZ
 cover_license: "CC BY-SA 4.0"
 
@@ -36,15 +36,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg/1280px-Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg/1280px-Tianshan_Mountains_at_Baicheng_County_%2820230922154816%29.jpg"
     caption: The Tianshan (Baicheng section)
     source: Wikimedia Commons / N509FZ
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Tianshan_Tianchi.jpg/1280px-Tianshan_Tianchi.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Tianshan_Tianchi.jpg/1280px-Tianshan_Tianchi.jpg"
     caption: Tianchi Lake in the Tianshan
     source: Wikimedia Commons / Timothytyy
     license: CC BY 4.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tianshan_Mountains_at_Baicheng_County_%2820230922155115%29.jpg/1280px-Tianshan_Mountains_at_Baicheng_County_%2820230922155115%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tianshan_Mountains_at_Baicheng_County_%2820230922155115%29.jpg/1280px-Tianshan_Mountains_at_Baicheng_County_%2820230922155115%29.jpg"
     caption: The Tianshan range
     source: Wikimedia Commons / N509FZ
     license: "CC BY-SA 4.0"

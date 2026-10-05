@@ -13,7 +13,7 @@ coordinates: [32.4448, 111.0583] # [latitude, longitude]
 core_area_km2: 0.69
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -38,15 +38,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wudang_Mountain_%2854131072151%29.jpg/1280px-Wudang_Mountain_%2854131072151%29.jpg"
     caption: The Golden Summit of Wudang seen from afar
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wudang_Mountain_%2854130227067%29.jpg/1280px-Wudang_Mountain_%2854130227067%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wudang_Mountain_%2854130227067%29.jpg/1280px-Wudang_Mountain_%2854130227067%29.jpg"
     caption: Taoist temples and mountain scenery of Wudang
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wudang_Mountain_%2854131425234%29.jpg/1280px-Wudang_Mountain_%2854131425234%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wudang_Mountain_%2854131425234%29.jpg/1280px-Wudang_Mountain_%2854131425234%29.jpg"
     caption: Temples around Zixiao Palace on Mount Wudang
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0

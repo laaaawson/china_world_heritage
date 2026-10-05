@@ -14,25 +14,25 @@ core_area_km2: 2.44
 buffer_area_km2: 43.25
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
 cover_source: "Wikimedia Commons / Gary Todd"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg/1280px-Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg"
     caption: "秦始皇兵马俑一号坑"
     source: "Wikimedia Commons / Gary Todd"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/20230924_Pit_3_of_Terracotta_Army_03.jpg/1280px-20230924_Pit_3_of_Terracotta_Army_03.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/20230924_Pit_3_of_Terracotta_Army_03.jpg/1280px-20230924_Pit_3_of_Terracotta_Army_03.jpg"
     caption: "兵马俑三号坑"
     source: "Wikimedia Commons / Windmemories"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Terracotta_Army_-_Pit_2_20240806_06.jpg/1280px-Terracotta_Army_-_Pit_2_20240806_06.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Terracotta_Army_-_Pit_2_20240806_06.jpg/1280px-Terracotta_Army_-_Pit_2_20240806_06.jpg"
     caption: "兵马俑二号坑"
     source: "Wikimedia Commons / 沈澄心"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg"
     caption: "兵马俑阵列"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"

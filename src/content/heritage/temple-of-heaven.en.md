@@ -14,7 +14,7 @@ core_area_km2: 2.15
 buffer_area_km2: 31.56
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg/1280px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg/1280px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg"
 cover_source: Wikimedia Commons / Hugh Llewelyn
 cover_license: "CC BY-SA 2.0"
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg/1280px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg/1280px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg"
     caption: The Hall of Prayer for Good Harvests of the Temple of Heaven
     source: Wikimedia Commons / Hugh Llewelyn
     license: "CC BY-SA 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg/1280px-Temple_of_Heaven_-_Beijing_-_June_2012.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg/1280px-Temple_of_Heaven_-_Beijing_-_June_2012.jpg"
     caption: The Imperial Vault of Heaven
     source: Wikimedia Commons / Omer Toledano
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg/1280px-Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg/1280px-Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg"
     caption: The building complex of the Temple of Heaven
     source: Wikimedia Commons / Maros M r a z
     license: "CC BY-SA 3.0"

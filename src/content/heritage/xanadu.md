@@ -14,21 +14,21 @@ core_area_km2: 251.31
 buffer_area_km2: 1507.22
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Xanadu_%2854565544254%29.jpg/1280px-Xanadu_%2854565544254%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Xanadu_%2854565544254%29.jpg/1280px-Xanadu_%2854565544254%29.jpg"
 cover_source: "Wikimedia Commons / xiquinhosilva"
 cover_license: "CC BY 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Xanadu_%2854565544254%29.jpg/1280px-Xanadu_%2854565544254%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Xanadu_%2854565544254%29.jpg/1280px-Xanadu_%2854565544254%29.jpg"
     caption: "元上都遗址"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yuan_Shangdu.jpg/1280px-Yuan_Shangdu.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yuan_Shangdu.jpg/1280px-Yuan_Shangdu.jpg"
     caption: "元上都皇城遗址"
     source: "Wikimedia Commons / Flaumfeder"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Xanadu_%2854565696350%29.jpg/1280px-Xanadu_%2854565696350%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Xanadu_%2854565696350%29.jpg/1280px-Xanadu_%2854565696350%29.jpg"
     caption: "元上都遗址远眺"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"

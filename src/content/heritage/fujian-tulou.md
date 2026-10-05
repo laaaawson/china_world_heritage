@@ -14,21 +14,21 @@ core_area_km2: 1.53
 buffer_area_km2: 9.35
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
 cover_source: "Wikimedia Commons / Gisling"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Snail_pit_tulou.jpg/1280px-Snail_pit_tulou.jpg"
     caption: "田螺坑土楼群（\"四菜一汤\"）"
     source: "Wikimedia Commons / Gisling"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tulou_from_Fujian_-_Aug_2022.jpg/1280px-Tulou_from_Fujian_-_Aug_2022.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tulou_from_Fujian_-_Aug_2022.jpg/1280px-Tulou_from_Fujian_-_Aug_2022.jpg"
     caption: "福建土楼外景"
     source: "Wikimedia Commons / HGShg"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hakka_Round_House_20190818.jpg/1280px-Hakka_Round_House_20190818.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hakka_Round_House_20190818.jpg/1280px-Hakka_Round_House_20190818.jpg"
     caption: "圆形土楼（振成楼风貌）"
     source: "Wikimedia Commons / [unknown]"
     license: "CC BY-SA 2.0"

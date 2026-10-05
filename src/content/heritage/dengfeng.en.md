@@ -14,7 +14,7 @@ core_area_km2: 8.25
 buffer_area_km2: 34.38
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/15404-Dengfeng_%2849067776258%29.jpg/1280px-15404-Dengfeng_%2849067776258%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/15404-Dengfeng_%2849067776258%29.jpg/1280px-15404-Dengfeng_%2849067776258%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -42,19 +42,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/15404-Dengfeng_%2849067776258%29.jpg/1280px-15404-Dengfeng_%2849067776258%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/15404-Dengfeng_%2849067776258%29.jpg/1280px-15404-Dengfeng_%2849067776258%29.jpg"
     caption: Mount Song and Dengfeng
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20241103_Pagoda_Forest_of_Shaolin_Temple_01.jpg/1280px-20241103_Pagoda_Forest_of_Shaolin_Temple_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20241103_Pagoda_Forest_of_Shaolin_Temple_01.jpg/1280px-20241103_Pagoda_Forest_of_Shaolin_Temple_01.jpg"
     caption: Pagoda forest of Shaolin Temple
     source: Wikimedia Commons / Windmemories
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20250608_City_God_Temple_of_Dengfeng_01.jpg/1280px-20250608_City_God_Temple_of_Dengfeng_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20250608_City_God_Temple_of_Dengfeng_01.jpg/1280px-20250608_City_God_Temple_of_Dengfeng_01.jpg"
     caption: City God Temple of Dengfeng
     source: Wikimedia Commons / Windmemories
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/20240709_Nanyue_Temple%2C_Dengfeng_01.jpg/1280px-20240709_Nanyue_Temple%2C_Dengfeng_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/be/20240709_Nanyue_Temple%2C_Dengfeng_01.jpg/1280px-20240709_Nanyue_Temple%2C_Dengfeng_01.jpg"
     caption: "Nanyue Temple, Dengfeng"
     source: Wikimedia Commons / Windmemories
     license: "CC BY-SA 4.0"

@@ -14,7 +14,7 @@ core_area_km2: 154.0
 buffer_area_km2: 469.0
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Leshan_Giant_Buddha_%281%29.jpg/1280px-Leshan_Giant_Buddha_%281%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Leshan_Giant_Buddha_%281%29.jpg/1280px-Leshan_Giant_Buddha_%281%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Leshan_Giant_Buddha_%281%29.jpg/1280px-Leshan_Giant_Buddha_%281%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Leshan_Giant_Buddha_%281%29.jpg/1280px-Leshan_Giant_Buddha_%281%29.jpg"
     caption: The Leshan Giant Buddha
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leshan_Giant_Buddha%2C_20161102.jpg/1280px-Leshan_Giant_Buddha%2C_20161102.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leshan_Giant_Buddha%2C_20161102.jpg/1280px-Leshan_Giant_Buddha%2C_20161102.jpg"
     caption: Panorama of the Leshan Giant Buddha
     source: Wikimedia Commons / 王计
     license: CC BY 2.5
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Leshan_Giant_Buddha_View_from_below.jpg/1280px-Leshan_Giant_Buddha_View_from_below.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Leshan_Giant_Buddha_View_from_below.jpg/1280px-Leshan_Giant_Buddha_View_from_below.jpg"
     caption: The Giant Buddha seen from below
     source: Wikimedia Commons / Blarandion
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Leshan_Giant_Buddha%2C_China%2C_2004_-_StrangeInterlude.jpg/1280px-Leshan_Giant_Buddha%2C_China%2C_2004_-_StrangeInterlude.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Leshan_Giant_Buddha%2C_China%2C_2004_-_StrangeInterlude.jpg/1280px-Leshan_Giant_Buddha%2C_China%2C_2004_-_StrangeInterlude.jpg"
     caption: The Leshan Giant Buddha and the Min River
     source: "Wikimedia Commons / StrangeInterlude from Hamilton, United States"
     license: "CC BY-SA 2.0"

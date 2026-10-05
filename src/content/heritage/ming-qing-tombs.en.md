@@ -14,7 +14,7 @@ core_area_km2: 34.35
 buffer_area_km2: 234.29
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
 cover_source: Wikimedia Commons / Charlie fong
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
     caption: Stele pavilion on the Sacred Way of the Thirteen Ming Tombs
     source: Wikimedia Commons / Charlie fong
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Thirteen_tombs_entance_dagong_gate201909.jpg/1280px-Thirteen_tombs_entance_dagong_gate201909.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Thirteen_tombs_entance_dagong_gate201909.jpg/1280px-Thirteen_tombs_entance_dagong_gate201909.jpg"
     caption: The Dagong Gate of the Thirteen Ming Tombs
     source: Wikimedia Commons / Charlie fong
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/MingTombsReservoir.jpg/1280px-MingTombsReservoir.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/MingTombsReservoir.jpg/1280px-MingTombsReservoir.jpg"
     caption: The area of the Ming Tombs reservoir
     source: Wikimedia Commons / Charlie fong
     license: "CC BY-SA 4.0"

@@ -14,7 +14,7 @@ core_area_km2: 0.2
 buffer_area_km2: 2.11
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dazu_Rock_Carvings_%2854067326757%29.jpg/1280px-Dazu_Rock_Carvings_%2854067326757%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dazu_Rock_Carvings_%2854067326757%29.jpg/1280px-Dazu_Rock_Carvings_%2854067326757%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dazu_Rock_Carvings_%2854067326757%29.jpg/1280px-Dazu_Rock_Carvings_%2854067326757%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dazu_Rock_Carvings_%2854067326757%29.jpg/1280px-Dazu_Rock_Carvings_%2854067326757%29.jpg"
     caption: Cliff sculptures at Dazu
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dazu_rock_carvings_-_Baodingshan%2C_%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%AE%9D%E9%A1%B6%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C_Chongqing%2C_2023_%2853563778808%29.jpg/1280px-Dazu_rock_carvings_-_Baodingshan%2C_%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%AE%9D%E9%A1%B6%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C_Chongqing%2C_2023_%2853563778808%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dazu_rock_carvings_-_Baodingshan%2C_%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%AE%9D%E9%A1%B6%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C_Chongqing%2C_2023_%2853563778808%29.jpg/1280px-Dazu_rock_carvings_-_Baodingshan%2C_%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%AE%9D%E9%A1%B6%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C_Chongqing%2C_2023_%2853563778808%29.jpg"
     caption: Baodingshan cliff sculptures
     source: Wikimedia Commons / JL Cogburn
     license: "CC BY-SA 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_03.jpg/1280px-Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_03.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_03.jpg/1280px-Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_03.jpg"
     caption: Detail of a Dazu rock carving
     source: Wikimedia Commons / Davidmcbride
     license: "CC BY-SA 4.0"

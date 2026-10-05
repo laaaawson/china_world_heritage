@@ -14,7 +14,7 @@ core_area_km2: 166.03
 buffer_area_km2: 295.01
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hani_Rice_Terraces_%2853695149067%29.jpg/1280px-Hani_Rice_Terraces_%2853695149067%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hani_Rice_Terraces_%2853695149067%29.jpg/1280px-Hani_Rice_Terraces_%2853695149067%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hani_Rice_Terraces_%2853695149067%29.jpg/1280px-Hani_Rice_Terraces_%2853695149067%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hani_Rice_Terraces_%2853695149067%29.jpg/1280px-Hani_Rice_Terraces_%2853695149067%29.jpg"
     caption: Layer upon layer of Hani rice terraces
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Hani_Rice_Terraces_%2853695150567%29.jpg/1280px-Hani_Rice_Terraces_%2853695150567%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Hani_Rice_Terraces_%2853695150567%29.jpg/1280px-Hani_Rice_Terraces_%2853695150567%29.jpg"
     caption: Terraces and a village in the mist
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2007_1206_Cleared_Hani_rice_terraces.jpg/1280px-2007_1206_Cleared_Hani_rice_terraces.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2007_1206_Cleared_Hani_rice_terraces.jpg/1280px-2007_1206_Cleared_Hani_rice_terraces.jpg"
     caption: The Yuanyang terraces in view
     source: Wikimedia Commons / Takeaway
     license: "CC BY-SA 4.0"

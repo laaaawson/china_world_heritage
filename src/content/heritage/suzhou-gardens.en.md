@@ -14,7 +14,7 @@ core_area_km2: 0.12
 buffer_area_km2: 0.27
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg/1280px-20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg/1280px-20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg"
 cover_source: "Wikimedia Commons / [unknown]"
 cover_license: "CC BY-SA 4.0"
 
@@ -42,15 +42,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg/1280px-20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg/1280px-20090905_Suzhou_Humble_Administrator%27s_Garden_4550.jpg"
     caption: "Lotus pond of the Humble Administrator's Garden"
     source: "Wikimedia Commons / [unknown]"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg"
     caption: "Bridge and water scenery of the Humble Administrator's Garden"
     source: "Wikimedia Commons / [unknown]"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_02.jpg/1280px-Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_02.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_02.jpg/1280px-Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_02.jpg"
     caption: The Guanyun Peak rockery of the Lingering Garden
     source: Wikimedia Commons / Another Believer
     license: "CC BY-SA 4.0"

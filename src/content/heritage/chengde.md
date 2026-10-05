@@ -13,21 +13,21 @@ coordinates: [40.9875, 117.9375] # [纬度, 经度]
 core_area_km2: 6.11
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chengde_Mountain_Resort_1.jpg/1280px-Chengde_Mountain_Resort_1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chengde_Mountain_Resort_1.jpg/1280px-Chengde_Mountain_Resort_1.jpg"
 cover_source: "Wikimedia Commons / takwing.kwong"
 cover_license: "CC BY-SA 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chengde_Mountain_Resort_1.jpg/1280px-Chengde_Mountain_Resort_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chengde_Mountain_Resort_1.jpg/1280px-Chengde_Mountain_Resort_1.jpg"
     caption: "避暑山庄湖区"
     source: "Wikimedia Commons / takwing.kwong"
     license: "CC BY-SA 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chengde_Mountain_Resort_22686-Chengde_%2843552720970%29.jpg/1280px-Chengde_Mountain_Resort_22686-Chengde_%2843552720970%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chengde_Mountain_Resort_22686-Chengde_%2843552720970%29.jpg/1280px-Chengde_Mountain_Resort_22686-Chengde_%2843552720970%29.jpg"
     caption: "避暑山庄宫殿区"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chengde_Mountain_Resort_3.jpg/1280px-Chengde_Mountain_Resort_3.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chengde_Mountain_Resort_3.jpg/1280px-Chengde_Mountain_Resort_3.jpg"
     caption: "避暑山庄外八庙一带"
     source: "Wikimedia Commons / takwing.kwong"
     license: "CC BY-SA 2.0"

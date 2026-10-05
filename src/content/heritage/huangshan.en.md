@@ -14,7 +14,7 @@ core_area_km2: 160.6
 buffer_area_km2: 490.0
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg"
     caption: Cloud sea and strange peaks of Huangshan
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Anhui_Huangshan.jpg/1280px-Anhui_Huangshan.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Anhui_Huangshan.jpg/1280px-Anhui_Huangshan.jpg"
     caption: Scenery of Mount Huangshan
     source: Wikimedia Commons / Miaulian
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mount-huangshan_53320601421_o.jpg/1280px-Mount-huangshan_53320601421_o.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mount-huangshan_53320601421_o.jpg/1280px-Mount-huangshan_53320601421_o.jpg"
     caption: Strange peaks and rocks of Huangshan
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mount-huangshan_53321064445_o.jpg/1280px-Mount-huangshan_53321064445_o.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mount-huangshan_53321064445_o.jpg/1280px-Mount-huangshan_53321064445_o.jpg"
     caption: Pines and rocks of Huangshan
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0

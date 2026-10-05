@@ -14,21 +14,21 @@ core_area_km2: 5.36
 buffer_area_km2: 111.26
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/20230130_Old_City_of_Quanzhou_01.jpg/1280px-20230130_Old_City_of_Quanzhou_01.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/55/20230130_Old_City_of_Quanzhou_01.jpg/1280px-20230130_Old_City_of_Quanzhou_01.jpg"
 cover_source: "Wikimedia Commons / Windmemories"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/20230130_Old_City_of_Quanzhou_01.jpg/1280px-20230130_Old_City_of_Quanzhou_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/5/55/20230130_Old_City_of_Quanzhou_01.jpg/1280px-20230130_Old_City_of_Quanzhou_01.jpg"
     caption: "泉州古城风貌"
     source: "Wikimedia Commons / Windmemories"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Outside_Quanzhou_Overseas_Relations_Museum.jpg/1280px-Outside_Quanzhou_Overseas_Relations_Museum.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Outside_Quanzhou_Overseas_Relations_Museum.jpg/1280px-Outside_Quanzhou_Overseas_Relations_Museum.jpg"
     caption: "泉州海外交通史博物馆"
     source: "Wikimedia Commons / Siyuwj"
     license: "CC BY-SA 3.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/8/89/Song_Dynasty_Ancient_Ship_of_Quanzhou_Bay_20061229.jpg"
     caption: "泉州湾宋代古船"
     source: "Wikimedia Commons / meckleychina"
     license: "CC BY 2.0"

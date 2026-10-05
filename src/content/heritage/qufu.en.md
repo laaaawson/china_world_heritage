@@ -13,7 +13,7 @@ coordinates: [35.5965, 116.9844] # [latitude, longitude]
 core_area_km2: 1.83
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg"
 cover_source: Wikimedia Commons / Gary Todd
 cover_license: CC0
 
@@ -38,15 +38,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036165885%29.jpg"
     caption: The Confucius Temple at Qufu
     source: Wikimedia Commons / Gary Todd
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813035569695%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813035569695%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813035569695%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813035569695%29.jpg"
     caption: The Dacheng Hall of the Confucius Temple
     source: Wikimedia Commons / Gary Todd
     license: CC0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036298844%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036298844%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036298844%29.jpg/1280px-Kongzi_%28Confucius%29_Temple%2C_Qufu_%2813036298844%29.jpg"
     caption: Architectural detail of the Confucius Temple
     source: Wikimedia Commons / Gary Todd
     license: CC0

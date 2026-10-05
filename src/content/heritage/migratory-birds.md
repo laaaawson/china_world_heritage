@@ -14,25 +14,25 @@ core_area_km2: 2897.11
 buffer_area_km2: 1175.02
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
 cover_source: "Wikimedia Commons / KongFu Wang from Beijing, China"
 cover_license: "CC BY-SA 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Grus_japonensis_Qiqihar.jpg/1280px-Grus_japonensis_Qiqihar.jpg"
     caption: "丹顶鹤（黄渤海湿地代表性候鸟）"
     source: "Wikimedia Commons / KongFu Wang from Beijing, China"
     license: "CC BY-SA 2.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Grus_japonensis_05.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/f/f3/Grus_japonensis_05.jpg"
     caption: "丹顶鹤"
     source: "Wikimedia Commons / マガちゃん"
     license: "CC BY-SA 3.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Saunders%27s_Gull%2C_Diaoyugang%2C_Jiangsu%2C_China_53174278.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/0/04/Saunders%27s_Gull%2C_Diaoyugang%2C_Jiangsu%2C_China_53174278.jpg"
     caption: "黑嘴鸥（江苏沿海）"
     source: "Wikimedia Commons / "
     license: "CC BY 4.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/P%C3%A8re_David%27s_Deer_imported_from_iNaturalist_photo_162354420_on_24_January_2024.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/b/b5/P%C3%A8re_David%27s_Deer_imported_from_iNaturalist_photo_162354420_on_24_January_2024.jpg"
     caption: "麋鹿（沿海湿地）"
     source: "Wikimedia Commons / "
     license: "CC BY 4.0"

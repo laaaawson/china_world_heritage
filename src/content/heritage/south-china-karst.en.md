@@ -14,7 +14,7 @@ core_area_km2: 971.25
 buffer_area_km2: 1762.28
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG/1280px-%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG/1280px-%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG"
 cover_source: "Wikimedia Commons / No machine-readable author provided. Chenyun~commonswiki assumed (based on copyright claims)."
 cover_license: "CC BY-SA 2.5"
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG/1280px-%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG/1280px-%E7%9F%B3%E6%9E%97%E6%AD%A3%E9%97%A8.JPG"
     caption: "Entrance to the Stone Forest, Yunnan"
     source: "Wikimedia Commons / No machine-readable author provided. Chenyun~commonswiki assumed (based on copyright claims)."
     license: "CC BY-SA 2.5"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/%E5%A4%A7%E4%B8%83%E5%AD%94%E5%A4%A9%E7%94%9F%E6%A1%A5.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/0/0d/%E5%A4%A7%E4%B8%83%E5%AD%94%E5%A4%A9%E7%94%9F%E6%A1%A5.jpg"
     caption: "The natural bridge at Daqikong, Libo"
     source: Wikimedia Commons / Antigng
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%E5%B0%8F%E4%B8%83%E5%AD%94%E6%8B%89%E9%9B%85%E7%80%91%E5%B8%83_1.jpg/1280px-%E5%B0%8F%E4%B8%83%E5%AD%94%E6%8B%89%E9%9B%85%E7%80%91%E5%B8%83_1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%E5%B0%8F%E4%B8%83%E5%AD%94%E6%8B%89%E9%9B%85%E7%80%91%E5%B8%83_1.jpg/1280px-%E5%B0%8F%E4%B8%83%E5%AD%94%E6%8B%89%E9%9B%85%E7%80%91%E5%B8%83_1.jpg"
     caption: "Laya Waterfall at Xiaoqikong, Libo"
     source: Wikimedia Commons / Antigng
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E5%B0%8F%E4%B8%83%E5%AD%94%E6%B0%B4%E4%B8%8A%E6%A3%AE%E6%9E%97.jpg/1280px-%E5%B0%8F%E4%B8%83%E5%AD%94%E6%B0%B4%E4%B8%8A%E6%A3%AE%E6%9E%97.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E5%B0%8F%E4%B8%83%E5%AD%94%E6%B0%B4%E4%B8%8A%E6%A3%AE%E6%9E%97.jpg/1280px-%E5%B0%8F%E4%B8%83%E5%AD%94%E6%B0%B4%E4%B8%8A%E6%A3%AE%E6%9E%97.jpg"
     caption: "Water forest at Xiaoqikong, Libo"
     source: Wikimedia Commons / Antigng
     license: "CC BY-SA 4.0"

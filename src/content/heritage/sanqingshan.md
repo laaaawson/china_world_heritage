@@ -14,25 +14,25 @@ core_area_km2: 229.5
 buffer_area_km2: 168.5
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg/1280px-Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg/1280px-Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg"
 cover_source: "Wikimedia Commons / Huangdan2060"
 cover_license: "CC0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg/1280px-Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg/1280px-Sanqing_Mountain_is_surrounded_by_clouds_and_mists3.jpg"
     caption: "三清山云海"
     source: "Wikimedia Commons / Huangdan2060"
     license: "CC0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Cliffs_of_Sanqing_Mountain.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/e/e6/Cliffs_of_Sanqing_Mountain.jpg"
     caption: "三清山花岗岩峰林"
     source: "Wikimedia Commons / Huangdan2060"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mount_Sanqing.JPG/1280px-Mount_Sanqing.JPG"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mount_Sanqing.JPG/1280px-Mount_Sanqing.JPG"
     caption: "三清山巨蟒出山"
     source: "Wikimedia Commons / Zhangzhugang"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/19190-SanQingShan_%2845434925915%29.jpg/1280px-19190-SanQingShan_%2845434925915%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/96/19190-SanQingShan_%2845434925915%29.jpg/1280px-19190-SanQingShan_%2845434925915%29.jpg"
     caption: "三清山风光"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"

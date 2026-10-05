@@ -13,25 +13,25 @@ coordinates: [36.2667, 117.1] # [纬度, 经度]
 core_area_km2: 250.0
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg/1280px-50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg/1280px-50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg"
 cover_source: "Wikimedia Commons / xiquinhosilva"
 cover_license: "CC BY 2.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg/1280px-50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg/1280px-50549-Mount_Tai-Taishan_%E6%B3%B0%E5%B1%B1.jpg"
     caption: "泰山山景"
     source: "Wikimedia Commons / xiquinhosilva"
     license: "CC BY 2.0"
-  - image: "https://upload.wikimedia.org/wikipedia/commons/7/74/%E6%B3%B0%E5%B1%B1_%E5%8D%97%E5%A4%A9%E9%97%A8.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/upload.wikimedia.org/wikipedia/commons/7/74/%E6%B3%B0%E5%B1%B1_%E5%8D%97%E5%A4%A9%E9%97%A8.jpg"
     caption: "泰山南天门"
     source: "Wikimedia Commons / Charlie fong"
     license: "Public domain"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Jade_Emperor_Peak_of_Mount_Tai_%E6%B3%B0%E5%B1%B1%E7%8E%89%E7%9A%87%E9%A1%B6_2007_075.jpg/1280px-Jade_Emperor_Peak_of_Mount_Tai_%E6%B3%B0%E5%B1%B1%E7%8E%89%E7%9A%87%E9%A1%B6_2007_075.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Jade_Emperor_Peak_of_Mount_Tai_%E6%B3%B0%E5%B1%B1%E7%8E%89%E7%9A%87%E9%A1%B6_2007_075.jpg/1280px-Jade_Emperor_Peak_of_Mount_Tai_%E6%B3%B0%E5%B1%B1%E7%8E%89%E7%9A%87%E9%A1%B6_2007_075.jpg"
     caption: "泰山玉皇顶"
     source: "Wikimedia Commons / ╬ಠ益ಠ)"
     license: "CC0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Top_of_Mount_Tai_%28Taishan%29_%E6%B3%B0%E5%B1%B1%E6%9E%81%E9%A1%B6_2007_034.jpg/1280px-Top_of_Mount_Tai_%28Taishan%29_%E6%B3%B0%E5%B1%B1%E6%9E%81%E9%A1%B6_2007_034.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Top_of_Mount_Tai_%28Taishan%29_%E6%B3%B0%E5%B1%B1%E6%9E%81%E9%A1%B6_2007_034.jpg/1280px-Top_of_Mount_Tai_%28Taishan%29_%E6%B3%B0%E5%B1%B1%E6%9E%81%E9%A1%B6_2007_034.jpg"
     caption: "泰山极顶"
     source: "Wikimedia Commons / ╬ಠ益ಠ)"
     license: "CC0"

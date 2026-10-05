@@ -14,7 +14,7 @@ core_area_km2: 9600.84
 buffer_area_km2: 8164.13
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg/1280px-56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg/1280px-56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -36,19 +36,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg/1280px-56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg/1280px-56728-Yunnan%2C_Three_Parallel_Rivers_01.jpg"
     caption: Landscape of the Three Parallel Rivers protected area
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/56762-Yunnan%2C_Three_Parallel_Rivers_02.jpg/1280px-56762-Yunnan%2C_Three_Parallel_Rivers_02.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/9/91/56762-Yunnan%2C_Three_Parallel_Rivers_02.jpg/1280px-56762-Yunnan%2C_Three_Parallel_Rivers_02.jpg"
     caption: Gorges of the Three Parallel Rivers
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Yunnan_China_Tiger-Leaping-Gorge-02.jpg/1280px-Yunnan_China_Tiger-Leaping-Gorge-02.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Yunnan_China_Tiger-Leaping-Gorge-02.jpg/1280px-Yunnan_China_Tiger-Leaping-Gorge-02.jpg"
     caption: "The Tiger-Leaping Gorge"
     source: "Wikimedia Commons / CEphoto, Uwe Aranas"
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Three_Parallel_Rivers_National_Park_banner_Meili_Snow_Mountain_at_Dusk.jpg/1280px-Three_Parallel_Rivers_National_Park_banner_Meili_Snow_Mountain_at_Dusk.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Three_Parallel_Rivers_National_Park_banner_Meili_Snow_Mountain_at_Dusk.jpg/1280px-Three_Parallel_Rivers_National_Park_banner_Meili_Snow_Mountain_at_Dusk.jpg"
     caption: Meili Snow Mountain
     source: "Wikimedia Commons / Meili_Snow_Mountain_at_Dusk.jpg: Kevin Poh derivative work: Danapit"
     license: CC BY 2.0

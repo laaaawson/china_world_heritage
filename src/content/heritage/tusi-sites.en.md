@@ -14,7 +14,7 @@ core_area_km2: 7.81
 buffer_area_km2: 31.25
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
 cover_source: Wikimedia Commons / xiquinhosilva
 cover_license: CC BY 2.0
 
@@ -39,15 +39,15 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hailongtun_Tusi_Fortress_%2854395025213%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854395025213%29.jpg"
     caption: The Hailongtun tusi fortress site
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hailongtun_Tusi_Fortress_%2854394980659%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854394980659%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hailongtun_Tusi_Fortress_%2854394980659%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854394980659%29.jpg"
     caption: City walls of Hailongtun
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hailongtun_Tusi_Fortress_%2854393913262%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854393913262%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hailongtun_Tusi_Fortress_%2854393913262%29.jpg/1280px-Hailongtun_Tusi_Fortress_%2854393913262%29.jpg"
     caption: The Feihu (Flying Tiger) Gate of Hailongtun
     source: Wikimedia Commons / xiquinhosilva
     license: CC BY 2.0

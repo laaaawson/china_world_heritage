@@ -14,21 +14,21 @@ core_area_km2: 34.35
 buffer_area_km2: 234.29
 
 # === 媒体与版权 ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
 cover_source: "Wikimedia Commons / Charlie fong"
 cover_license: "CC BY-SA 4.0"
 
 # === 图集 ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
     caption: "明十三陵神道碑亭"
     source: "Wikimedia Commons / Charlie fong"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Thirteen_tombs_entance_dagong_gate201909.jpg/1280px-Thirteen_tombs_entance_dagong_gate201909.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Thirteen_tombs_entance_dagong_gate201909.jpg/1280px-Thirteen_tombs_entance_dagong_gate201909.jpg"
     caption: "明十三陵大宫门"
     source: "Wikimedia Commons / Charlie fong"
     license: "CC BY-SA 4.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/MingTombsReservoir.jpg/1280px-MingTombsReservoir.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/MingTombsReservoir.jpg/1280px-MingTombsReservoir.jpg"
     caption: "明十三陵水库一带"
     source: "Wikimedia Commons / Charlie fong"
     license: "CC BY-SA 4.0"

@@ -14,7 +14,7 @@ core_area_km2: 33.23
 buffer_area_km2: 72.7
 
 # === Media & Credits ===
-cover_image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090524_Hangzhou_West_Lake_7531.jpg/1280px-20090524_Hangzhou_West_Lake_7531.jpg"
+cover_image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090524_Hangzhou_West_Lake_7531.jpg/1280px-20090524_Hangzhou_West_Lake_7531.jpg"
 cover_source: Wikimedia Commons / Jakub Hałun
 cover_license: "CC BY-SA 3.0"
 
@@ -39,19 +39,19 @@ timeline:
 
 # === Gallery ===
 gallery:
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090524_Hangzhou_West_Lake_7531.jpg/1280px-20090524_Hangzhou_West_Lake_7531.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090524_Hangzhou_West_Lake_7531.jpg/1280px-20090524_Hangzhou_West_Lake_7531.jpg"
     caption: The West Lake of Hangzhou
     source: Wikimedia Commons / Jakub Hałun
     license: "CC BY-SA 3.0"
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/West_Lake%2C_Hangzhou_%28Nine-turn_bridge%29.jpg/1280px-West_Lake%2C_Hangzhou_%28Nine-turn_bridge%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/West_Lake%2C_Hangzhou_%28Nine-turn_bridge%29.jpg/1280px-West_Lake%2C_Hangzhou_%28Nine-turn_bridge%29.jpg"
     caption: "The Nine-Turn Bridge at the West Lake"
     source: Wikimedia Commons / Sekino Tadashi
     license: Public domain
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/West_Lake%2C_Hangzhou_%28Wanzi_Pavilion%29.jpg/1280px-West_Lake%2C_Hangzhou_%28Wanzi_Pavilion%29.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/2/22/West_Lake%2C_Hangzhou_%28Wanzi_Pavilion%29.jpg/1280px-West_Lake%2C_Hangzhou_%28Wanzi_Pavilion%29.jpg"
     caption: The Wanzi Pavilion at the West Lake
     source: Wikimedia Commons / Sekino Tadashi
     license: Public domain
-  - image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/20260424_West_Lake_and_Hangzhou_Skyline.jpg/1280px-20260424_West_Lake_and_Hangzhou_Skyline.jpg"
+  - image: "https://china-world-heritage.pages.dev/img/thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/20260424_West_Lake_and_Hangzhou_Skyline.jpg/1280px-20260424_West_Lake_and_Hangzhou_Skyline.jpg"
     caption: The West Lake and the Hangzhou skyline
     source: Wikimedia Commons / Windmemories
     license: "CC BY-SA 4.0"
