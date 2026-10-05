@@ -63,18 +63,47 @@ official_site: "http://wysgjgy.fujian.gov.cn/"
 # === Homepage feature ===
 featured: false
 ---
+## Prologue · A Raft Enters the Painting
 
-## The Past (I): A Mountain Where Three Teachings Meet
+In the early morning, a thin mist wraps the Nine-Bend River, and the boatman's pole touches the water — the bamboo raft slides from the bank. The bow parts the current, and the red Danxia cliffs recede slowly on either side: water of green, mountains of red, mist of white, like a painting that has just received its final coat of colour.
 
-Mount Wuyi is the "Sixteenth Grotto-Heaven" of Taoism and a holy ground of Buddhism and Neo-Confucianism alike: Taoist adepts practised here in the Wei and Jin periods, and from the late Tang onward Zen temples multiplied. In the Southern Song, Zhu Xi built his Wuyi Academy below Yimping Peak, writing and teaching for more than a decade and bringing Neo-Confucianism to its synthesis — Mount Wuyi became the cradle of Chinese Neo-Confucianism, and scholars such as Cai Yuanding and You Zuo built their huts to follow him.
+This river has carried people for thousands of years. And on its banks lies the secret of a "dual heritage": boat coffins from three thousand years ago on one side, the sound of study from more than eight hundred years ago on the other.
 
-## The Past (II): Hanging Coffins and Rock Tea
+## Three Thousand Years on the Cliff Face
 
-Along the Danxia cliffs on either bank of the Nine-Bend River lie dozens of boat coffins set in precipice caves: the ancient Yue people of some three thousand years ago placed these boat-shaped coffins on sheer cliff faces, and how they did it remains a mystery. Mount Wuyi is also a holy land of Chinese tea: the mother trees of Dahongpao grow in a rock crevice of Jiulong'ao, and the "rock-bone and flower-fragrance" character of its rock tea has made Wuyi one of the birthplaces of the world's black tea.
+In the Shang–Zhou period, the ancient Yue people set their boat-shaped coffins in the caves of the sheer cliffs along the Nine-Bend River — dozens of them, hanging there for more than three thousand years.
 
-## The Present: A Mixed Heritage of Mountain and Water
+The coffins float above the water, touching neither heaven nor earth. Why did the Yue people labour to lift their dead onto the precipices? And how did they place the heavy wooden boats inside the caves? It remains a mystery to this day. Three thousand years have passed; the river still flows, the coffins still hang — the oldest question of Mount Wuyi.
 
-In 1999, Mount Wuyi was inscribed on the World Heritage List under criteria (iii), (vi), (vii) and (x) as a mixed cultural and natural property. Today rafts carry visitors down the Nine-Bend River through Danxia cliffs and tea gardens, while the sea of clouds over Tianyou Peak and the majesty of Dawang Peak remain — mountain and water, academy and incense, tea fragrance and hanging coffins together compose the irreplaceable character of this "dual heritage."
+## The Sixteenth Grotto-Heaven
+
+In the Wei and Jin periods, Taoist adepts traced the river upstream and built their hermitages among the Danxia peaks — and Mount Wuyi acquired its title of the "Sixteenth Grotto-Heaven" of Taoism. From the late Tang onward, Zen temples lined the riverbanks, and the sound of bells and chanting drifted between the valleys.
+
+The incense of three teachings rose on the same mountain: Confucian, Buddhist and Taoist, each letting the others be. Wuyi became one of the few mountains of southern China where three teachings truly gathered in one place.
+
+## Zhu Xi's Academy in the Mountains
+
+In the Southern Song, the great Neo-Confucian scholar Zhu Xi came to Mount Wuyi. In 1183, he built his Wuyi Academy below Yimping Peak, writing and teaching there for more than a decade, bringing Neo-Confucianism to its synthesis. Scholars such as Cai Yuanding and You Zuo built their huts nearby to follow him — and the academy in the mountains became one of the most influential centres of learning of its age.
+
+Mount Wuyi, thus, became the cradle of Chinese Neo-Confucianism.
+
+## A Leaf of Rock Tea
+
+In a rock crevice of Jiulong'ao grow the mother trees of Dahongpao. Their roots sink into the Danxia strata, and sunlight and rain become the richness at the tips of their leaves — the people of Wuyi say that this tea carries "rock-bone and flower-fragrance."
+
+In the Ming dynasty, Wuyi rock tea gained fame and Dahongpao became tribute tea. A wisp of tea fragrance left the mountains, drifting from the valleys of Fujian toward the whole world — Mount Wuyi became one of the birthplaces of the world's black tea.
+
+## A Dual Heritage of Mountain and Water
+
+In 1999, Mount Wuyi was inscribed on the World Heritage List under criteria (iii), (vi), (vii) and (x) — a mixed cultural and natural property.
+
+Today rafts still carry visitors down the Nine-Bend River through Danxia cliffs and tea gardens; the sea of clouds still surges at sunrise over Tianyou Peak; Dawang Peak still guards the river's mouth — mountain and water, academy and incense, tea fragrance and hanging coffins together compose the irreplaceable character of this "dual heritage."
+
+## Epilogue · The River Answers
+
+When the raft turned the third bend, the mist lifted.
+
+Three thousand years ago, the Yue people set their coffins into the cliffs; eight hundred years ago, Zhu Xi set his desk on the riverbank; today, your raft glides between the two. The Nine-Bend River does not speak, yet it answers every question with its water: the mountain remains, the water remains, the mystery remains — and so does the beauty of Wuyi.
 
 ## Outstanding Universal Value (OUV)
 

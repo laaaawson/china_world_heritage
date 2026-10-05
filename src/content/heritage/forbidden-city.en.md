@@ -64,17 +64,41 @@ official_site: "https://www.dpm.org.cn/"
 featured: false
 ---
 
-## The Past (I): Fourteen Years to Build a City
+## Prologue: A Craftsman Gazing at the Meridian Gate
 
-In 1406, the Yongle Emperor ordered a new imperial palace on the ruins of Dadu, the Yuan capital. A hundred thousand craftsmen laboured for fourteen years, completing the Forbidden City in 1420: about 720,000 square metres, more than nine thousand rooms, all of timber — the largest and best-preserved timber-framed palace complex in the world. The legend of the "nine thousand nine hundred and ninety-nine and a half rooms" is itself a fantasy of imperial "supreme power" (jiu wu zhi zun, the number nine of the emperor).
+One morning in 1420, a craftsman stood outside the newly finished Meridian Gate and looked up at the city he had helped raise for fourteen years.
 
-## The Past (II): Twenty-Four Emperors of Two Dynasties
+The glazed tiles burned gold-red in the dawn light, and he felt suddenly dazed: the strength of a hundred thousand artisans and fourteen years of labour had all gone into this sea of roofs. He could not know that two dynasties and twenty-four emperors would rule the world from here; still less that six hundred years later, countless ordinary people would stand outside this gate, looking up, exactly as he did now.
 
-The Forbidden City follows the ritual plan of "court in front, private quarters behind; ancestral temple on the left, altar of soil and grain on the right": beyond the Meridian Gate, the Halls of Supreme Harmony, Central Harmony and Preserving Harmony stand at the centre, the stage of grand ceremonies; behind them, the Palace of Heavenly Purity, the Hall of Union and the Palace of Earthly Tranquillity form the inner court where emperor and empress lived. From Yongle to Xuantong, twenty-four emperors of the Ming and Qing ruled the world from this palace, and every brick on the central axis is engraved with the order of imperial power.
+## Fourteen Years, One City
 
-## The Present: From Forbidden Palace to Museum
+It all began with an edict in 1406: the Yongle Emperor commanded a new imperial palace on the ruins of Dadu, the Yuan capital.
 
-In 1912 the Qing emperor abdicated; in 1925 the Palace Museum was founded, and the Forbidden City opened its gates to the public for the first time. During the War of Resistance, more than 13,000 crates of relics were evacuated south, travelling ten thousand li with barely a loss — a miracle in the history of world heritage protection. In 1987, the Imperial Palaces of the Ming and Qing were inscribed under criteria (i)–(iv), and in 2004 the Shenyang palace was added. Today this palace city receives tens of millions of visitors a year — the most visited museum on Earth.
+A hundred thousand craftsmen laboured for fourteen years, completing the Forbidden City in 1420: about 720,000 square metres, more than nine thousand rooms, all of timber — the largest and best-preserved timber-framed palace complex in the world. The legend of "nine thousand nine hundred and ninety-nine and a half rooms" was a fantasy of the imperial number nine; behind the real numbers stood beams locked by mortise and tenon, layer upon layer of tile, and countless unnamed hands.
+
+## The Order of the Central Axis
+
+The Forbidden City follows the ritual plan of "court in front, private quarters behind; ancestral temple on the left, altar of soil and grain on the right."
+
+Beyond the Meridian Gate, the Halls of Supreme Harmony, Central Harmony and Preserving Harmony stand at the centre — the stage of grand ceremonies; behind them, the Palace of Heavenly Purity, the Hall of Union and the Palace of Earthly Tranquillity form the inner court where emperor and empress lived. From Yongle to Xuantong, twenty-four emperors of the Ming and Qing ruled the world along this central axis — every brick engraved with the order of imperial power.
+
+## The Southward Journey of Thirteen Thousand Crates
+
+In 1912 the Qing emperor abdicated; in 1925 the Palace Museum was founded, and the Forbidden City opened its gates to the public for the first time.
+
+What followed was a page of breathtaking courage: during the War of Resistance, more than 13,000 crates of relics were evacuated south, travelling ten thousand li with barely a loss — a miracle in the history of world heritage protection. The city that had guarded twenty-four emperors used the same strength, in the end, to guard the relics.
+
+## 1987: The City Goes to the World
+
+In 1987, the Imperial Palaces of the Ming and Qing were inscribed on the World Heritage List under criteria (i)–(iv) — among China's first World Heritage properties. In 2004, the Shenyang Imperial Palace was added to the property.
+
+Today this palace city receives tens of millions of visitors a year — the most visited museum on Earth. The opening of those gates long ago became the way a nation salutes its own history.
+
+## Epilogue: The Same Roof
+
+At dusk the visitors depart, and only the pigeons remain in the great square.
+
+Six hundred years ago a craftsman looked up and saw glazed tiles burn gold-red in the light; six hundred years later, you look up at the same roof. A city that once sealed away imperial power, and the strength of countless hands, was only truly finished the day it opened to everyone.
 
 ## Outstanding Universal Value (OUV)
 

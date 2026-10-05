@@ -63,17 +63,41 @@ official_site: "http://www.yindu.gov.cn/2024/07-23/3061237.html"
 featured: false
 ---
 
-## The Past (I): The Great Shang Settlement of Yin
+## Prologue · A Medicine Called "Dragon Bone"
 
-Around 1300 BCE, King Pangeng moved the Shang capital to Yin, and for the following 273 years Yin remained the political centre of the Shang dynasty — the site now known as Yin Xu. Excavations here have revealed palace and ancestral-temple remains, a royal cemetery, handicraft workshops and enormous bronzes: the Houmuwu ding weighs more than 800 kilograms, the heaviest bronze vessel ever found, while the jades and bronzes of Fu Hao's tomb display the luxury of Shang aristocratic life.
+In the late autumn of 1899, in an apothecary in Beijing, an apprentice was grinding dried bones into powder for a prescription. The bones came from the fields around Anyang in Henan, sold under the name "dragon bone" — the seller did not know, the buyer did not know, and even the powder did not know: carved upon them lay the secret of a dynasty, silent for three thousand years.
 
-## The Past (II): A Fragment of Bone That Startled the World
+Until the gaze of the epigrapher Wang Yirong fell upon them.
 
-In 1899, the epigrapher Wang Yirong recognised ancient script on "dragon bones" sold in pharmacies — oracle bone script was discovered, and Chinese documented history was pushed back to the Shang dynasty. About 160,000 oracle bone fragments have been unearthed at Yin Xu, bearing roughly 4,500 distinct characters — one of the world's three great ancient writing systems. Scientific excavation began in 1928, and layer by layer the palaces, royal tombs and chariot pits of Yin Xu have been revealed.
+## The Autumn King Pangeng Crossed the River
 
-## The Present: Shang Civilisation on the World Heritage List
+Set the clock back to about 1300 BCE, and a migration halted on the banks of the Huan River.
 
-In 2006, Yin Xu was inscribed on the World Heritage List under criteria (i), (ii), (iii), (iv) and (vi). Today the oracle bones and bronzes of the Yin Xu Museum show that "Shang" is no longer a few lines in a history book — on the banks of the Huan River, the walls and sacrifices of a dynasty are being awakened piece by piece.
+King Pangeng led his people across the river and raised a city on open ground, calling it Yin. For the 273 years that followed, Yin remained the political centre of the Shang dynasty; generation after generation of Shang kings sacrificed, campaigned and cast bronze here — until the dynasty fell, and the capital crumbled into ash and earth, remembered ever after as "Yin Xu," the ruins of Yin.
+
+## A Dynasty of Bronze and a Queen's Tomb
+
+The glory of Yin Xu can be measured by what the earth has given back.
+
+Palace and ancestral-temple remains, a royal cemetery and handicraft workshops spread along the Huan River, and in the strata lies the peak of China's Bronze Age: the Houmuwu ding weighs more than 800 kilograms, the heaviest bronze vessel ever found — a single tripod casting the weight of royal power. In 1976 the tomb of Fu Hao, the only intact royal Shang tomb ever excavated, was brought to light; its jades and bronzes display the luxury of Shang aristocratic life.
+
+## Wang Yirong's Prescription
+
+In 1899, the epigrapher Wang Yirong recognised ancient script on the "dragon bones" sold as medicine — oracle bone script was discovered, and China's documented history was pushed back to the Shang dynasty.
+
+Since then, about 160,000 oracle bone fragments have been unearthed at Yin Xu, bearing roughly 4,500 distinct characters — one of the world's three great ancient writing systems. In 1928 the first scientific excavation began, and layer by layer the palaces, royal tombs and chariot pits of Yin Xu have been revealed — a dynasty of three thousand years ago, returning piece by piece to the living world.
+
+## Today on the Banks of the Huan River
+
+In 2006, Yin Xu was inscribed on the World Heritage List under criteria (i), (ii), (iii), (iv) and (vi).
+
+Today the oracle bones and bronzes of the Yin Xu Museum show that "Shang" is no longer a few lines in a history book — on the banks of the Huan River, the walls and sacrifices of a dynasty are being awakened piece by piece.
+
+## Epilogue · The Echo of the Dragon Bone
+
+A century ago, the apprentice grinding "dragon bones" into powder did not know that the fragments in his hands carried the opening of China's written history.
+
+Now, standing by the Huan River, watching the carved scratches of the oracle bones keep their silence behind glass, you will understand: the Shang dynasty never vanished. It simply waited — to be read.
 
 ## Outstanding Universal Value (OUV)
 

@@ -56,17 +56,43 @@ official_site: "http://dxs.sg.gov.cn/"
 featured: false
 ---
 
-## The Past (I): How Red Beds Became Red Cliffs
+## Prologue · A Cliff on Fire
 
-Some 70 million years ago, vast thicknesses of red sandstone and conglomerate accumulated in the interior basins of southern China. Later the crust rose, and rivers and rain cut along vertical joints, collapsing and weathering the red beds into cliffs with "flat tops, steep bodies and gentle foothills" — a continuing dialogue between water and stone that has never stopped.
+At dusk the slanting light strikes the red cliff, and the whole mountain seems to catch fire.
 
-## The Past (II): A Name Coined by Chinese Geologists
+You stand at the foot of Danxiashan in Renhua County, Guangdong, and look up: the cliff face is pure red, its summit smooth as a tabletop, its body sheer as a blade, softening at the base into a gentle slope of red earth. This is no ordinary mountain. It stands bare and unapologetic, as if the earth had laid out one of its fiercest memories in full sunlight.
 
-In 1928, the geologist Feng Jinglan surveyed Danxiashan in Renhua county, Guangdong, and for the first time named this red-sandstone landform "Danxia." In 1939, Chen Guoda formally proposed the academic concept of the "Danxia landform." Danxia is a Chinese name that Chinese geologists contributed to the world's geomorphology.
+It is called Danxia. And that name was coined by a Chinese geologist.
 
-## The Present: A Serial Heritage of Six Provinces and Seven Sites
+## A Stroke of Red, Seventy Million Years Old
 
-In 2010, seven areas in six provinces — Danxiashan (Guangdong), Chishui (Guizhou), Langshan (Hunan), Taining (Fujian), Longhushan and Guifeng (Jiangxi), and Jianglangshan (Zhejiang) — joined under the name "China Danxia" and were inscribed on the World Heritage List under criteria (vii) and (viii). From Danxiashan in northern Guangdong to Chishui in northern Guizhou, the seven components together tell the complete evolutionary sequence of the red-bed landform.
+To read this red cliff, turn the clock back to the Cretaceous.
+
+Some 70 million years ago, in the interior basins of southern China, rivers poured their sediment into the lowlands. The climate was hot and dry; iron oxides stained the deposits red, and layer upon layer piled up into vast thicknesses of red sandstone and conglomerate — a stroke of red that the land wrote into its ledger and never allowed to fade.
+
+The real protagonists came later: uplift and erosion. The crust rose slowly; rivers and rain cut down along vertical joints; slabs collapsed, weathered, collapsed again. Over millions of years the red beds were carved into cliffs with flat tops, steep bodies and gentle foothills. No hand made them. They are the outcome of a dialogue between water and stone — a conversation begun in the Cretaceous that has never stopped.
+
+> Every red cliff is an answer written by the earth and running water after endless negotiation.
+
+## 1928: The Birth of a Chinese Name
+
+For a long time, this red mountain had no name of its own.
+
+In 1928, the geologist Feng Jinglan came to Danxiashan in Renhua County, Guangdong, on a survey. Before him spread the layered red beds and sheer cinnabar walls, and for the first time he used the name "Danxia" for this red-sandstone landform — danxia, meaning "rosy cloud glow." In 1939, Chen Guoda formally proposed the academic concept of the "Danxia landform," taking this Chinese word into the vocabulary of world geomorphology.
+
+Danxia is a word that China contributed to the dictionary of earth science. It is not a translation; it is a name taken directly from the land itself.
+
+## 2010: One Red Across Six Provinces, Seven Sites
+
+The red cliffs were never Danxiashan's alone. From northern Guangdong to northern Guizhou, from western Hunan to eastern Zhejiang, the same red-bed landform unfolds province after province.
+
+In 2010, seven areas in six provinces — Danxiashan (Guangdong), Chishui (Guizhou), Langshan (Hunan), Taining (Fujian), Longhushan and Guifeng (Jiangxi), and Jianglangshan (Zhejiang) — joined under the name "China Danxia" and were inscribed on the World Heritage List under criteria (vii) and (viii). Seven components, like seven seals, together stamp one complete book of red-bed evolution: from deposition and uplift to erosion, the whole life of the Danxia landform has been preserved here on the original ground.
+
+## Epilogue · Dusk on the Red Cliff
+
+Dusk has come again, and the red cliff is redder than before.
+
+Seventy million years on, water still cuts, rock still collapses, the mountain still grows. Danxia is not a finished sculpture but an ongoing geological narrative. And the name coined in 1928, remembered by the world in 2010, is only a brief human aside in the land's long conversation.
 
 ## Outstanding Universal Value (OUV)
 

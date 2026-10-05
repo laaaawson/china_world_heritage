@@ -64,17 +64,43 @@ official_site: "http://www.zgsr.gov.cn/"
 featured: false
 ---
 
-## The Past (I): A Granite Epic of Peak Forest
+## Prologue: Stones Above the Clouds
 
-Mount Sanqingshan lies in Shangrao, Jiangxi, named for its three peaks — Yujing, Yuxu and Yuhua — which sit "like the Three Pure Ones in array." A granite mass formed hundreds of millions of years ago has been carved by uplift, jointing and weathering into peaks, stone columns, gorges and rock niches: the Giant Python Emerging from the Mountain, the Goddess of Spring, Guanyin Appreciating the Melody and other fantastic pinnacles are vividly lifelike — a natural "granite museum." The plank paths of the West Coast and the Sunshine Coast hang on sheer cliffs; at sunrise above the sea of clouds, the peaks appear like the immortal isles of the sea.
+At dawn one early autumn, a hiker stood on the plank path of the West Coast of Mount Sanqingshan.
 
-## The Past (II): The First Daoist Immortal Mountain
+Beneath his feet was a bottomless gorge; before him, a rolling sea of clouds. Suddenly a rift opened in the clouds — a granite pillar burst through, rising like a python lifting its head from the mountain's body. He held his breath as the "Giant Python Emerging from the Mountain" caught a rim of golden light at sunrise.
 
-In the Eastern Jin, Ge Hong built a hermitage here to refine elixirs, beginning the mountain's Daoist history. From the Song dynasty, the Daoist temples of Sanqingshan multiplied; the Sanqing Temple rebuilt in the Jingtai era of the Ming became the centre of the Quanzhen (Complete Perfection) school — more than two hundred halls and shrines survive on the mountain. The Daoist philosophy of "the Way follows nature" answers to the peak forest and sea of clouds: the mountain is the sanctuary, and the sanctuary is the landscape.
+What he did not know was this: for this single moment, the mountain had been waiting for hundreds of millions of years.
 
-## The Present: A World Natural Heritage
+## A Carving of Ten Thousand Years
 
-In 2008, Mount Sanqingshan was inscribed on the World Heritage List under criterion (vii), and its granite peak-forest landform has been hailed as "the textbook of the world's granite peak forests." Today, the plank paths, cable cars and seas of clouds turn this thousand-year Daoist mountain into a "journey above the clouds" for countless visitors.
+Hundreds of millions of years ago, this place was nothing but a granite mass buried deep underground.
+
+Through the long ages the rock rose and rose; joints cut through it like blades; rain and weathering wore it away layer by layer. Nature's carving was never in a hurry — it took aeons to shape the rock into what we see today: peaks rising like swords and bamboo shoots, stone columns piercing the sky, deep gorges, and niches set here and there. The "Giant Python Emerging from the Mountain," the "Goddess of Spring," "Guanyin Appreciating the Melody" — one fantastic pinnacle after another, as lifelike as if someone had staged a frozen drama among the mountains. This is a natural "granite museum," and every stone is a manuscript written by time.
+
+## Ge Hong's Elixir Furnace
+
+In the Eastern Jin, a Daoist master came here to build a hermitage and refine elixirs.
+
+His name was Ge Hong, a celebrated alchemist in the history of Daoism. In a humble hut among the peaks, he kept watch over his furnace while the clouds came and went and the peak forest brightened and dimmed. The furnace's flame has long since gone out — but the trace this master left behind gave Mount Sanqingshan its first breath of the "Way." For a thousand years and more, Daoists followed in his footsteps up the mountain, and temple after temple rose among the crags.
+
+## The Bell of the Sanqing Temple
+
+From the Song dynasty onward, the Daoist temples of Sanqingshan multiplied; the incense never ceased, and the mountain became a celebrated Daoist mountain south of the Yangtze.
+
+In the Jingtai era of the Ming, the Sanqing Temple was rebuilt on the mountain, and on the day of its completion it became the centre of the Quanzhen (Complete Perfection) school. For five hundred years since, halls and shrines have spread across the slopes, and more than two hundred survive to this day. The Daoists carved the words "the Way follows nature" into the mountain rock, and they carved the relation between man and mountain into the very orientation of their buildings — the mountain is the sanctuary, and the sanctuary is the landscape.
+
+## 2008: A Textbook of Granite
+
+In 2008, Mount Sanqingshan was inscribed on the World Heritage List under criterion (vii).
+
+What the World Heritage Committee prized was the irreplaceable geomorphological value of this granite peak forest — its form, combination and beauty, hailed as "the textbook of the world's granite peak forests." Today the plank paths of the West Coast and the Sunshine Coast hang on sheer cliffs, cable cars carry visitors up into the sea of clouds, and the main peak Yujing at 1,819.9 metres turns this thousand-year Daoist mountain into a "journey above the clouds" for countless travellers.
+
+## Epilogue: When the Clouds Part
+
+At dawn again, the sea of clouds wells up from the valley and floods over the plank path of the West Coast.
+
+When the clouds part, the pillar bursts through once more, like a python lifting its head. And you understand at last: the day this mountain waited for was never the day it was inscribed on a list — it was every moment a visitor held his breath and watched the pillar pierce the clouds. Hundreds of millions of years of waiting, and at last someone understood.
 
 ## Outstanding Universal Value (OUV)
 

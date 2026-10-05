@@ -59,17 +59,43 @@ official_site: "http://www.qufu.gov.cn/"
 featured: false
 ---
 
-## The Past (I): From Home to Holy Temple
+## Prologue: The Sound of the Lute on Queli Street
 
-After Confucius died, Duke Ai of Lu converted his residence into a temple, "to offer sacrifice through the seasons" — this is the origin of the Kong Temple. Over the next two thousand years, emperors and ministers enlarged it without cease: Emperor Gaozu of the Han offered the grand sacrifice; Emperor Xuanzong of the Tang posthumously styled Confucius "King Wenxuan"; and the Song, Yuan, Ming and Qing dynasties added titles and expansions again and again. Today the temple covers about 140,000 square metres with 466 halls, ranking with the Forbidden City in Beijing and the Mountain Resort in Chengde as China's three great ancient building complexes.
+One afternoon two and a half thousand years ago, on Queli Street in the Lu capital of Qufu, a group of young men sat in a circle beneath an apricot tree.
 
-## The Past (II): The Mansion and Cemetery of a Sage's Family
+The thin, middle-aged man beneath the tree was strumming his lute and chanting the Odes, line by line. His voice was not loud, yet every word sank into the hearts of his listeners. The disciples who left that circle later scattered across the warring states, carrying his words to the four directions. No one then imagined that the sound of the lute beneath that apricot tree would grow into the longest echo in two and a half thousand years of Chinese history.
 
-Beside the temple, the Kong Mansion is the hereditary residence of Confucius' direct descendants, unbroken for nearly a millennium since the title Duke Yansheng was conferred in the Northern Song; the Kong Cemetery is the family burial ground of Confucius and his descendants, covering about two hundred hectares with thirty thousand ancient trees — the longest-enduring and largest family cemetery in the world. Temple, mansion and cemetery in one: the temple for worship, the mansion for the family, the cemetery for burial — a complete "sage family" space.
+## The Home That Became a Temple
 
-## The Present: Living Heritage of the Confucian Tradition
+In 479 BCE, Confucius died in the state of Lu.
 
-In 1994, the Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu were inscribed on the World Heritage List under criteria (i)(ii)(vi). Today, on the anniversary of Confucius' birth each year, Confucian scholars around the world gather at Qufu for the grand sacrificial ceremony; the sound of the lute at the Apricot Altar has faded, but the spirit of "teaching without class distinction" and "learning without satiety" is still passed from generation to generation among the halls of the Three Kongs.
+The following year, Duke Ai of Lu converted his residence into a temple, "to offer sacrifice through the seasons" — and so the Kong Temple was born. At first it was only a courtyard commemorating a teacher; but across the two thousand years that followed, the titles of emperors and the steles of ministers piled up layer upon layer, turning one former home into the grandest temple of a sage under heaven.
+
+## The Imperial Sacrifice
+
+In 195 BCE, Emperor Gaozu of the Han offered the grand sacrifice (tailao) to Confucius — the beginning of imperial veneration.
+
+From that moment, the fate of the Kong Temple was bound to the rise and fall of dynasties: Emperor Xuanzong of the Tang posthumously styled Confucius "King Wenxuan," and the Song, Yuan, Ming and Qing added titles and expansions again and again. Today the temple covers about 140,000 square metres with 466 halls, ranking with the Forbidden City in Beijing and the Mountain Resort in Chengde as China's three great ancient building complexes.
+
+A teacher who lived in straitened circumstances, crowned again and again by emperors after his death — few teachers in China, or anywhere in the world, have ever been so honoured.
+
+## A Mansion and a Forest
+
+Beside the temple, the Kong Mansion is the hereditary residence of Confucius' direct descendants, unbroken for nearly a millennium since the title Duke Yansheng was conferred in the Northern Song — generation after generation of the Kong family grew up, married and passed on their learning in the same courtyards.
+
+The Kong Cemetery, in turn, is the family burial ground of Confucius and his descendants, covering about two hundred hectares with thirty thousand ancient trees. The earliest of those cypresses were planted at the master's grave by his own disciples — trees planted by disciples, grown into the longest-enduring and largest family cemetery in the world. The temple for worship, the mansion for the family, the cemetery for burial: the "Three Kongs" form a complete "sage family" space.
+
+## After the Apricot Altar
+
+In 1994, the Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu were inscribed on the World Heritage List under criteria (i)(ii)(vi).
+
+Today, each year on the anniversary of Confucius' birth, Confucian scholars from around the world gather at Qufu for the grand sacrificial ceremony; students from every land walk into the temple and recite the same sentences among the same halls. The sound of the lute at the Apricot Altar has faded, but "teaching without class distinction" and "learning without satiety" still grow upon every stone column of the Three Kongs.
+
+## Epilogue: The Wind at the Apricot Altar
+
+Two and a half thousand years ago, young men sat in a circle beneath an apricot tree.
+
+Two and a half thousand years later, you walk into the Kong Temple at Qufu; the wind moves through the branches of the ancient cypresses with a soft rustle — and for a moment you seem to hear again the lute of that thin, middle-aged man. He never imagined his teachings would shape a civilisation; and it is precisely that "never imagined" that makes every generation willing to hear his words once more.
 
 ## Outstanding Universal Value (OUV)
 

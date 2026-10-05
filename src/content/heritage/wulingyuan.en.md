@@ -64,17 +64,49 @@ official_site: "http://www.zjj.gov.cn/c32/20231213/i841185.html"
 featured: false
 ---
 
-## The Past (I): The Birth of a Stone Forest
+## Prologue: Pillars in the Mist
 
-About 350 million years ago, the Wulingyuan area lay beneath a shallow sea, whose floor received quartz sandstone hundreds of metres thick. Later the crust rose; streams eroded along the vertical joints, undercutting and collapsing the sandstone into more than three thousand stone pillars — the tallest over two hundred metres, hewn as if by knife and axe, a sandstone pillar landscape almost unknown elsewhere on Earth. The Golden Whip Stream threads among them, and when mist wraps the peaks, the whole range looms and vanishes like a fairy realm.
+At dawn, thick mist fills the valleys of Wulingyuan.
 
-## The Past (II): From Hidden Land to National Park
+A mountain keeper stands on the track, watching the stone pillars rise out of the fog one by one — like swords, like brushes, like screens, the tallest more than two hundred metres high. He has kept watch among these peaks for most of his life, yet he still cannot say what hand carved these stones that look hewn by knife and axe.
 
-For ages Wulingyuan lay hidden in the deep mountains of western Hunan. In 1982 the Zhangjiajie National Forest Park was founded — the first national forest park in China. The "Hallelujah Mountain" of the film *Avatar* was modelled on the Southern Heaven Pillar of Wulingyuan, and with it this hidden land stepped onto the world stage.
+The answer lies in no human hand. It lies three hundred and fifty million years away.
 
-## The Present: On the Road to World Natural Heritage
+## Three Hundred and Fifty Million Years Beneath the Sea
 
-In 1992, the Wulingyuan Scenic and Historic Interest Area was inscribed on the World Heritage List under criterion (vii), covering the three scenic zones of Zhangjiajie, Suoxiyu and Tianzi Mountain. Today the Bailong elevator, the glass walkways and three thousand fantastic peaks have made Wulingyuan the world's ambassador of "Zhangjiajie landform" — this masterwork of nature belongs to all humanity.
+Three hundred and fifty million years ago, the Wulingyuan area lay beneath a shallow sea. On the seabed, quietly, quartz sandstone hundreds of metres thick was laid down, layer upon layer — no one saw it, no one named it; only water, patiently stacking rock.
+
+Those sandstones are the raw material of the more than three thousand pillars that stand here today.
+
+## Sculpted by Water and Wind
+
+Since the Cenozoic, the crust has risen and the sea has retreated. Streams eroded along the vertical joints of the rock, cutting and hollowing it out; cliff faces collapsed and peeled away under their own weight — eons of water and wind worked like a tireless sculptor, carving the whole formation into more than three thousand stone pillars, the tallest over two hundred metres. The Golden Whip Stream threads among them, and when mist wraps the peaks, the whole range looms and vanishes like a fairy realm.
+
+Later, geologists gave this kind of landscape a name: "Zhangjiajie landform."
+
+## 1982: China's First National Forest Park
+
+For ages, this forest of stone lay hidden in the deep mountains of western Hunan, known to few.
+
+In 1982, the Zhangjiajie National Forest Park was founded — China's first national forest park. From then on the footsteps on the mountain paths multiplied: botanists, photographers, the first tourists. The hidden land began to open to the world.
+
+## The Mountain Called Hallelujah
+
+The moment Wulingyuan truly stepped onto the world stage came with a film.
+
+The "Hallelujah Mountain" of *Avatar* was modelled on the Southern Heaven Pillar of Wulingyuan — a stone pillar that seems to hang in the air, giving audiences around the globe their first direct sight of "Zhangjiajie landform." When the images travelled the world, this stone forest hidden in western Hunan at last entered the world's view.
+
+## 1992: Wonderful Peaks Belonging to All Humanity
+
+In 1992, the Wulingyuan Scenic and Historic Interest Area was inscribed on the World Heritage List under criterion (vii), covering the three scenic zones of Zhangjiajie, Suoxiyu and Tianzi Mountain.
+
+Today the Bailong elevator, the glass walkways and three thousand fantastic peaks have made Wulingyuan the world's ambassador of "Zhangjiajie landform." This masterwork of nature belongs to all humanity.
+
+## Epilogue: When the Mist Parts
+
+At dawn the mist rises again, and the three thousand pillars float out of the fog once more.
+
+The mountain keeper has watched for most of his life, and now at last he understands: the hand that carved these peaks was never a god. It was three hundred and fifty million years of time, and water and wind that never stopped. And all we can do is keep watch over this heritage — for all humanity.
 
 ## Outstanding Universal Value (OUV)
 

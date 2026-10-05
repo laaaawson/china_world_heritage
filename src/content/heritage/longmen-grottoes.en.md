@@ -60,17 +60,49 @@ official_site: "http://www.lmsk.cn/"
 featured: false
 ---
 
-## The Past (I): The First Chisel After the Move to Luoyang
+## Prologue: Ten Thousand Gazes by the Yi River
 
-In 493 CE, Emperor Xiaowen of the Northern Wei moved the capital to Luoyang and ordered the opening of grottoes on Longmen Mountain, on both banks of the Yi River — Guyang Cave is among the earliest surviving. The imperial house of the Northern Wei was devoted to Buddhism, and the Binyang Caves, the Lotus Cave and others followed one after another; the slender, elegant figures and loose flowing robes of the niches are the artistic projection of the Northern Wei's sinicisation reforms.
+At dusk, the Yi River draws out the long reflection of Longmen Mountain.
 
-## The Past (II): The Smile of Vairocana
+On the cliff face, a hundred thousand Buddha images gaze down at the water. They have sat here for fifteen hundred years — carved under the Northern Wei, under the High Tang, by emperors, by craftsmen. No one can say who first pressed a chisel to the rock; all anyone knows is that once the first blow had fallen, the stone began to house the Buddha.
 
-The peak of Longmen came in the Tang dynasty. In 672 CE, Wu Zetian donated "20,000 strings of her cosmetics allowance" for the building of the Fengxian Temple; four years later the principal image, the Great Vairocana Buddha, was completed — 17.14 metres tall, dignified and compassionate of face, with a faint smile at the corners of the mouth, called by researchers "the most beautiful smile in the East." With more than 1,200 Tang niches, including the Ten Thousand Buddha Cave and the Qianxi Temple, Longmen became the great synthesis of Tang Buddhist art.
+## 493 CE: The First Chisel After the Move
 
-## The Present: A Thousand Years of Water and Fire
+In 493 CE, Emperor Xiaowen of the Northern Wei moved his capital to Luoyang.
 
-The Longmen Grottoes preserve 2,345 niches and more than one hundred thousand statues. Since the 20th century, theft and chiselling have damaged some figures; yet the great Buddha of the Fengxian Temple, through all vicissitudes, still smiles. In 2000, the Longmen Grottoes were inscribed on the World Heritage List under criteria (i)(ii)(iii), ranking with the Mogao Caves at Dunhuang and the Yungang Grottoes as China's three great grotto sites.
+This emperor of sinicisation ordered grottoes to be opened on Longmen Mountain, on both banks of the Yi River — Guyang Cave is among the earliest to survive. The Binyang Caves and the Lotus Cave followed one after another; the figures in the niches are slender and elegant, their robes loose and flowing, falling like ink-wash — the artistic projection of the Northern Wei's sinicisation reforms. A dynasty laid aside its steppe garb and carved its rites and ideals into the cliff.
+
+## Twenty Years at Binyang
+
+The Northern Wei's chisels rang on for decades.
+
+The Binyang Caves took more than twenty years to complete and stand as the great synthesis of Northern Wei grotto art. What one generation of craftsmen could not finish, the next carried on — on the cliff of Longmen, no blow was ever struck in haste.
+
+## The Smile of Vairocana
+
+The peak of Longmen came in the Tang dynasty.
+
+In 672 CE, Wu Zetian donated "20,000 strings of her cosmetics allowance" for the building of the Fengxian Temple; four years later the principal image was completed — the Great Vairocana Buddha, 17.14 metres tall, dignified and compassionate of face, with a faint smile at the corners of the mouth, called by researchers "the most beautiful smile in the East." Around it, more than 1,200 Tang niches — the Ten Thousand Buddha Cave, the Qianxi Temple and many more — were opened in succession, making Longmen the great synthesis of Tang Buddhist art.
+
+> The imperial grandeur of Luoyang and the solemnity of the Buddhist realm flow together on one cliff face.
+
+## A Thousand Years of Water and Fire
+
+For fifteen hundred years the Yi River has risen and fallen; dynasties have risen and fallen with it.
+
+In the 20th century, the sound of thieves' chisels rang through the cliff once more, and some figures were damaged. Yet the great Buddha of the Fengxian Temple, through all vicissitudes, still smiles. It has seen the splendour of imperial patronage and the shadows of looters — and never changed the curve of its lips.
+
+## 2000: From Luoyang to the World
+
+In 2000, the Longmen Grottoes were inscribed on the World Heritage List under criteria (i), (ii) and (iii), ranking with the Mogao Caves at Dunhuang and the Yungang Grottoes as China's three great grotto sites.
+
+Today, the Longmen Grottoes preserve 2,345 niches and more than one hundred thousand statues. Visitors walk along the Yi River and look up to meet the gaze on the cliff — and perhaps that craftsman of fifteen hundred years ago, if he were here, would look up too, to see the Buddhas he had carved.
+
+## Epilogue: The Smile Remains
+
+At dusk, the Yi River still draws out the long reflection of Longmen.
+
+A hundred thousand Buddhas still gaze at the water, and Vairocana still smiles. Stone cannot speak, but it remembers the force of every blow, the wish of every dynasty — and the gaze of every generation that has looked up.
 
 ## Outstanding Universal Value (OUV)
 

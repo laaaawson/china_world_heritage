@@ -67,17 +67,41 @@ official_site: "http://www.zkd.cn"
 featured: false
 ---
 
-## The Past (I): Firelight Seven Hundred Thousand Years Ago
+## Prologue · The Evening of December 1929
 
-About 700,000 years ago, a band of Homo erectus lived in the caves of Longgushan (Dragon Bone Hill) at Zhoukoudian: they flaked stone tools, hunted thick-jawed deer, and the thick layers of ash in the caves show that they were among the earliest users of fire. The skull of "Peking Man" is low and flat, with heavy brow ridges and a brain capacity of about 1,000 millilitres — midway between ape and man — a crucial link in the chain of human evolution.
+On an evening in December 1929, deep inside the caves of Longgushan at Zhoukoudian, near Beijing, the cold bit hard.
 
-## The Past (II): The Handful of Earth in 1929
+The young scholar Pei Wenzhong had been crouching all day in a cave ten metres deep. Just as the light was failing, he cupped in his hands a complete skullcap — a low, flat skull with heavy brow ridges. It had slept for seven hundred thousand years, and now, for the first time, it stood whole before the modern world.
 
-Fossil clues were found at Longgushan in 1921; in December 1929 the young scholar Pei Wenzhong, working in a cave ten metres deep, brought out the first complete skullcap of Peking Man — news that shook the world. Later finds of Upper Cave Man (about 30,000 years ago) and great quantities of stone and bone tools made Zhoukoudian one of the world's most important palaeoanthropological sites. In 1941, five skullcaps disappeared mysteriously while being moved on the eve of the Pacific War, and have never been found — the greatest unsolved case in the history of world archaeology.
+## Firelight Seven Hundred Thousand Years Ago
 
-## The Present: A Sanctuary of Human Evolution
+Seven hundred thousand years ago, a band of Homo erectus made their home in the caves of Longgushan.
 
-In 1987, the Peking Man Site at Zhoukoudian was inscribed on the World Heritage List under criteria (iii) and (vi), among China's first World Heritage properties. Today the caves of Longgushan and the reconstructed busts of Peking Man stand in quiet witness to the first steps of humanity out of ignorance — and the vanished skullcaps still remind the world that this shared history deserves to be searched for, always.
+They flaked stone tools and hunted thick-jawed deer, and the thick layers of ash in the caves show that they were among the earliest users of fire. The face the firelight revealed had a low flat skull and heavy brow ridges, with a brain capacity of about 1,000 millilitres — midway between ape and man. Later researchers gave them a name: "Peking Man" — a crucial link in the chain of human evolution.
+
+## The Hammer on Dragon Bone Hill
+
+In 1921, the Swedish scholar Johan Gunnar Andersson and the Austrian palaeontologist Otto Zdansky surveyed Zhoukoudian and found fossil clues at Longgushan — planting the first suspicion that ancient humans might have lived here.
+
+For eight years the excavations went on, season after season. In December 1929, the handful cupped by Pei Wenzhong turned "Peking Man" from fossils into a world headline. Later finds of Upper Cave Man (about 30,000 years ago) and great quantities of stone and bone tools made Zhoukoudian one of the world's most important palaeoanthropological sites.
+
+## The Skulls That Vanished
+
+In 1941, on the eve of the Pacific War, the Peking Man fossils disappeared mysteriously while being moved — five skullcaps, lost forever.
+
+It is the greatest unsolved case in the history of world archaeology. Soldiers, scholars and institutions have offered no answer; only legends circulate — some say they lie buried beneath a station platform, some say they rest at the bottom of the sea. The ancestors of seven hundred thousand years ago vanished into time once more.
+
+## Today · A Sanctuary of Human Evolution
+
+In 1987, the Peking Man Site at Zhoukoudian was inscribed on the World Heritage List under criteria (iii) and (vi), among China's first World Heritage properties.
+
+Today the caves of Longgushan and the reconstructed busts of Peking Man stand in quiet witness to the first steps of humanity out of ignorance — and the vanished skullcaps still remind the world that this shared history deserves to be searched for, always.
+
+## Epilogue · The Skulls Still to Come Home
+
+When Pei Wenzhong cupped that skullcap out of the cave on that December evening in 1929, he cannot have imagined that twelve years later it would vanish again.
+
+But memory does not vanish. As long as anyone stands before Longgushan, the firelight of seven hundred thousand years ago will keep burning — waiting for the five skullcaps to come home.
 
 ## Outstanding Universal Value (OUV)
 

@@ -63,17 +63,43 @@ official_site: "http://www.lushangeopark.com/"
 featured: false
 ---
 
-## The Past (I): The Trio of Buddhism, Daoism and Confucianism
+## Prologue: A Voice in the Mist
 
-Lushan is China's cultural mountain: in the Eastern Jin, the eminent monk Huiyuan formed a society at Donglin Temple, and the Pure Land school arose from it; Li Bai's "flying torrent plummets three thousand feet" describes the Xiufeng waterfall, and Su Shi's "you cannot know Lushan's true face" says all of philosophy; the state academy founded under the Southern Tang evolved by the Song dynasty into the White Deer Grotto Academy — Zhu Xi drew up the "White Deer Grotto Regulations" here, and the academy became "the first among all academies under heaven."
+On an autumn morning, in the pine grove before the White Deer Grotto Academy, a student pushed open a wooden window and began to recite aloud. Mist climbed the ridgeline, wrapping the sound of reading, the bells of Donglin Temple and the rooftops of the Guling villas in the same pale white.
 
-## The Past (II): The Modern Vicissitudes of Guling
+He could not have known that this mist-wrapped mountain had been "speaking" for more than a thousand years — the chanting of monks, the voices of scholars, poems and the bugles of conferences all layered upon the same stone slopes. Of all the mountains under heaven, none is more wondrous than Kuanglu. Lushan was never merely a mountain.
 
-In 1895, the British missionary Edward Selby Little leased Guling and opened a summer villa resort; British, American, German and Russian residents built hundreds of villas in every style, making Lushan a celebrated international summer resort. In 1937, Chiang Kai-shek delivered his wartime statement at Lushan, declaring that "north or south, old or young, none shall stand aside"; in 1959, 1961 and 1970, the three Lushan Conferences of the Central Committee of the Communist Party of China brought this celebrated mountain into the history of modern China.
+## The Lantern of Huiyuan
 
-## The Present: Heritage and Protection
+In 386 CE, the eminent monk Huiyuan built Donglin Temple on Lushan, formed a society for reciting the Buddha's name, and the Pure Land school arose from it.
 
-In 1996, Lushan was inscribed on the World Heritage List under criteria (ii)(iii)(iv)(vi), among China's first cultural landscape properties. Today, more than seven hundred modern villas coexist on the mountain with a millennium of academies and temples; the morning mist of Guling Street and the sound of pines at the White Deer Grotto continue the story of this "holy mountain of humanity."
+It was an age of turmoil, with war smoke lingering across the north, yet Huiyuan found on this southern mountain a place to settle his faith. Tradition says he dug a lotus pond before the temple and planted it with lotus, vowing with his fellows to be reborn in the Pure Land — and the Buddhist voice has echoed through the valleys of Lushan for sixteen centuries. Donglin Temple was the first lamp of the Pure Land school in China.
+
+## The Reading of Zhu Xi
+
+More than five hundred years later, in 940, the Southern Tang established a state academy at Lushan; by the Song dynasty it had become the White Deer Grotto Academy.
+
+Centuries afterwards, the Neo-Confucian master Zhu Xi drew up the "White Deer Grotto Regulations" here, and the academy became "the first among all academies under heaven." The voice of reading fell into the pines, and the pines carried it back — this is Lushan's quietest and most enduring sound.
+
+But Lushan has more than one voice. Li Bai wrote of the Xiufeng waterfall that "the flying torrent plummets three thousand feet," and Su Shi, lost in the clouds, asked why "you cannot know the true face of Lushan" — a poem, an aphorism, each a footnote this mountain has left in Chinese culture.
+
+## The Villas and the Bugle of Guling
+
+In 1895, the British missionary Edward Selby Little leased Guling and opened a summer villa resort. British, American, German and Russian residents built hundreds of villas in every style, and the scent of Western coffee began to drift through the morning mist of Lushan.
+
+In 1937, Chiang Kai-shek delivered his wartime statement at Lushan, declaring that "north or south, old or young, none shall stand aside"; in 1959, 1961 and 1970, the three Lushan Conferences of the Central Committee of the Communist Party of China brought this celebrated mountain into the history of modern China. Beside the voices of the Buddha, Lushan had gained another sound — the bugle of an age.
+
+## The Mountain That Never Changed
+
+In 1996, Lushan was inscribed on the World Heritage List under criteria (ii)(iii)(iv)(vi), among China's first cultural landscape properties.
+
+Today, more than seven hundred modern villas coexist on the mountain with a millennium of academies and temples: the morning mist of Guling Street is still there, the sound of pines at the White Deer Grotto is still there, the bells of Donglin Temple are still there. The world below has changed generation after generation; this mountain has kept the voices of sixteen centuries exactly as they were.
+
+## Epilogue: After the Mist Lifts
+
+When the mist lifted, the student's reading went on.
+
+For sixteen centuries, the mist of Lushan has scattered and gathered, gathered and scattered; and the reading, the bells and the bugles among the mountains have never stopped. That is the everyday life of a holy mountain of humanity — it says nothing, yet gives every voice a place to rest.
 
 ## Outstanding Universal Value (OUV)
 

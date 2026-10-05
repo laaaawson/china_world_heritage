@@ -58,17 +58,45 @@ official_site: "http://www.djy.gov.cn/"
 featured: false
 ---
 
-## The Past (I): The Millennial Miracle of Damless Diversion
+## Prologue: Two Cuts in the Min River
 
-In 256 BCE, Li Bing and his son, of the Qin commandery of Shu, directed the building of the Dujiangyan: the "Fish Mouth" dividing the waters, the "Flying Sand Weir" discharging floods and sand, and the "Bottle Neck" drawing water into the plain — the three works in concert achieved "diversion without a dam, irrigation by gravity." The floods of the Min River were tamed, and the Chengdu Plain "followed water and drought alike without knowing famine," becoming the Land of Abundance. For twenty-three hundred years the Dujiangyan has survived earthquakes and floods and still works — the oldest damless diversion project in the world.
+When the Min River leaves the mountains and strikes the Chengdu Plain, its temper turns wild.
 
-## The Past (II): The Daoist Air of Mount Qingcheng
+Twenty-three hundred years ago, someone built a fish-mouth weir in midstream, splitting the raging river in two; on the same land there rises a mountain ringed like a city wall, dense with forest, called "the most secluded place under heaven." One weir, one mountain — the one tamed the floods, the other gave rest to the soul. These are the Dujiangyan and Mount Qingcheng: two kinds of peace on the western Sichuan plain.
 
-Mount Qingcheng is densely forested, its peaks ringed like a city wall, and it is called "the most secluded place under heaven." In the reign of Emperor Shun of the Eastern Han, Zhang Daoling founded the Five-Peck-Rice Way (the Way of the Celestial Masters) here, and Mount Qingcheng became a principal birthplace of Chinese Daoism. Daoist temples crowd the mountain — the Jianfu Palace, the Celestial Masters' Cave and the Shangqing Palace built into the slopes, fused with the landscape; the Daoist philosophy of "the Way follows nature" finds its most tranquil expression here.
+## Li Bing's Damless Weir
 
-## The Present: Mountain and Water Enter Heritage Together
+In 256 BCE, Li Bing and his son, governor of the Qin commandery of Shu, directed the building of the Dujiangyan.
 
-In 2000, Mount Qingcheng and the Dujiangyan were inscribed on the World Heritage List under criteria (ii)(iv)(vi). The Dujiangyan still supplies water and irrigation to the Chengdu Plain, its command area now reaching ten million mu; the temples of Mount Qingcheng burn incense as before. Mountain and weir, one still, one moving, together guard more than two thousand years of prosperity and peace on the western Sichuan plain.
+Their method was unexpected: no dam at all — they worked with the river's temper instead of against it. The "Fish Mouth" divided the waters, the "Flying Sand Weir" discharged floods and sand, and the "Bottle Neck" drew water into the plain; the three works in concert achieved "diversion without a dam, irrigation by gravity." The floods of the Min were tamed, and the Chengdu Plain "followed water and drought alike without knowing famine," becoming the Land of Abundance.
+
+For twenty-three hundred years the Dujiangyan has survived earthquakes and floods and still works — the oldest damless diversion project in the world, and one of the rare feats of hydraulic history built once and used ever since.
+
+## Zhang Daoling's Secluded Mountain
+
+Opposite the weir's noise stands the mountain's stillness.
+
+In the reign of Emperor Shun of the Eastern Han, Zhang Daoling founded the Five-Peck-Rice Way (the Way of the Celestial Masters) on Mount Qingcheng, making it a principal birthplace of Chinese Daoism. Daoist temples crowd the slopes — the Jianfu Palace, the Celestial Masters' Cave, the Shangqing Palace — fused with the landscape. Amid bells and drums, the Daoist philosophy of "the Way follows nature" finds its most tranquil expression on this "most secluded" mountain.
+
+Water flows below, the Way is cultivated above — the peace of the western Sichuan plain has always been twofold.
+
+## A Water Vein for Ten Million Mu
+
+After 1949, the Dujiangyan command area was continually expanded, reaching ten million mu of irrigated land.
+
+So the two-thousand-year-old water vein flowed straight into the modern age: in drought it opens its sluices, in flood it releases, in spring it carries the Min's water into every paddy. Stand at the headworks and you can still watch the ancients' design working, unchanged. It has no need to show off — because for twenty-three hundred years, it has never stopped.
+
+## 2000: Mountain and Water Enter Heritage Together
+
+In 2000, Mount Qingcheng and the Dujiangyan were inscribed on the World Heritage List under criteria (ii)(iv)(vi).
+
+The Dujiangyan still supplies water and irrigation to the Chengdu Plain; the temples of Mount Qingcheng burn incense as before. Mountain and weir, one still, one moving, together guard more than two thousand years of prosperity and peace on the western Sichuan plain. The title of World Heritage is, for them, only a belated acknowledgement — they have been guarding this land for two thousand times as long.
+
+## Epilogue: The Long Flowing of Water and the Way
+
+The Min still leaves the mountains; the Fish Mouth still divides the water; the morning bell of Mount Qingcheng still sounds through the mist.
+
+Twenty-three hundred years. The water flows, the incense burns, and the people of the Land of Abundance rise with the sun and rest with it. One weir, one mountain — one tamed the floods, the other gave rest to the soul. Neither has aged, because we still need them: as the plain needs water, and the heart needs stillness.
 
 ## Outstanding Universal Value (OUV)
 

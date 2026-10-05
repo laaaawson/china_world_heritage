@@ -64,17 +64,47 @@ official_site: "https://emsjq.leshan.gov.cn/"
 featured: false
 ---
 
-## The Past (I): The Buddhist Kingdom of Mount Emei
+## Prologue: A Face in the River Mist
 
-Mount Emei is held to be the mountain where the bodhisattva Samantabhadra (Puxian) manifests. Buddhism entered the mountain in the Eastern Han, temples multiplied, and the mountain flourished in Tang and Song times: Wannian Temple, Qingyin Pavilion and the Huazang Temple on the Golden Summit climb the slopes one after another, with morning bells and evening drums echoing among the clouds. Li Bai's line — "the land of Shu abounds in immortal mountains, yet Emei stands beyond compare" — captures the beauty of this "first mountain of China."
+At dawn, mist rises over the Min River. A wooden boat drifts downstream; the boatman stands at the bow and suddenly sees a vast face floating in the fog — larger than a cliff, eyes lowered, gazing at the water where three rivers meet.
 
-## The Past (II): The Ninety Years of the Giant Buddha
+He stops, breathless. He cannot know that this face has been sitting here for more than a thousand years, and that his own ancestors, poling past, once looked up at the same countenance.
 
-At Lingyunshan, the Min, Qingyi and Dadu rivers converge — and flooding was chronic. In 713, the monk Haitong vowed to carve a Maitreya Buddha into the cliff to still the waters. The carving took ninety years and was completed in 803: a seated Buddha about 71 metres tall, the largest stone seated Maitreya in the world. Hewn into the mountain, with its drainage system hidden among the curls and folds of the robe, the Buddha is a perfect union of engineering and faith.
+That face is a mountain. The water is so loud that he cannot hear his own heartbeat.
 
-## The Present: A Double Heritage of Landscape and Belief
+## Buddha Light Enters the Mountain
 
-In 1996, Mount Emei – Leshan Giant Buddha was inscribed on the World Heritage List under criteria (iv), (vi) and (x) as a mixed cultural and natural property. The rare plants and animals of Emei and the religious art of the Leshan Buddha became one — the mountain is the Buddha's realm of spirit, and the Buddha is the mountain's eye.
+The Buddhist kingdom of Mount Emei is said to have begun with the steps of a bodhisattva — legend holds that Samantabhadra manifested here, and the mountain became his seat. Buddhism entered in the Eastern Han; temples multiplied, and the mountain flourished in Tang and Song times: Wannian Temple, Qingyin Pavilion and the Huazang Temple on the Golden Summit climb the slopes one after another, morning bells and evening drums echoing among the clouds.
+
+Li Bai once wrote: "The land of Shu abounds in immortal mountains, yet Emei stands beyond compare." For the poet, even this "first mountain of China" could only be praised with two words: beyond compare.
+
+## Haitong's First Stroke
+
+The water below had a different temper.
+
+Where the Min, Qingyi and Dadu rivers converge at the foot of Lingyunshan, flooding was chronic. In 713, the monk Haitong stood at the edge of the cliff, watching the raging river, and vowed to carve a Maitreya Buddha into the rock — a Buddha to still the water, an eye to keep watch over the people.
+
+The carving took ninety years and was completed in 803 — a span longer than many a dynasty lasted, long enough for two generations to grow grey. There were no machines then, only ropes, scaffolding, and craftsmen lowered from the summit on ropes. After Haitong, the monks and craftsmen who came after him carried on, stroke by stroke, until a cliff had become a seated Buddha about 71 metres tall, the largest stone seated Maitreya in the world.
+
+> It was not chiselled out; it was "offered up" generation after generation — each blow of the hammer was a prayer.
+
+## The Drains Hidden in the Robe
+
+The Buddha was hewn into the mountain itself: mountain is Buddha, Buddha is mountain.
+
+What is even more remarkable is the wisdom hidden in the stone. A drainage system lies concealed among the curls of the hair and the folds of the robe. For more than a thousand years, rainstorms have run off this stone "monk's robe" in silence, and the Buddha has kept his seat by the river, century after century. Faith made the vow; engineering kept it.
+
+## 1996: A Double Heritage of Mountain and Buddha
+
+In 1996, Mount Emei – Leshan Giant Buddha was inscribed on the World Heritage List under criteria (iv), (vi) and (x) as a mixed cultural and natural property.
+
+The rare plants and animals of Emei and the religious art of the Leshan Buddha became one — the mountain is the Buddha's realm of spirit, and the Buddha is the mountain's eye.
+
+## Epilogue: The Buddha Watches the River, the Boatman Watches the Buddha
+
+The mist rises again; a wooden boat passes where the three rivers meet. The boatman looks up and sees that familiar face in the fog, still with eyes lowered, still watching the water.
+
+For more than a thousand years the Buddha has watched the river, and generation after generation has watched the Buddha. What those eyes have always reflected is the same thing: the peace of the human world.
 
 ## Outstanding Universal Value (OUV)
 

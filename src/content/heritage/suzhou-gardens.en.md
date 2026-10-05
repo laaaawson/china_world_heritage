@@ -63,17 +63,43 @@ official_site: "http://ylj.suzhou.gov.cn/szsylj/"
 featured: false
 ---
 
-## The Past (I): The Poetry and Dreams of Garden Masters
+## Prologue: Three Characters on a Plaque
 
-The gardens of Suzhou are above all scholars' gardens: their creators were not craftsmen but disgraced officials and cultivated literati. The Humble Administrator's Garden was built by Wang Xianchen, a Ming-dynasty censor who returned home after dismissal from office; its name borrows from Pan Yue's *Rhapsody on Dwelling in Idleness* — "the ways of the clumsy are the ways of office." The Master of the Nets Garden was the retreat of a retired fisherman turned hermit. Rockeries, ponds, flowers, inscribed tablets and couplets kindle one another, so that every garden is a poem and a painting at once.
+On an autumn evening in 1509, a dismissed official stood on a stretch of derelict land northeast of Suzhou. Wind came off the water. He looked down at his own hands — hands that had written memorials and stumbled through the world of office — and thought only of a hoe.
 
-## The Past (II): A Universe Within a Few Feet
+His name was Wang Xianchen. The garden he would build is called the Humble Administrator's Garden.
 
-Suzhou gardens are famed for "recreating the universe within a few feet": by borrowing views, facing scenes and framing vistas, they make limited space seem deep and endless. The Guanyun Peak of the Lingering Garden, the rockery maze of the Lion Grove, the Moon-Arriving Pavilion of the Master of the Nets Garden — all embody the philosophy of "following the way of nature." In the Ming and Qing dynasties Suzhou boasted more than two hundred gardens; some sixty survive today, and nine are World Heritage.
+## The Dismissed Come to Suzhou to Build Gardens
 
-## The Present: Nine Gardens on the World Heritage List
+The story of Suzhou's gardens began nearly a thousand years before Wang Xianchen.
 
-In 1997, the Humble Administrator's Garden, the Lingering Garden, the Master of the Nets Garden and the Mountain Villa with Embracing Beauty were inscribed under criteria (i)–(v); in 2000 the Canglang Pavilion, the Lion Grove Garden, the Couple's Retreat, the Garden of Cultivation and the Retreat & Reflection Garden were added, giving Suzhou nine World Heritage gardens. Today the strains of *pingtan* storytelling and *kunqu* opera still echo through the gardens, and the people of Suzhou have made this "cosmos in a pot" their everyday ease.
+In the Eastern Jin dynasty, Gu Pijiang raised his garden and opened Suzhou's long tradition of private gardens. In the Northern Song, the poet Su Shunqin built the Canglang Pavilion by the water in the south of the city; completed in 1041–1044, it is Suzhou's oldest surviving garden.
+
+The gardens of Suzhou are above all scholars' gardens: their creators were not craftsmen but disgraced officials and cultivated literati. Cast out by the court, they answered with the one thing the court could not take away — a garden.
+
+## The Garden of the "Clumsy One"
+
+Wang Xianchen, a Ming-dynasty censor dismissed from office, named his garden after Pan Yue's *Rhapsody on Dwelling in Idleness*: "the ways of the clumsy are the ways of office." The man the bureaucracy had discarded called himself the "clumsy one" and let "governing" go. Built in 1509–1513, the Humble Administrator's Garden became the emblem of Suzhou.
+
+The Master of the Nets Garden was the retreat of a retired fisherman — a garden of "fishing in seclusion"; a net-master is a fisherman. Rockeries, ponds, flowers, inscribed tablets and couplets kindle one another, so that every garden is a poem and a painting at once. A garden is not a residence; it is a life, arranged.
+
+## Within a Few Feet, the Whole Universe
+
+Suzhou gardens are famed for "recreating the universe within a few feet": by borrowing views, facing scenes and framing vistas, they make limited space seem deep and endless. The Guanyun Peak of the Lingering Garden, the rockery maze of the Lion Grove, the Moon-Arriving Pavilion of the Master of the Nets Garden — all embody the philosophy of "following the way of nature."
+
+In the Ming and Qing dynasties Suzhou boasted more than two hundred gardens. Some sixty survive today, and nine of them are World Heritage. One garden, one world — a few square feet holding a scholar's entire cosmos.
+
+## Nine Gardens on the World List
+
+In 1997, the Humble Administrator's Garden, the Lingering Garden, the Master of the Nets Garden and the Mountain Villa with Embracing Beauty were inscribed under criteria (i)–(v); in 2000 the Canglang Pavilion, the Lion Grove Garden, the Couple's Retreat, the Garden of Cultivation and the Retreat & Reflection Garden were added, giving Suzhou nine World Heritage gardens.
+
+Today the strains of *pingtan* storytelling and *kunqu* opera still echo through the gardens. Visitors pause before the Guanyun Peak; old men play chess beneath the Moon-Arriving Pavilion. The people of Suzhou have made this "cosmos in a pot" their everyday ease — exactly what the dismissed official of 1509 wished for.
+
+## Epilogue: Wind Across the Water
+
+Back to that autumn evening in 1509. Wind came off the water; Wang Xianchen crouched, scooped up a handful of earth, and smelled it.
+
+Five hundred years later, the lotus of the Humble Administrator's Garden still blooms and fades. The "clumsy one" whom the official world discarded became the winner of time — for the most dignified retreat a man can make is to settle himself into a landscape that will keep on growing.
 
 ## Outstanding Universal Value (OUV)
 

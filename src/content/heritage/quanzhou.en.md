@@ -63,17 +63,53 @@ official_site: "http://www.qzworldemporium.cn/"
 featured: false
 ---
 
-## The Past (I): Ten Thousand Nations Trading Amid the Rising Tide
+## Prologue: Amid the Sound of the Rising Tide
 
-Quanzhou was anciently called Zayton (Citong); its port rose from the late Tang and the Five Dynasties. In the second year of the Yuanyou era of the Northern Song (1087), the Maritime Trade Office was established, and Quanzhou's overseas trade entered the fast lane; between the Song and the Yuan, the port of Quanzhou was at one time ranked with Alexandria among the world's largest trading ports. The Italian traveller Marco Polo called Quanzhou "the greatest port in the East," and the Moroccan Ibn Battuta wrote that "the port of Zayton is one of the greatest in the world."
+One early morning in the last years of the Song dynasty, before the mist over Quanzhou Bay had lifted, a merchant ship from Persia had already furled its sail and drawn alongside the quay.
 
-## The Past (II): A City of Many Religions in Harmony
+The wharf buzzed with life: interpreters and traders haggled in low voices over chests of cargo, barefoot porters hurried across the gangplanks, and women set up stalls along the shore, calling out the price of steaming rice cakes. The sea slapped against the stone quay, and in the sound of the surf mingled a dozen languages — Arabic, Persian, Malay and Minnan speech, rising and falling by turns. Later generations put the scene into verse: "Ten thousand nations trade amid the sound of the rising tide."
 
-Quanzhou preserves China's richest maritime Silk Road remains: the twin pagodas of the Kaiyuan Temple, the Arabian-style dome of the Qingjing Mosque, the Manichaean Buddha of the Caoyuan hermitage, and the incense of the Tianhou Temple — Buddhism, Islam, Christianity, Manichaeism and folk belief coexisted here in harmony. The Luoyang Bridge is China's first cross-sea stone bridge; the wind-praying inscriptions on Mount Jiuri record the sacrificial rites of Song-dynasty sailors; twenty-two component sites together tell the maritime story of Zayton.
+And all of it began with a tree in bloom — the coral tree.
 
-## The Present: The Maritime Memory of Song-Yuan China
+## The Port Where the Coral Trees Bloomed
 
-In 2021, Quanzhou was inscribed on the World Heritage List under criteria (iv)(vi), under the theme "Quanzhou: Emporium of the World in Song-Yuan China." Today cargo ships still enter and leave Quanzhou Bay, while the Qingjing Mosque, the Kaiyuan Temple and the stone bridges within the old city still preserve the memory of an age when merchant ships of every nation crowded the harbour.
+In the late Tang and the Five Dynasties, the officials and people of Quanzhou planted coral trees throughout the city. Every summer the coral trees burst into flame-red blossom, so bright that sailors returning from distant seas could recognize home from dozens of miles out — and "Zayton," the name of the coral tree, was henceforth woven into the name of the city.
+
+It was in this period that the port of Quanzhou rose, and its foreign trade flourished day by day. In the second year of the Yuanyou era of the Northern Song (1087), the court established a Maritime Trade Office at Quanzhou — in effect, an official "pass" for the port. From that year on, Quanzhou was no longer merely a small Minnan city, but a trading port clearly marked on the empire's maritime map.
+
+## An Emporium of Nations
+
+Between the Song and the Yuan, Quanzhou entered its most dazzling age.
+
+The port of Quanzhou was at that time ranked with Alexandria on the Mediterranean among the world's largest trading ports. The Italian traveller Marco Polo called Quanzhou "the greatest port in the East," and the Moroccan Ibn Battuta wrote that "the port of Zayton is one of the greatest in the world." In their pages, the wharves of this small Minnan city were crowded with a forest of masts; merchants from Arabia, Persia and the South Seas carried ashore spices, jewels and rare curios, and loaded aboard silk, porcelain and tea.
+
+A thousand years ago, Quanzhou was the world's port; and the world itself once came to shore at Quanzhou.
+
+## Gods Carved in Stone
+
+The most wondrous thing about Quanzhou is to be found not at the docks, but in the stones of its streets and lanes.
+
+The twin pagodas of Kaiyuan Temple rise in the heart of the city, their relief carvings telling stories of the Buddhist world; the dome and gate of the Qingjing Mosque carry Arabic lines — stones that crossed the ocean from the far side of the desert; in the Caoyuan hermitage sits a serene Manichaean Buddha, one of the rare surviving relics of that faith; and in the Tianhou Temple, the incense of Mazu has burned unbroken for a thousand years. Buddhism, Islam, Christianity, Manichaeism and folk belief each took their own place in the same city, without strife.
+
+With stone, Quanzhou proved a truth: a truly great port has room for the faiths of the whole world.
+
+## Praying for Wind, and the Bridge Across the Sea
+
+Merchant ships sailed on the wind. Every time Song-dynasty seafarers set out, they climbed Mount Jiuri to hold a wind-praying rite — and the inscriptions carved on its cliffs still remember those sacrifices and prayers.
+
+To carry cargo safely across the river, the people of Quanzhou attempted what no one before had dared: a stone bridge spanning the sea. Between 1053 and 1059, the Luoyang Bridge was built across the Wanan ford of Quanzhou Bay, becoming China's first cross-sea stone bridge. The masons raised oysters on the riverbed to bind the pier foundations — a plain, homely trick, and they could hardly have imagined that it would let a stone bridge stand against the waves for nearly a thousand years.
+
+## Memory in a Sunken Ship
+
+In the silt of Quanzhou Bay, a Song-dynasty ship still sleeps.
+
+When people brought it ashore, the hull was intact — a vessel that once sailed for the open sea laden with the cargo and ambition of this port, only to sink in the bay on some voyage, like a letter sealed by time. Today it rests quietly in the Overseas Communication Museum of Quanzhou, and every grain of its planking tells, on behalf of the Quanzhou of a thousand years ago, the story of a distant voyage.
+
+## Epilogue: The Waves Have Not Stopped
+
+In 2021, Quanzhou was inscribed on the World Heritage List under criteria (iv)(vi), its 22 component sites strung together under the theme "Quanzhou: Emporium of the World in Song-Yuan China."
+
+Stand today at the shore of Quanzhou Bay: cargo ships still come and go, and the dome of the Qingjing Mosque, the twin pagodas of Kaiyuan Temple and the stone beams of the Luoyang Bridge are all still where they were. The morning of "ten thousand nations amid the rising tide" is long gone — but the sound of the waves has not stopped. It still beats against that stone quay, stroke by stroke, telling Quanzhou the names of the whole world.
 
 ## Outstanding Universal Value (OUV)
 

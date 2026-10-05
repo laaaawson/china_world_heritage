@@ -61,17 +61,49 @@ official_site: "https://sjy.qinghai.gov.cn/jgsz/"
 featured: false
 ---
 
-## The Past (I): The Birth of a Wilderness
+## Prologue · A Maiden in the Wind
 
-Since the Tertiary, the northward drift of the Indian plate has uplifted the Tibetan Plateau, and Hoh Xil has become a wilderness above 4,600 metres where people can hardly settle. Glaciers, snow peaks, lakes and alpine steppe spread across it, with lakes such as Zhuonai and the Sun Lakes scattered like sapphires — one of the most "no-man's-land" places on Earth.
+In July, in the first light over the shore of Zhuonai Lake, a Tibetan antelope steps onto the lakeside grass.
 
-## The Past (II): The Migration of the Tibetan Antelope
+In Mongolian, "Hoh Xil" means "Beautiful Girl." Averaging more than 4,600 metres above sea level, it is one of the highest and largest highland wildernesses on Earth; glaciers, snow peaks, lakes and alpine steppe spread across her lap. This land, close to a "no-man's-land," is the last pure refuge of the Tibetan antelope.
 
-Every summer, tens of thousands of Tibetan antelopes converge on Zhuonai Lake to give birth — one of the most spectacular animal migrations on Earth. In the 1980s and 90s, the shahtoosh trade drove a slaughter of the antelope. In 1995, Sonam Dargye, deputy party secretary of Zhiduo county, died fighting poachers and became a symbol of antelope protection; reserves were established one after another, and the population has gradually recovered.
+The loveliest faces are often the most hidden. Hoh Xil hides her beauty deep in snow and wind — and hides her life where no one is watching.
 
-## The Present: A World Heritage on the Roof of the World
+## The Birth of a Highland
 
-In 2017, Qinghai Hoh Xil was inscribed under criteria (vii) and (x), covering about 37,400 km² — one of the largest highland wilderness properties in the world. The snow mountains, lakes, grasslands and running antelopes of Hoh Xil together form one of the purest natural scenes on Earth.
+Since the late Tertiary, the Indian plate has kept drifting north, the Tibetan Plateau has risen, and Hoh Xil has become a wilderness above 4,600 metres where people can hardly settle.
+
+There are no villages here, no kitchen smoke — only wind sculpting snow into waves and polishing the lake surfaces to mirrors. Zhuonai Lake and the Sun Lakes are scattered like sapphires; even today, you may find them on a map and still find no road that leads to them.
+
+## The Summer Calving Ground
+
+But the wilderness is not empty. Every summer, tens of thousands of Tibetan antelopes converge on Zhuonai Lake to give birth — one of the most spectacular animal migrations on Earth.
+
+It is the loudest season of the year in Hoh Xil: mother antelopes drop their calves on the lakeshore, and within days the calves can run beside their mothers. Herders watch from afar, scholars record from afar — this silent wilderness, it turns out, hides a great migration of life, arriving year after year, on time.
+
+## Gunshots Across the Wilderness
+
+In the 1980s and 90s, a crime set its eyes on this "beautiful girl." The shahtoosh trade made the shawls dear on international markets; the black hand of smuggling reached the highland, and the antelopes were slaughtered.
+
+Gunshots broke the stillness of the wilderness. Only then did people understand: to guard this "beautiful girl," someone had to stand up.
+
+## Sonam Dargye's Last Battle
+
+In 1995, Sonam Dargye, deputy party secretary of Zhiduo county, died fighting poachers — his name became a symbol of antelope protection.
+
+Sonam Dargye fell, but the guarding did not fall. Reserves were established one after another; anti-poaching patrols drove deep into the uninhabited land again and again, and the antelope population gradually recovered. On today's Zhuonai shore the gunfire has faded, and the hoofbeats of newborn calves ring out once more.
+
+## 2017: The Maiden Goes to the World
+
+In 2017, Qinghai Hoh Xil was inscribed on the World Heritage List under criteria (vii) and (x), covering about 37,400 km² — among the largest highland wilderness properties in the world.
+
+Snow mountains, lakes, grasslands and running antelopes form one of the purest natural scenes on Earth. The heritage list has gained a "beautiful girl" — no longer a secret land that no one knows, but a home all of humanity guards together.
+
+## Epilogue · The Maiden Stays Young
+
+Another July; in the first light over the shore of Zhuonai Lake, a newborn Tibetan antelope steps onto the lakeside grass.
+
+Long ago the highland rose here; within a few decades gunfire rang out and faded — and the maiden stays young: the glaciers in her lap are still growing, the lakes still breathe, and the antelopes come again, year after year, as promised.
 
 ## Outstanding Universal Value (OUV)
 

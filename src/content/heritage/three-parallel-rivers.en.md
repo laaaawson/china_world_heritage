@@ -61,17 +61,47 @@ official_site: "https://lcj.yn.gov.cn/html/2025/zuixindongtai_0725/75015.html"
 featured: false
 ---
 
-## The Past (I): The Miracle of Three Rivers Running Side by Side
+## Prologue · The Herder on the Pass
 
-The Jinsha (upper Yangtze), the Lancang (Mekong) and the Nu (Salween) all rise on the Tibetan Plateau; crossing the Hengduan Mountains of northwestern Yunnan, they flow southward in parallel for about 170 kilometres — at their closest point separated by less than 60 kilometres, yet never converging. This is the world's only alignment of three great rivers side by side: the torrents of Tiger-Leaping Gorge, the glaciers of Meili Snow Mountain and the deep cleft of the Nu River Valley together form the most magnificent gorge complex on Earth.
+On a clear autumn morning, at a mountain pass in northwestern Yunnan, a herder driving his yaks stops for a moment.
 
-## The Past (II): A Treasury of Biodiversity
+The weather is fine, and across the folded ridges of the Hengduan Mountains he can see three great rivers at once: the Jinsha flashing gold in the sunlight, the Lancang running green, the Nu churning white. Side by side they flow southward for 170 kilometres — at their closest less than 60 kilometres apart — yet they never converge.
 
-The Three Parallel Rivers region is a veritable "natural alpine garden": from river valley to snow line, the vertical relief exceeds 6,000 metres, embracing complete ecological belts from frigid through temperate to subtropical zones. It is among the most biodiverse regions on Earth — Yunnan snub-nosed monkeys, snow leopards and alpine rhododendrons live and bloom here, earning the area the biologists' name of "the world's gene bank of species."
+The herder may not know that what he is looking at exists nowhere else on Earth.
 
-## The Present: Protection and Coexistence
+## A Handshake of Plates
 
-In 1988 the Three Parallel Rivers National Scenic Area was established; in 2003 the region was inscribed on the World Heritage List under all four natural criteria (vii)–(x). Today the cable crossings over the Nu River, the tattooed elders of the Dulong valley and the prayer flags of Shangri-La show that this magnificent land still keeps its ancient order of coexistence between man and nature.
+Rewind to the Cenozoic era. The Indian plate drove into the Eurasian plate, crumpling and uplifting the land, raising the highest plateau on Earth and squeezing out the north–south gorges of the Hengduan Mountains. Meltwater from the Tibetan glaciers found its way down the valleys — the Jinsha, the Lancang and the Nu found their own channels almost at the same time and set off southward side by side.
+
+The rivers kept cutting down while the mountains kept rising. Tens of millions of years of this contest carved the world's deepest parallel gorge system. The Three Parallel Rivers are a letter from geological time to the present day.
+
+## The Song of Three Rivers
+
+In the Tiger-Leaping Gorge, torrents split the cliffs and roar like thunder; the glaciers of Meili Snow Mountain hang on the summits, glowing gold and red at sunrise; in the deep cleft of the Nu River valley, the water runs like a ribbon of white silk while clouds roll around the slopes.
+
+Raging gorges, gleaming snows, plunging torrents — the Three Parallel Rivers bring together the most extreme faces of the Earth under a single sky.
+
+## A Vertical Garden of Six Kilometres
+
+From river valley to snow line, the vertical relief exceeds 6,000 metres, embracing complete ecological belts from frigid through temperate to subtropical zones. This is a "natural alpine garden": Yunnan snub-nosed monkeys leap among the conifers, snow leopards leave their tracks above the snow line, and in early summer alpine rhododendrons set whole mountainsides ablaze in pink and purple.
+
+Such dense ecological layering within one mountain region is unmatched anywhere on Earth. Biologists have called the area "the world's gene bank of species."
+
+## The People of the Gorges
+
+The Three Parallel Rivers are not only a natural wonder; they are also home. The cable crossings over the Nu River link mountainside to field; the tattooed elders of the Dulong valley carry a tribe's memory on their faces; the prayer flags of Shangri-La recite sutras in the wind. For centuries the people of the gorges have lived to the rhythm of the rivers — man and nature in their oldest order of coexistence.
+
+## 1988 and 2003
+
+In 1988 the Three Parallel Rivers National Scenic Area was established; in 2003 this land was inscribed on the World Heritage List under all four natural criteria (vii)–(x).
+
+Today, inside the boundary lies protection; outside it, life. The rivers still run eastward day and night, and herders still drive their yaks across the passes.
+
+## Epilogue · The Same River
+
+On that clear autumn morning, the herder drove his yaks down from the pass.
+
+Tens of millions of years ago the three rivers flowed side by side into a wonder of the Earth; for thousands of years people have lived along their banks. The rivers do not know they are called "World Heritage" — and precisely that unawareness, that freedom from disturbance, is what gives the word its weight.
 
 ## Outstanding Universal Value (OUV)
 

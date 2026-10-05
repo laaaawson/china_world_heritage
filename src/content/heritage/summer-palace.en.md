@@ -60,17 +60,41 @@ official_site: "https://gygl.beijing.gov.cn/mlgy/mlgy_lsmy/201911/t20191129_7322
 featured: false
 ---
 
-## The Past (I): An Emperor's Garden of Filial Piety
+## Prologue: A Brush under the Long Corridor
 
-In 1750, Emperor Qianlong raised the Garden of Clear Ripples beside Wengshan Pool (today's Kunming Lake) in the western suburbs of Beijing, in celebration of his mother's sixtieth birthday. Taking the West Lake of Hangzhou as its model, the garden took fifteen years to complete — this was the Summer Palace in embryo. Within its walls Longevity Hill rises at the centre while Kunming Lake covers three-quarters of the grounds; the Long Corridor, the Marble Boat and the Seventeen-Arch Bridge lean against hill and water, fusing imperial grandeur with the scenic ideals of the Jiangnan gardens.
+On an early morning in 1750, mist still hung over Wengshan Pool in the western suburbs of Beijing. Beneath the beams of a long covered corridor, a painter knelt and dipped his brush in green and blue, tracing a phoenix across the wood. He could not know that this corridor would one day lie in ashes, only to rise again out of an even deeper stubbornness.
 
-## The Past (II): Destruction and Rebirth
+That year the garden had no name for the world — or rather, its first name existed only in memorials to the throne: the Garden of Clear Ripples.
 
-In 1860, Anglo-French forces sacked the Old Summer Palace, and the Garden of Clear Ripples suffered the same fate. From 1886, Empress Dowager Cixi diverted naval funds into a nine-year restoration and renamed the garden the Summer Palace. The Guangxu Emperor lived here, and much of the planning for the failed Hundred Days' Reform took place within its walls. In 1900 the Summer Palace was plundered again by the Eight-Power Allied Forces; repaired time and again thereafter, it witnessed the decline and fall of the Qing dynasty.
+## A Son's Filial Garden
 
-## The Present: The Pinnacle of Chinese Gardens
+In 1750, Emperor Qianlong raised the Garden of Clear Ripples beside Wengshan Pool (today's Kunming Lake), in celebration of his mother's sixtieth birthday. Taking the West Lake of Hangzhou as its model, the garden took fifteen years to complete. Longevity Hill rises at the centre while Kunming Lake covers three-quarters of the grounds; the Long Corridor, the Marble Boat and the Seventeen-Arch Bridge lean against hill and water, fusing imperial grandeur with the scenic ideals of the Jiangnan gardens.
 
-The Summer Palace opened to the public in 1914 and was formally made a park in 1924. In 1998 it was inscribed on the World Heritage List under criteria (i), (ii) and (iii); its lakes and hills, the painted beams of the Long Corridor and the Hall of Buddhist Incense have been hailed as the crowning achievement of China's imperial gardens. Today, pleasure boats on Kunming Lake and the wind in the pines of Longevity Hill keep alive the garden's old legend of a world "made by men, yet seeming heaven-made."
+It was a landscape designed by a son for his mother: hills like those of the West Lake, water like its water, the gentleness of Jiangnan in every season and the clarity of the north at dawn and dusk. For fifteen years painters set colours along the corridor, masons carved the boat at the water's edge, and the lake was dug inch by inch along the lines of the West Lake — the highest ideal of an imperial garden is, after all, to copy a whole Jiangnan for one person with the finest craft of an empire.
+
+## A Single Night of Fire
+
+In 1860, in the Second Opium War, Anglo-French forces sacked the Old Summer Palace — and the Garden of Clear Ripples suffered the same fate. Fifteen years of labour turned to ash in a single night: the painted beams of the corridor curled and blackened, the Marble Boat was scorched, and the stone lions of the Seventeen-Arch Bridge rolled into the lake.
+
+The lake remained, the hill remained; only the "heaven-made" artistry had been burned away. The scar stayed unhealed for twenty-six years.
+
+## The Navy's Silver
+
+From 1886, Empress Dowager Cixi diverted naval funds into a nine-year restoration and renamed the garden the Summer Palace. The Guangxu Emperor lived here, and much of the planning for the failed Hundred Days' Reform took place within its walls. In 1900 the Summer Palace was plundered again by the Eight-Power Allied Forces; repaired time and again thereafter, it witnessed the decline and fall of the Qing dynasty.
+
+People said the garden was bought with the navy's silver: the fleet never came, but the dragon boat went into the water first. Guangxu paced these halls, plotted, and was confined; Cixi listened to opera here, escaped the summer heat, and gave her orders. One lake and one hill carried, at the same time, a dynasty's last light and last shadow.
+
+## A Lake and a Hill Enter the World List
+
+The Summer Palace opened to the public in 1914 and was formally made a park in 1924. In 1998 it was inscribed on the World Heritage List under criteria (i), (ii) and (iii); its lakes and hills, the painted beams of the Long Corridor and the Hall of Buddhist Incense have been hailed as the crowning achievement of China's imperial gardens.
+
+Today pleasure boats still cross Kunming Lake and the wind still moves through the pines of Longevity Hill. In spring the peach trees blossom, in summer the lotus gives off its scent, in autumn the ginkgo leaves turn gold, in winter the lake lies under snow — the garden keeps alive its old legend of a world "made by men, yet seeming heaven-made."
+
+## Epilogue: The Corridor Is Still Being Painted
+
+Back to that early morning. The brush beneath the corridor's beams is still moving — only today it is held by a restoration painter, or simply by a tourist with a camera.
+
+A garden built for filial love, rebuilt with naval funds, has become a garden owned by everyone. It has burned, been plundered, been repaired, been opened — and for more than two hundred years it has never truly left the gaze of the Chinese people. Perhaps that is the deeper meaning of "made by men, yet heaven-made": men's works may burn, but beauty does not end.
 
 ## Outstanding Universal Value (OUV)
 

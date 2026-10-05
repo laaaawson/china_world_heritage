@@ -60,17 +60,31 @@ official_site: "http://www.pingyao.gov.cn/"
 featured: false
 ---
 
-## The Past (I): The Turtle City and Its Walls
+## Prologue: Crenellations in the Morning Light
 
-The city wall of Ping Yao was first built under King Xuan of the Western Zhou and rebuilt in brick and stone in the third year of the Hongwu reign (1370): 6.4 kilometres in circumference, with three thousand crenellations and seventy-two watchtowers, it is called the "Turtle City" for its shape. Within the walls, the South, West and East streets form a "tu" (earth) -shaped street pattern; the county offices, the Confucian temple, the market tower and the dwellings are all well preserved — a "living specimen of a Ming–Qing county town."
+At dawn, the first sunlight crosses the crenellations of the Ping Yao city wall and falls on the grey bricks. Three thousand crenellations light up one by one, and seventy-two watchtowers emerge from the morning mist — the turtle-shaped town has been crouching here for twenty-eight hundred years.
 
-## The Past (II): The Financial Empire of the Shanxi Merchants
+Between the bricks lies sealed a century of Shanxi merchants' fortunes.
 
-In 1823, Lei Lutai of Ping Yao founded China's first draft bank, the Rishengchang, specialising in remittance — traders no longer had to carry silver on long journeys. Thereafter Ping Yao's draft banks numbered twenty-two at their peak, with branches in more than a hundred cities across the country; at one time the town "exchanged bills under heaven," holding the tiller of China's finance. Escort agencies, pawnshops and money shops surrounded them, and Ping Yao became the financial centre of the Shanxi merchants.
+## The City of King Xuan
 
-## The Present: The Best-Preserved Ancient County Town
+Twenty-eight hundred years ago, King Xuan of the Western Zhou raised a city here. Layer after layer of dust settled, until the third year of the Hongwu reign (1370), when masons rebuilt the old town on its foundations with brick-and-stone walls: 6.4 kilometres in circumference, with three thousand crenellations and seventy-two watchtowers — for its shape it is called the "Turtle City." A town had found its shape and its name.
 
-In 1997, the Ancient City of Ping Yao was inscribed on the World Heritage List under criteria (ii)(iii)(iv) — one of China's examples of a whole ancient city inscribed as heritage. Today the county offices, draft banks and dwellings within the walls are still in use, and the Ping Yao International Photography Exhibition and film festival let the old city converse with the world through the click of shutters.
+## A Living County Town in a "Tu" of Streets
+
+For centuries, within the walls the South, West and East streets have formed a "tu"-shaped pattern; the county offices, the Confucian temple, the market tower and the dwellings are all well preserved — the drum of the yamen, the reading voices of the school, the night-watch at the market tower have sounded here for centuries and have not ceased. Ping Yao is not a city kept in a museum; it is a living specimen of a Ming–Qing county town.
+
+## Lei Lutai's Piece of Paper
+
+In 1823, Lei Lutai of Ping Yao founded China's first draft bank, the Rishengchang, specialising in remittance — traders no longer had to carry silver on long journeys; a single piece of paper could send silver across mountains and rivers. At their peak Ping Yao's draft banks numbered twenty-two, with branches in more than a hundred cities across the country; at one time the town "exchanged bills under heaven," holding the tiller of China's finance. Escort agencies, pawnshops and money shops surrounded them, and Ping Yao became the financial centre of the Shanxi merchants.
+
+## 1997: One City's Road to World Heritage
+
+In 1997, the Ancient City of Ping Yao was inscribed on the World Heritage List under criteria (ii)(iii)(iv) — one of China's examples of a whole ancient city inscribed as heritage. Today the county offices, draft banks and dwellings within the walls are still in use, and the Ping Yao International Photography Exhibition and the film festival let the old city converse with the world through the click of shutters. The old city has not fallen asleep; it has simply found another way to live.
+
+## Epilogue: A Century Sealed Between the Bricks
+
+The setting sun rests on the flying eaves of the market tower, and the grey bricks of the wall are still warm. The first shovel of earth King Xuan lifted twenty-eight hundred years ago and the brush that wrote the first bill at the Rishengchang in 1823 — across more than twenty centuries, they wrote the same sentence: this city will keep time for us.
 
 ## Outstanding Universal Value (OUV)
 

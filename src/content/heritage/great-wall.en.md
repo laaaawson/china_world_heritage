@@ -94,63 +94,79 @@ official_site: "http://www.ncha.gov.cn/"
 featured: true
 ---
 
-## The Past (I): Walls of the Warring States
+## Prologue: A Handful of Earth
 
-The Great Wall was never the overnight work of a single emperor. Its beginnings lie in the "wall wars" between the feudal states of the Spring and Autumn and Warring States periods.
+The Great Wall did not begin with brick or stone. It began with a handful of earth, pounded hard.
 
-In the 7th century BCE, the state of Chu raised a chain of fortifications in the Fangcheng mountains — the earliest recorded "proto-Great-Wall". Qi, Yan, Zhao, Wei and Qin followed suit. The states of Yan and Zhao, in particular, were the first to build walls along the very line where farming met steppe, to hold back the northern nomads. King Wuling of Zhao adopted "barbarian dress and horsemanship" — learning the nomads' cavalry skills while raising walls at the foot of the Yinshan range. From the very beginning, the wall carried the anxiety of survival: **inside the wall, farmland; beyond it, grassland.**
+At dusk, some twenty-seven hundred years ago, on the frontier of the state of Chu, labourers swung wooden mallets, driving yellow earth into the wall-moulds, blow by blow. No one then knew the wall would one day be called the "Great Wall" — or that it would grow across twenty-seven centuries, through wars and dynasties, spanning fifteen provincial regions, from the Yalu River to the foot of the Tianshan: the largest defensive project in the history of human civilization.
 
-> The first stone of the Great Wall was not laid by Qin Shi Huang, but by a league of anxious kings, twenty-seven centuries ago.
+It began, humbly, by keeping out the neighbours.
 
-## The Past (II): The First Emperor's "Ten Thousand Li"
+## The Walls of Chu
 
-In 221 BCE, Qin Shi Huang swept across the six warring states. The year after unifying the realm, he sent his general Meng Tian with 300,000 troops against the Xiongnu, joining and repairing the old walls of the former states — from Lintao in the west (modern Gansu) to Liaodong in the east (modern Liaoning) — forging a continuous northern defence line. From this came the name "Ten Thousand Li Wall."
+In the seventh century BC, the state of Chu raised a chain of ramparts across Fangcheng Mountain — the earliest recorded forerunner of the "Great Wall". Qi, Yan, Zhao, Wei and Qin all followed suit. In an age of warring states, a wall was the plainest form of safety.
 
-It also gave the Wall its most famous "injustice" in Chinese history. The folk tale of "Meng Jiangnü weeping down the Wall" can be traced to a story of the Spring and Autumn period — that of Qi Liang's wife — which was only grafted onto the Qin emperor during the Tang dynasty. Legend is not history; but the very fact that the legend has survived two thousand years tells us something true: **in the minds of the ancients, this wall was bound to the joys and sorrows of millions of families** — the conscripted builders, the frontier soldiers, and the loved ones who waited for their return.
+The states that truly built to the edge of survival were Yan and Zhao, facing the horsemen of the northern steppe. King Wuling of Zhao adopted "barbarian dress and mounted archery" — narrowing his robes, learning to shoot from horseback — and raised walls at the foot of the Yin Mountains. Inside the wall, farmland; outside, grassland. From its very birth, this wall carried the anxiety of survival.
 
-## The Past (III): Heavenly Horses and the Silk Road
+> The "first stone" of the Great Wall was not laid by the First Emperor, but by anxious kings of the Warring States, some twenty-seven hundred years ago.
 
-With the Han dynasty, the Wall underwent its first transformation. Under Emperor Wu, the generals Wei Qing and Huo Qubing drove the Xiongnu north, pushing the defence line from the Central Plains all the way to the Hexi Corridor. After Zhang Qian opened the way to the Western Regions, the Wall became not just a fortification but a **corridor of civilisations** — the "Four Commanderies of Hexi" (Wuwei, Zhangye, Jiuquan and Dunhuang) were strung along it, while Yumen Pass and Yangguan Pass guarded the throat of the Silk Road.
+## Meng Tian's Three Hundred Thousand
 
-The desolate passes of Tang poetry — "one more cup of wine, west of Yangguan there are no old friends" — once echoed with caravans: silk, tea and porcelain westward; grapes, alfalfa and Ferghana "heavenly horses" eastward. The gates of the Great Wall never only *kept enemies out*; they also *let friends in*.
+In 221 BC, Qin Shi Huang conquered the six states. The following year he sent his general Meng Tian with three hundred thousand men to drive back the Xiongnu, linking and repairing the old walls of the Warring States — from Lintao in the west to Liaodong in the east. Thus the "Ten Thousand Li Wall" was born.
 
-## The Past (IV): Defiance in Troubled Times
+This wall also inherited China's most famous "injustice": the legend of Meng Jiangnu, whose husband was taken to build the wall and whose tears brought eight hundred li of it down. Historians trace the tale to a story from the Spring and Autumn period, later grafted onto the First Emperor in Tang times. Legend is not history — but the fact that the legend survived two thousand years says more than the wall itself: in the ancient imagination, this wall was bound to the joys and griefs of countless families.
 
-For centuries between Han and Tang, the realm divided and reunited, yet the Wall never stopped being built. The Northern Wei, Northern Qi and Northern Zhou repaired the northern frontier again and again; the Sui emperors Wen and Yang undertook large-scale works. In troubled times, every stretch of wall was the last line of defence for the farming civilisation against cavalry from the steppe — **as long as it stood, home stood.**
+The corvée labourers, the frontier soldiers, the families waiting for their return — these, not the emperors, were the wall's true masters.
 
-But the repairs of troubled times only held the line. The Wall's true zenith came over a millennium later, from a dynasty that rebuilt the whole empire in brick and stone — the Ming.
+## Bells and Camels Out of Yangguan
 
-## The Past (V): The Brick-and-Stone Dragon of the Ming
+Qin fell, Han rose, and the wall underwent its first transformation.
 
-After the Tang, the Wall fell silent for centuries: the Song had lost the Sixteen Prefectures and with them the wall line; the Mongols themselves came from the steppe and needed no wall to keep themselves out. Then, in 1368, Zhu Yuanzhang proclaimed himself emperor in Nanjing and, at the founding of his dynasty, adopted the nine-character maxim of the adviser Zhu Sheng — "Raise high walls, store abundant grain, and take your time claiming the throne." Over the following two centuries, the Ming devoted the strength of the whole realm to rebuilding the Wall in **brick and stone**: from Hushan on the Yalu River in the east to Jiayuguan in Gansu in the west, guarded by the "Nine Frontier Towns" — Liaodong, Jizhen, Xuanfu, Datong, Shanxi, Yansui, Ningxia, Guyuan and Gansu. The magnificent walls we see today at Badaling and Mutianyu were almost entirely the work of the Ming.
+Emperor Wu sent Wei Qing and Huo Qubing north against the Xiongnu, pushing the frontier from the Central Plains to the Hexi Corridor. After Zhang Qian opened the road to the Western Regions, the wall became more than a military work — it became a corridor of civilizations: the four commanderies of Wuwei, Zhangye, Jiuquan and Dunhuang lined up along it, with Yumen Pass and Yangguan guarding the throat of the Silk Road.
 
-One story deserves special memory: in the Longqing era (1567), the anti-pirate hero Qi Jiguang was transferred to command the Jizhen frontier. He built over a thousand "hollow watchtowers" along the Wall — each able to house troops, store grain and observe, with interlocking fields of fire that made the wall unclimbable. Qi Jiguang guarded Jizhen for sixteen years, and the frontier beacon fires never once burned in alarm.
+"One more cup of wine, friend — west of Yangguan, no old acquaintance." The bleak pass of Tang poetry once rang with camel bells: silk, tea and porcelain out; grapes, alfalfa and Ferghana horses in. The gates of the Great Wall never only "kept enemies out" — they also "let friends through".
 
-> The Ming Wall was not a single wall but a complete defence system: walls, passes, forts, terraces and beacon towers, link by link.
+## Qi Jiguang's Hollow Watchtowers
 
-## The Past (VI): Kangxi's "No New Walls"
+Between Han and Tang, the empire split and reunited endlessly, yet the wall never stopped being built. The Northern Wei, Northern Qi and Northern Zhou rebuilt it repeatedly; the Sui emperors restored it on a vast scale. In troubled times, every stretch of wall was the last line of a farming civilization before the cavalry — if it stood, home stood.
 
-History loves reversals. In 1644, the Qing army marched through the passes, and for the first time a steppe people ruled the Central Plains — the Wall, built for two millennia "against the steppe," suddenly had nothing left to defend against.
+But the wall's true zenith came more than a millennium later, from the dynasty that rebuilt the empire in brick and stone: the Ming.
 
-In the 30th year of Kangxi (1691), when ministers proposed rebuilding the Wall, the emperor replied: "Since the Qin built the Wall, the Han, Tang and Song all maintained it, yet border troubles never ceased… To hold the state, one must cultivate virtue and reassure the people." From then on, the Wall was no longer built. Gubeikou, Zhangjiakou and other passes set aside their armour and became trading towns for tea and horses — for the first time, both sides of the Wall truly became one family.
+In 1368, Zhu Yuanzhang took the throne in Nanjing, following his adviser Zhu Sheng's nine-character maxim: "Build high walls, store ample grain, and take the throne slowly." For more than two hundred years the Ming poured the resources of the whole empire into transforming the wall from rammed earth into brick and stone — from Hushan by the Yalu River in the east to Jiayuguan in Gansu in the west, guarded by the nine frontier garrisons. The magnificent walls we see today at Badaling and Mutianyu were almost all built by Ming hands.
 
-## The Present (I): A New Great Wall Built of Flesh and Blood
+One story is worth remembering above all: in 1567, the anti-pirate general Qi Jiguang was transferred to command the Jizhen frontier. Along the wall he raised more than a thousand "hollow watchtowers" — garrisoned, provisioned, with overlapping fire so that attackers could not climb. For sixteen years he held the frontier, and the beacon fires never rose.
 
-The Wall was no longer being built, but its story had not ended. Two centuries later, when the wars of the twentieth century swept back over North China, the sleeping wall rose again — this time built of flesh and blood.
+> The Ming wall was not a wall but a complete defensive system: wall, pass, fort, beacon — each link connected to the next.
 
-In 1933, as Japanese forces pressed into North China, Chinese soldiers fought bloodily along the Wall at Xifengkou and Gubeikou. The 29th Army, swords in hand, clashed with the enemy in hand-to-hand combat, and the song "Slash the invaders' heads with our broadswords" rang out across the Great Wall.
+## The Year Kangxi Stopped Building
 
-Two years later, Tian Han wrote the lyrics of the March of the Volunteers: "With our very flesh and blood, let us build a new Great Wall!" — **In that moment, the Wall completed its greatest transformation: from a military fortification of brick and stone into a spiritual symbol of "defending home to the death" in the hearts of all Chinese.**
+History turns at the most unexpected moments.
 
-When Mao Zedong wrote in "The Moon over the Six Banshan Mountains" that "he who has never reached the Great Wall is no true man," the Wall became the spiritual landmark every Chinese aspires to reach.
+In 1644, the Qing entered the passes — for the first time, a steppe people ruled the Central Plains. Suddenly the wall that had guarded against the steppe for two thousand years had no one to guard against.
 
-## The Present (II): The Road to World Heritage
+In 1691, urged to rebuild the wall, the Kangxi Emperor replied: "Qin built the wall, and Han, Tang and Song all repaired it — yet border troubles never ceased... The way to keep the state is to cultivate virtue and pacify the people." From that day, the wall was never rebuilt. Gubeikou, Zhangjiakou and other passes doffed their armour and became markets for tea-and-horse trade — inside and outside the wall, for the first time, truly one family.
 
-When the smoke cleared, the Wall entered a second life — no longer a fortification against enemies, but a memory guarded by all of humanity.
+## A New Great Wall of Flesh and Blood
 
-In 1984, the nationwide campaign "Love China, Restore the Great Wall" was launched, and countless ordinary people donated their savings to repair it. In 1987, the Great Wall was inscribed on the UNESCO World Heritage List as one of China's first six properties — alongside the Forbidden City, the Mogao Caves, the Mausoleum of the First Qin Emperor, the Peking Man Site at Zhoukoudian and Mount Tai — a memory of civilisation now guarded by all of humanity.
+The wall stopped being built, but its story did not stop.
 
-On 1 December 2006, the Regulations on the Protection of the Great Wall came into force — the first time China issued dedicated legislation for a single cultural monument. Today, construction of the Great Wall National Cultural Park is under way, and the ancient Wall is stepping into the future, one byte at a time.
+In 1933, as Japanese forces pressed into North China, Chinese troops fought desperate battles along the wall at Xifengkou and Gubeikou. Soldiers of the 29th Army met the enemy blade-to-blade with their dadao broadswords, and the song "Slash down the Japanese heads!" rang along the wall.
+
+Two years later, Tian Han wrote the words of the March of the Volunteers: "Build our new Great Wall with our flesh and blood."
+
+In that moment the wall completed its greatest transformation: from a military work of brick and stone into a spiritual symbol of a people sworn to defend their home. Mao Zedong's line "He who has not reached the Great Wall is no hero" made it, for generation after generation, a summit every Chinese felt they must reach.
+
+## 1987: An Englishman and a Chinese Wall
+
+In 1987, a young Englishman named William Lindesay gave up his job and set out on foot from Jiayuguan toward Shanhaiguan — more than 2,400 kilometres, seventy-eight days, measuring the whole wall one stride at a time. He later settled in China, founded the International Friends of the Great Wall, and spent a lifetime organising volunteers to pick litter off the wall. The wall "captured" him for the rest of his life.
+
+In that same year, 1987, the Great Wall — one of China's first six World Heritage properties — was inscribed together with the Forbidden City, the Mogao Caves, the Mausoleum of the First Emperor, Peking Man and Mount Tai. The 1984 "Love China, Restore the Great Wall" campaign saw ordinary citizens donate their savings; in 2006, the Regulations on the Protection of the Great Wall came into force — the first time China enacted a dedicated law for a single monument. Today the Great Wall National Cultural Park is taking shape, and the ancient wall is being carried into the future, digitised metre by metre.
+
+## Epilogue: The Night He Watched
+
+More than two thousand years ago, in the deep night, a garrison soldier stood on a beacon tower on the ridge, gazing at the dark beyond the pass.
+
+More than two thousand years later, when you climb the same wall and look at the same moonlight — you understand at last: the Great Wall is not a relic to be visited, but a wall of the heart that is still growing. It was piled for twenty-seven centuries, and in every handful of earth is pounded a person's determination to keep a home.
 
 ## Outstanding Universal Value (OUV)
 

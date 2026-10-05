@@ -57,17 +57,49 @@ official_site: "http://www.chongzuo.gov.cn/"
 featured: false
 ---
 
-## The Past (I): A Rite on the Cliffs
+## Prologue: A Figure on the River
 
-Along both banks of the Ming River in Ningming county, Guangxi, steep cliffs carry a great number of ochre-red rock paintings. Painting with haematite, the Luoyue ancestors composed vast ritual scenes from squatting human figures, bronze drums, ring-pommel swords and dogs: figures with arms raised and legs bent, like frogs, like dancers, crowding around the bronze drums that stood for power and wealth — the prayers of the Luoyue people to river and spirits two thousand years ago.
+More than two thousand years ago, at dusk, a small boat drifted on the Ming River.
 
-## The Past (II): The Date and the Mystery
+The Luoyue painter on board looked up at the sheer cliff beside the water — too steep for even monkeys to climb, and yet he was determined to paint a great rite upon it. He mixed haematite ochre and made the first stroke: a "frog-man," arms raised, legs bent, like a frog, like a dancer, crowding around bronze drums and ring-pommel swords.
 
-The Huashan paintings were made from the Warring States to the Eastern Han (roughly the 5th century BCE to the 2nd century CE), more than two thousand years ago. The largest human figure is about two metres tall, and the scenes spread across the cliffs above the river with immense force. Why the pigments have never faded, and how the painters reached the cliffs, remain unsolved questions.
+The river rushed below; the drums seemed already to sound. He was not painting scenery. He was painting a prayer.
 
-## The Present: China's First Rock-Art Heritage
+## The Rite of the Luoyue
 
-In 2016, the Zuojiang Huashan Rock Art Cultural Landscape was inscribed under criteria (iii) and (vi) — China's first rock-art World Heritage property. The painted sites line the Zuojiang and its tributary the Mingjiang, forming a complete cultural landscape with the river and cliffs — the "prehistoric gallery" of the Luoyue people now belongs to all humanity.
+Two thousand years ago, the Luoyue people lived on the banks of the Zuojiang and Ming rivers. Why paint a rite on so sheer a cliff?
+
+Because they believed the rivers had gods and the cliffs had spirits, and a rite was the covenant between people and the divine. But altars rot, and canopies rot — only ochre-red rock and haematite paint can keep a river company for a thousand years. So they moved their altar onto the cliff: from squatting human figures, bronze drums, ring-pommel swords and dogs they composed vast ritual scenes — figures with arms raised and legs bent, like frogs, like dancers, crowding around the bronze drums that stood for power and wealth.
+
+These were the prayers of the Luoyue people to river and spirits two thousand years ago. The river remembered them; the cliffs preserved them.
+
+## A Two-Metre Giant and a Thousand-Year Riddle
+
+From the Warring States to the Eastern Han (roughly the 5th century BCE to the 2nd century CE), Luoyue painters spread this rite across the cliffs of the Zuojiang basin. The largest human figure is about two metres tall, and the scenes hang above the river with immense force.
+
+Yet this grandeur leaves two riddles: why has the ochre never faded, and how did the painters ever reach cliffs so steep?
+
+Archaeologists have wondered for years — ladders, ropes, or climbing from the river when it rose. The answer is still unsettled. And that, in itself, is the astonishment the Luoyue left us.
+
+## 1954: One Look Upstream
+
+Now leap forward to 1954.
+
+A Guangxi cultural relics survey team sailed up the Ming River. The boat rounded a bend, and suddenly a host of ochre-red figures emerged on the cliff — figures with raised arms. It was the rock art of the Luoyue ancestors, seen again by modern eyes for the first time in nearly two thousand years.
+
+Huashan rock art had returned to the world's view.
+
+## 2016: Rock Art for All Humanity
+
+In 2016, the Zuojiang Huashan Rock Art Cultural Landscape was inscribed under criteria (iii) and (vi) — China's first rock-art World Heritage property.
+
+The painted sites line the Zuojiang and its tributary the Mingjiang, forming a complete cultural landscape with the river and cliffs. Today boats still ply the river and figures still stand on the cliffs, but those who gaze at them are no longer only the Luoyue — they are visitors and researchers from every corner of the world. The "prehistoric gallery" of the Luoyue people now belongs to all humanity.
+
+## Epilogue: A Song on the Cliff
+
+More than two thousand years later, sail down the Ming River — and look up.
+
+The ochre figures are still standing on the cliff, arms raised, like a prayer left unfinished, like a song left unsung. The river still rushes by; the painters are long gone. But the rite they painted has stood in their place for two thousand years — and will stand on.
 
 ## Outstanding Universal Value (OUV)
 

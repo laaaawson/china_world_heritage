@@ -63,17 +63,39 @@ official_site: "http://tsgw.taian.gov.cn/"
 featured: false
 ---
 
-## The Past (I): The Ladder of the Feng and Shan Sacrifice
+## Prologue: Six Thousand Stone Steps
 
-Since antiquity Mount Taishan has been seen as a ladder "straight to the imperial seat." In 219 BCE, the First Emperor of Qin ascended the mountain to perform the feng and shan sacrifices, "raising a stele to sing of virtue"; Emperor Wu of Han climbed eight times, raising Taishan to a symbol of dynastic legitimacy; and Emperor Xuanzong of Tang left the *Record of the Feng and Shan Sacrifice on Mount Tai* — more than twelve hundred characters carved on the cliff of Daguang Peak, legible to this day. The steles and sacrificial monuments left by successive emperors at the Dai Temple and the Bixia Shrine have made Taishan a "microcosm of Chinese history and culture."
+At four in the morning, the sky is still dark. On the Eighteen Bends, flashlights string together into a trembling river of light as pilgrims climb, step by step. Some have come from Shandong, some from a thousand miles away — six thousand stone steps, climbed so that one sunrise can be seen from Jade Emperor Peak.
 
-## The Past (II): A Holy Mountain of Poets and Scholars
+The first imperial footprint on this road was pressed more than two thousand two hundred years ago.
 
-Beyond the emperors, the literati made their pilgrimage with brush and ink: Confucius "climbed Taishan and found the world small," and Du Fu vowed to "climb to the very summit and see all mountains small." More than two thousand inscriptions cover the mountain, from Li Si's small-seal-script stele of the Qin to the poems of later ages — a natural museum of calligraphy. And the folkways of the Taishan stone tablet that wards off evil and the faith in the Grandmother of Taishan (Bixia Yuanjun) have carried this holy mountain into the daily life of countless households.
+## The Ladder to the Imperial Throne
 
-## The Present: The First of the Mixed Properties
+Since antiquity Mount Taishan has been seen as a ladder "straight to the imperial seat." In 219 BCE, the First Emperor of Qin ascended the mountain to perform the feng and shan sacrifices, "raising a stele to sing of virtue," inaugurating the imperial rite. Thereafter the rite became the highest ceremony of a dynasty: Emperor Wu of Han climbed eight times, raising Taishan to a symbol of dynastic legitimacy; and in 725 Emperor Xuanzong of Tang left the *Record of the Feng and Shan Sacrifice on Mount Tai* — more than twelve hundred characters carved on the cliff of Daguang Peak, legible to this day.
 
-In 1987, Mount Taishan was inscribed on the World Heritage List under all seven criteria (i)–(vii), becoming one of the world's first mixed cultural and natural properties. Today climbers still stream up the six thousand steps of the Eighteen Bends, and Jade Emperor Peak above the sea of sunrise clouds remains for countless people the spiritual summit where "one climbs and finds the world small."
+Why did emperors climb mountains? Because they needed a place higher than the human world from which to proclaim, "the mandate of heaven is with me." Every feng and shan rite was an accounting offered to heaven; every stele, a receipt filed with history. The steles and sacrificial monuments left by successive emperors at the Dai Temple and the Bixia Shrine have made Taishan a "microcosm of Chinese history and culture."
+
+## A Holy Mountain of Brush and Ink
+
+Beyond the emperors, the literati made their pilgrimage with brush and ink: Confucius "climbed Taishan and found the world small," and Du Fu vowed to "climb to the very summit and see all mountains small." More than two thousand inscriptions cover the mountain, from Li Si's small-seal-script stele of the Qin to the poems of later ages — a natural museum of calligraphy.
+
+The mountain is stone; the pilgrims are brushes. For two millennia the calligraphers of almost every age have signed the cliffs of Taishan — not to conquer the mountain, but to pay it homage.
+
+## A Sacred Mountain in Every Home
+
+And beyond emperors and scholars stands a far larger host: the common folk. The folkways of the Taishan stone tablet that wards off evil and the faith in the Grandmother of Taishan (Bixia Yuanjun) have carried this holy mountain into the daily life of countless households. Outside many a doorway in Shandong, a small stone tablet bearing the words "Taishan Shigandang" is a whole Taishan brought home.
+
+## The First of the Mixed Properties
+
+In 1987, Mount Taishan was inscribed on the World Heritage List under all seven criteria (i)–(vii), becoming one of the world's first mixed cultural and natural properties — six criteria for culture, one for nature. No other mountain binds the human and the natural so tightly together.
+
+Today climbers still stream up the six thousand steps of the Eighteen Bends, and Jade Emperor Peak above the sea of sunrise clouds remains for countless people the spiritual summit where "one climbs and finds the world small." The sunrise rises on schedule every morning; the people on the steps change with every generation.
+
+## Epilogue: A River of Flashlights
+
+Back to the Eighteen Bends at four in the morning. The river of flashlights still climbs; the pilgrims still go up.
+
+From the First Emperor's procession to the pilgrims' torches, for more than two thousand two hundred years, Mount Taishan has done one thing: it has turned "going upward" into a shared conviction of the Chinese people. Six thousand stone steps — each one a resolve to climb.
 
 ## Outstanding Universal Value (OUV)
 

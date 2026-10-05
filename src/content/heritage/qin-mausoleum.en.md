@@ -67,17 +67,49 @@ official_site: "https://www.bmy.com.cn/"
 featured: false
 ---
 
-## The Past (I): An Underground Empire of Seven Hundred Thousand
+## Prologue: A Spade in the Spring of 1974
 
-When Qin Shi Huang ascended the throne at thirteen, he began building his mausoleum at Lishan; after unifying the six states, he conscripted more than 700,000 convicts, and the work went on for over thirty years. The precinct "takes Lishan as its tomb," with inner and outer walls modelled on the plan of a capital; the records say the tomb chamber used "mercury to fashion the hundred rivers and the seas." In 1974, peasants digging a well at Lintong discovered the Terracotta Army — in the excavated pits, more than eight thousand terracotta warriors stand in battle array, armour bright and faces individual, recreating the true appearance of the Qin army.
+In the spring of 1974, peasants at Lintong were digging a well.
 
-## The Past (II): The Eighth Wonder of the World
+The spade met not water but pottery shards. Layer after layer, the ground grew harder — someone pushed the earth aside and saw grey clay faces: warriors in topknots and armour, life-sized, standing silently in the yellow earth, standing for more than two thousand years.
 
-Four pits have been found so far. Pit No. 1 is the largest, about 14,000 square metres, yielding more than six thousand terracotta warriors and horses. Combining moulding and hand-modelling, the craftsmen gave a thousand figures a thousand faces; the bronze chariots and horses, cast in bronze, command world admiration for their craftsmanship. Warriors, bronze chariots and bronze weapons together formed Qin Shi Huang's underground world of "serving the dead as in life."
+That day, no one knew what the well-digger's spade had opened. The well was never finished. The world simply gained a wonder.
 
-## The Present: From a Well-Digging Site to World Heritage
+## A Mausoleum Begun at Thirteen
 
-In 1979, the Museum of the Terracotta Army opened; in 1987, the Mausoleum of the First Qin Emperor was inscribed on the World Heritage List under criteria (i)(iii)(iv)(vi), among China's first World Heritage properties. Today the warriors have travelled abroad to exhibit worldwide, becoming the most recognisable calling card of Chinese civilisation.
+When Qin Shi Huang ascended the throne at thirteen, he began building his mausoleum at Lishan.
+
+The boy emperor had a startling plan for his own death: an underground city modelled on the plan of a capital, ringed with inner and outer walls; the chronicles say the tomb chamber used mercury to fashion the hundred rivers and the seas. After unifying the six states, he conscripted more than 700,000 convicts, and the work went on for over thirty years. At the foot of Lishan, thousands of craftsmen fired clay, cast bronze and cut stone day and night — they moved an entire empire underground.
+
+## Eight Thousand Faces in the Earth
+
+Four pits have been found so far. Pit No. 1 is the largest, about 14,000 square metres, yielding more than six thousand terracotta warriors and horses; across all the pits, more than eight thousand warriors and horses have been excavated.
+
+The most astonishing thing is not the number but the faces. Combining moulding and hand-modelling, the craftsmen gave eight thousand warriors eight thousand different faces: some with brows locked, some with a trace of a smile, armour bright, topknots distinct — a thousand figures, a thousand faces. With the bronze chariots and horses, cast in bronze, and the bronze weapons still faintly gleaming, they formed Qin Shi Huang's underground world of "serving the dead as in life."
+
+They stand in battle array, facing east, as if waiting for an order to march that will never come.
+
+## From Well Hole to World Wonder
+
+The well of 1974 gave back to the world an army that had kept silence for two thousand years.
+
+Archaeologists brushed away the loess with care; Pit No. 1, Pit No. 2 and Pit No. 3 came into view in turn — the underground army drawn up in military formation, recreating the true appearance of the Qin army. The world was astonished and named it the "Eighth Wonder of the World."
+
+In 1979, the Museum of the Terracotta Army opened.
+
+## 1987: Among China's First
+
+In 1987, the Mausoleum of the First Qin Emperor was inscribed on the World Heritage List under criteria (i)(iii)(iv)(vi), among China's first World Heritage properties.
+
+Today the warriors have travelled abroad to exhibit worldwide; in every city people queue for hours for a glimpse of the army from the deep loess. It has become the most recognisable calling card of Chinese civilisation: an army fired in clay, marching for a two-thousand-year-old dynasty across the whole world.
+
+## Epilogue: The Watch Under the Loess
+
+More than two thousand years ago, they stood arrayed in the east, guarding one emperor's eternity.
+
+Two thousand years later, when the peasants' spade fell at Lintong, they saw the light again — this time guarding not an emperor but a civilisation.
+
+The eight thousand faces are still silent, but everyone who stands before them hears the gaze of that Qin army crossing two millennia: look, this is what we once were.
 
 ## Outstanding Universal Value (OUV)
 

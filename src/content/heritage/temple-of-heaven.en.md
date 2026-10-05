@@ -60,17 +60,47 @@ official_site: "https://gygl.beijing.gov.cn/"
 featured: false
 ---
 
-## The Past (I): A Ritual City for Sacrifice to Heaven
+## Prologue · The Emperor on a Winter Solstice
 
-In 1420, the Yongle Emperor built the Altar of Heaven and Earth south of the Zhengyang Gate, where Heaven and Earth were worshipped together. In 1530, Emperor Jiajing instituted the "divided rites": a Circular Mound Altar at the southern end to worship Heaven alone, and an altar for grain (the Hall of Prayer for Good Harvests) at the northern end to pray for the five crops. At the winter solstice he sacrificed to Heaven, in early spring he prayed for harvests, performing the great ritual of three kneelings and nine prostrations in person — from that time the Temple of Heaven became the supreme sanctuary of China's sacrificial rites.
+At dawn on the winter solstice of 1420, the city of Beijing lay still in the cold mist. A procession in brilliant yellow moved south from the Forbidden City, through the Zhengyang Gate, toward an altar newly raised on the southern outskirts — the Altar of Heaven and Earth. The young Yongle Emperor would climb to its top to perform the great rite of three kneelings and nine prostrations, praying to Heaven and Earth for a good harvest on behalf of all his people.
 
-## The Past (II): The Universe in Numbers
+He could not know that five centuries later this altar would be a public park, and that the stone where he knelt would carry the footsteps of old people practising tai chi and children at play.
 
-Every building of the Temple of Heaven answers to the celestial order: the Hall of Prayer rises nine *zhang*, nine *chi* and nine *cun* high, and its pillars are arranged in three rings of four, twelve and twelve, symbolising the four seasons, the twelve months and the twelve double-hours; the steps and balustrades of the Circular Mound all use nine or multiples of nine — nine being the ultimate yang number, to revere Heaven with "nine" was the supreme expression of the ancient belief in the unity of Heaven and man. The subtle acoustics of the Echo Wall and the Triple-Sound Stones lent the sacrificial rite an air of mystery besides.
+## An Emperor's Pact with Heaven
 
-## The Present: From Altar to Public Park
+Not long after moving the capital to Beijing, the Yongle Emperor chose a site outside the Zhengyang Gate and raised the altar there. In 1420 the Altar of Heaven and Earth was completed, where Heaven and Earth were worshipped together. "Revering Heaven" was never mere ritual — for an emperor determined to make Beijing his capital, bowing to Heaven was a way of proving to the world that his throne was ordained from above.
 
-In 1918 the Temple of Heaven was opened to the public as a park, and the altar once reserved for the emperor alone became a place of rest for the people. In 1998 it was inscribed on the World Heritage List under criteria (i), (ii) and (iii). Today the tai chi and morning choruses before the Hall of Prayer, under the same sky that heard the drums of the sacrificial rite five hundred years ago, carry on the ritual and the everyday life of this ancient capital.
+From that time the Temple of Heaven became the supreme sanctuary of China's sacrificial rites.
+
+## The Rites Divided
+
+A hundred and ten years later, Emperor Jiajing instituted the "divided rites": in 1530 a Circular Mound Altar rose at the southern end to worship Heaven alone, and an altar for grain at the northern end to pray for the five crops. In 1540 the Great Hall of Prayer — the predecessor of the Hall of Prayer for Good Harvests — was completed. He sacrificed to Heaven at the winter solstice and prayed for harvests in early spring, performing the rites in person — Heaven and Earth had each found their own place, and the rites of sacrifice were from then on divided in two.
+
+## A Universe in Numbers
+
+Every building of the Temple of Heaven answers to the celestial order: the Hall of Prayer rises nine *zhang*, nine *chi* and nine *cun* high, and its pillars are arranged in three rings of four, twelve and twelve, symbolising the four seasons, the twelve months and the twelve double-hours; the steps and balustrades of the Circular Mound all use nine or multiples of nine — nine being the ultimate yang number, to revere Heaven with "nine" was the supreme expression of the ancient belief in the unity of Heaven and man.
+
+The subtle acoustics of the Echo Wall and the Triple-Sound Stones lent the rite an air of mystery. Walking through this altar city, every echo you hear is a five-hundred-year-old conversation between sovereign, minister and Heaven.
+
+## The Lightning Fire
+
+On a summer night in 1889, lightning struck the Great Hall of Prayer. The fire broke out deep in the night, and the predecessor of the Hall of Prayer for Good Harvests burned to ashes in the blaze.
+
+Rebuilding followed the original plan, restoring the blue tiles and golden finial as they had always been. A fire could not destroy the Temple of Heaven, for it was never merely one hall: it was, for centuries, the dwelling place of "Heaven" in the minds of a dynasty and its people.
+
+## From Altar to Park
+
+In 1918 the Temple of Heaven was opened to the public as a park — the altar once reserved for the emperor alone became a place of rest for the people. In 1998 it was inscribed on the World Heritage List under criteria (i), (ii) and (iii).
+
+On mornings now, old people practise tai chi before the Hall of Prayer while a chorus lifts its voice, and children run across the flagstones of the Circular Mound. Ordinary footsteps stand where an emperor knelt five hundred years ago.
+
+## Epilogue · Morning Light under the Blue Dome
+
+On the winter solstice of 1420, an emperor walked through the cold mist toward the Altar of Heaven and Earth; today you walk through the morning light into the Temple of Heaven.
+
+Five centuries on, the kneeling have become strollers, incense has become song. But look up — the triple blue-tiled dome still hangs under the same sky, waiting not for an emperor praying for a harvest, but for a city of people who know how to live their days well.
+
+That, perhaps, is the best answer to "revering Heaven.
 
 ## Outstanding Universal Value (OUV)
 

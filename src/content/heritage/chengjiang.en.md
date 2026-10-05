@@ -61,17 +61,43 @@ official_site: "http://www.yncj.gov.cn/yxgovfront/newDepartmentContent.jspx?chan
 featured: false
 ---
 
-## The Past (I): The Cambrian Explosion of Life
+## Prologue: Morning in the Ancient Sea
 
-In the early Cambrian, about 530 million years ago, life on Earth underwent an explosion without precedent: in less than twenty million years, the ancestors of nearly every living animal phylum appeared in turn. The shallow sea around Maotianshan, Chengjiang, was the most important stage of that explosion — soft sea-floor mud quickly buried the dead and preserved their soft bodies intact.
+530 million years ago, on a morning when no human existed and no life walked the land.
 
-## The Past (II): The Hammer Stroke of 1984
+Sunlight pierced the shallow sea and settled on the seabed around Maotianshan. Shapes you could not name writhed in the mud — no bones, no shells, not even a complete "body." No one could have known that this ordinary morning was the opening scene of the most extraordinary act in the history of life on Earth.
 
-In 1984, the palaeontologist Hou Xianguang, collecting bradoriid fossils at Maotianshan, accidentally split open a slab of shale bearing soft-bodied fossils — a watershed in the study of the Cambrian worldwide. In the four decades since, more than twenty living animal phyla and a host of extinct groups have been identified in the Chengjiang biota; fossils such as *Naraoia*, *Anomalocaris* and *Fuxianhuia* have become stars of palaeontology.
+## The Explosion of Twenty Million Years
 
-## The Present: A Sanctuary of the Evolution of Life
+In less than twenty million years, the ancestors of nearly every living animal phylum appeared in turn.
 
-The Chengjiang Fossil Site lies on the eastern shore of Fuxian Lake in Yuxi, Yunnan, with a core area of 5.12 km². In 2012 it was inscribed on the World Heritage List under criterion (viii), hailed by the international scientific community as "the most complete fossil archive of the Cambrian Explosion." Today the Chengjiang Fossil Land World Natural Heritage Museum presents this batch of 500-million-year-old time capsules to the public.
+This was the "explosion of life" of the early Cambrian, and the shallow sea around Chengjiang was the most important stage of that explosion. When creatures died, the soft mud buried their bodies swiftly — boneless and shell-less, they should have rotted away, yet because the burial was quick and deep enough, they were sealed whole into the shale.
+
+For 530 million years of darkness, they waited.
+
+## 1984: The Hammer That Fell
+
+In 1984, on the slopes of Maotianshan, the palaeontologist Hou Xianguang was collecting bradoriid fossils.
+
+Crack. The geological hammer came down, and a slab of shale split along its bedding. On the fresh surface lay the unmistakable outline of an animal no one had ever seen — soft body, complete appendages, as if it had died only yesterday. That single stroke opened a watershed in the study of the Cambrian worldwide: the soft-bodied animals of 530 million years ago could, after all, be preserved whole to this very day.
+
+## Anomalocaris and Its Neighbours
+
+In the four decades since, the Chengjiang biota has kept giving surprises.
+
+More than twenty living animal phyla and a host of extinct groups have come to light from the shale: Naraoia crawling the seabed beneath its round shield, Anomalocaris sweeping through the water with its spiny grasping appendages, Fuxianhuia dragging its segmented body across the mud. These fossils have become stars of palaeontology — and have shown us for the first time that the Earth of 500 million years ago was already as crowded as a pot just coming to the boil.
+
+## 2012: Five Hundred Million Years on the World Stage
+
+The Chengjiang Fossil Site lies on the eastern shore of Fuxian Lake in Yuxi, Yunnan, with a core area of 5.12 km².
+
+In 2012 it was inscribed on the World Heritage List under criterion (viii), hailed by the international scientific community as "the most complete fossil archive of the Cambrian Explosion." Today, in the Chengjiang Fossil Land World Natural Heritage Museum, visitors stand across the glass from neighbours five hundred million years old — every slab of shale is a time capsule.
+
+## Epilogue: The Morning Inside the Stone
+
+Sunlight passes through the museum's glass and falls on the fossil cases.
+
+The same sunlight fell on the seabed of Maotianshan 530 million years ago. Then, the shapes in the mud did not know they would sleep for 530 million years; today, we do not know that we are looking at the common ancestors of every living thing. Stone may age, but that morning is sealed in the shale forever.
 
 ## Outstanding Universal Value (OUV)
 

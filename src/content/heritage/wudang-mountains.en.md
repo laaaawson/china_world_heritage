@@ -59,17 +59,53 @@ official_site: "http://wudangshan.gov.cn/"
 featured: false
 ---
 
-## The Past (I): Emperor Yongle's Grand Design
+## Prologue: Gold Above the Clouds
 
-Mount Wudang is the sacred abode of Zhenwu, the Perfected Warrior of Taoism. Emperor Taizong of Tang ordered the building of the Wulong Shrine, and in the Song dynasty Taoist masters multiplied. The true summit came in the Ming: when Zhu Di rose in his "campaign to pacify troubles" he claimed the aid of Zhenwu, and after taking the throne he mobilised 300,000 soldiers, artisans and labourers in 1412 for a twelve-year building campaign — the nine palaces and eight temples, among them the Jingle, Zixiao, Nanyan and Taihe palaces, were raised along the mountain for more than seventy kilometres, "a hermitage every five li, a palace every ten, red walls and green tiles glittering in the distance."
+At dawn, on the summit of Tianzhu Peak, the sea of clouds is parting.
 
-## The Past (II): The Golden Summit and the Martial Arts
+A pilgrim sets foot on the last stone step and looks up: there is the bronze hall — its gilded tiles catching the first sunlight, floating above the clouds like a golden summit. The old words rise in his mind: "A peerless realm since time immemorial; the foremost celestial mountain under heaven."
 
-The bronze hall of the Taihe Palace's Golden Summit, roofed in gilded bronze tiles, crowns Tianzhu Peak at an altitude of 1,612 metres — Emperor Yongle's masterpiece, a "dwelling" he built for the god Zhenwu. Wudang is also the birthplace of Wudang martial arts: the legend of Zhang Sanfeng creating taiji quan has been told for centuries, and Wudang swordplay and Shaolin boxing stand as the two great schools of Chinese martial arts.
+But no one is born knowing how this mountain became an immortal one.
 
-## The Present: A Heritage of Taoist Harmony with Nature
+## The Mountain of the Perfected Warrior
 
-In 1994, the Ancient Building Complex in the Wudang Mountains was inscribed on the World Heritage List under criteria (i), (ii) and (vi). Today the Taoist music of Zixiao Palace, the incense of Nanyan Palace and the dawn bells of the Golden Summit still echo through the clouds of Wudang — this "immortal mountain" continues to receive pilgrims from around the world with its architecture, built to the lie of the mountains, following the Taoist way of nature.
+Mount Wudang is the sacred abode of Zhenwu, the Perfected Warrior of Taoism. In the Tang dynasty, Emperor Taizong ordered the building of the Wulong Shrine, and Wudang's Taoist architecture began; in the Song, Taoist masters multiplied in the mountains. The true summit of the story, however, came centuries later, with the Ming.
+
+## Three Hundred Thousand Hands, Twelve Years
+
+When Zhu Di rose in his "campaign to pacify troubles," he claimed the aid of Zhenwu. Seated on the throne, he resolved to build for the god who had helped him a sanctuary without equal.
+
+In 1412 he mobilised 300,000 soldiers, artisans and labourers for a twelve-year project: the nine palaces and eight temples — among them the Jingle, Zixiao, Nanyan and Taihe palaces — were raised along the mountain for more than seventy kilometres. "A hermitage every five li, a palace every ten, red walls and green tiles glittering in the distance" — that verse, still quoted today, is the record of twelve years of grandeur.
+
+## A Dwelling for the God
+
+The summit of the whole design is the Golden Summit of Taihe Palace: a bronze hall roofed with gilded tiles, standing on Tianzhu Peak at an altitude of 1,612 metres, forever adrift in cloud.
+
+It is no clay idol in a shrine, but a masterpiece raised by Emperor Yongle as a "dwelling" for the god Zhenwu — a home for a deity, set on the highest point of the mountain. Wudang's buildings never fight the mountain; they follow its lie. This is the Taoist philosophy of building: to accord with the way of nature.
+
+## The Legend of the Taiji Fist
+
+Wudang is also the birthplace of Wudang martial arts.
+
+Legend has it that the Taoist Zhang Sanfeng created taiji quan on this mountain, and the tale has been told for centuries. Whether true or not, it is fact that Wudang swordplay and Shaolin boxing stand as the two great schools of Chinese martial arts. Martial arts and monasteries together forged this mountain into a sanctuary where "martial" and "Tao" are one.
+
+## The Flames of the Late Ming
+
+Glory, too, has its seasons.
+
+In the late Ming, Li Zicheng's rebel army stormed Wudang and destroyed part of the temples — the glittering "red walls and green tiles" darkened, and the mountain's great age faded. In the wars and the passing years that followed, Wudang grew old quietly among the clouds.
+
+## 1994: An Immortal Mountain Enters the Register
+
+In 1994, the Ancient Building Complex in the Wudang Mountains was inscribed on the World Heritage List under criteria (i), (ii) and (vi).
+
+Today the Taoist music of Zixiao Palace, the incense of Nanyan Palace and the dawn bells of the Golden Summit still echo through the cloud sea. This "immortal mountain" continues to receive pilgrims from every corner of the world with architecture built to the lie of the mountains, following the Taoist way of nature.
+
+## Epilogue: Bells Above the Clouds
+
+At dawn the bell of the Golden Summit rings, and the cloud sea parts once more.
+
+The pilgrim has long since gone down the mountain, but the mountain is still waiting for the next ascent. Wudang never asks who comes to worship: it simply holds twelve years of labour, the footprints of 300,000 people and centuries of incense, resting together in the same sea of cloud.
 
 ## Outstanding Universal Value (OUV)
 

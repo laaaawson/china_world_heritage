@@ -63,17 +63,41 @@ official_site: "https://www.icm.gov.mo/"
 featured: false
 ---
 
-## The Past (I): A-Ma and St. Paul
+## Prologue: Incense and Sails
 
-Macao's name comes from the A-Ma Temple — the Portuguese transliteration of "A-Ma Kok," "the cove of A-Ma." In 1553, the Portuguese landed "to dry their cargo," and from then on a bridge was built between China and the West: the A-Ma Temple guarded the incense of voyagers, while the Church of St. Paul, begun in 1602, carried Western architecture and faith eastward. After a great fire in 1835, only the front wall of the church survived — that is today's Ruins of St. Paul's, the most famous symbol of Macao.
+At dawn, incense rose before the A-Ma Temple, and a sailor offered a prayer to the statue of the goddess before boarding his ship. The stone steps had been worn smooth by more than four hundred years of footsteps.
 
-## The Past (II): Streets Where East and West Meet
+He could not have imagined that the little temple behind him would lend its name to a city — and that the city would become the place where East and West first truly stood face to face.
 
-The Historic Centre of Macao centres on the Senado Square: the Church of St. Dominic, the Holy House of Mercy and the Leal Senado Building stand shoulder to shoulder with Chinese temples, pawnshops and arcaded shophouses. The lanes here are not for "viewing" but for "living" — local students in uniform walk on the Portuguese calçada pavement, and a Portuguese egg-tart shop sits beside the A-Ma Temple. For more than four hundred years, as a Catholic holy city and a Sino-Western trading port at once, Macao was East Asia's earliest and most enduring experiment in globalisation.
+## The Name of A-Ma
 
-## The Present: Return and World Heritage
+In 1553, the Portuguese landed in Macao on the pretext of drying their cargo, and later gained permission to reside. Macao's name comes from the A-Ma Temple — the Portuguese transliteration of "A-Ma Kok," "the cove of A-Ma."
 
-In 1999, Macao returned to the motherland. In 2005, the Historic Centre of Macao was inscribed on the World Heritage List under criteria (ii)(iii)(iv)(vi) — the most complete historic centre in China where Western architecture and Chinese traditional dwellings coexist. The silhouette of the Ruins of St. Paul's, the incense of the A-Ma Temple and the fountain before the Senado Square continue to bear witness to the daily life of this "interchange of Eastern and Western civilisations."
+Before the Portuguese ever arrived, the A-Ma Temple had already kept the incense of voyagers. Sailors lit a stick of incense before setting out to sea and returned with a vow fulfilled; the sea wind scattered the smoke — and also blew the name "A-Ma" into the logbooks of Portuguese navigators.
+
+## The Bell Tower of St. Paul's
+
+From 1602, the Jesuits built the Church of St. Paul, spending nearly four decades carrying Western architecture and faith eastward.
+
+Beneath the church's bell tower lay East Asia's earliest and most enduring experiment in globalisation: around the fountain of Senado Square, the Church of St. Dominic, the Holy House of Mercy and the Leal Senado Building stand shoulder to shoulder with Chinese temples, pawnshops and arcaded shophouses; local students in uniform walk on the Portuguese calçada pavement, and a Portuguese egg-tart shop sits beside the A-Ma Temple. For four centuries Macao was at once a Catholic holy city and a Sino-Western trading port — two civilisations shaking hands at the corner of a single street.
+
+## After the Great Fire
+
+In 1835, the Church of St. Paul was reduced to ashes in a great fire; only its front wall survived.
+
+That scorched remnant of a wall was what Macao came to call the Ruins of St. Paul's — the city's most famous symbol. The fire consumed the church but could not consume the memory: the surviving facade stands like a monument at the foot of the Fortaleza do Monte, remembering for a whole city the brightest bells it ever rang.
+
+## Return and World Heritage
+
+In 1887, the Sino-Portuguese Treaty of Friendship and Commerce was signed, and Macao entered its treaty period; in 1999, Macao returned to China, becoming a Special Administrative Region under "one country, two systems."
+
+In 2005, the Historic Centre of Macao was inscribed on the World Heritage List under criteria (ii)(iii)(iv)(vi) — the most complete historic centre in China where Western architecture and Chinese traditional dwellings coexist. The silhouette of the Ruins of St. Paul's, the incense of the A-Ma Temple and the fountain before Senado Square continue to bear witness to the daily life of this "interchange of Eastern and Western civilisations."
+
+## Epilogue: Incense Before the Ruined Wall
+
+At dawn, the incense of the A-Ma Temple rose once more.
+
+More than four hundred years on, sails have given way to ferries, yet the stone steps still wait for the same sea winds. The bells beneath the ruined wall have fallen silent; the incense before the goddess has never gone out — the city's longest story is hidden in that thread of blue smoke.
 
 ## Outstanding Universal Value (OUV)
 

@@ -59,17 +59,41 @@ official_site: "https://wwj.chengde.gov.cn/"
 featured: false
 ---
 
-## The Past (I): Kangxi's Palace Beyond the Wall
+## Prologue: A Decree on the Banks of the Wulie
 
-In 1703, Emperor Kangxi began building the Mountain Resort on the banks of the Wulie River at Rehe. The resort was never a mere summer retreat: every year Kangxi hunted at Mulan, training the Eight Banners and overawing the Mongol tribes, and the resort was the pivot of this imperial touring route. Within the grounds, pavilions such as the Misty Rain Tower and the Wen Garden, modelled on the gardens of Jiangnan, gathered the vastness of the frontier and the elegance of the south into a single scroll of landscape.
+In 1703, at Rehe, the Wulie River flowed out of the Yanshan Mountains and spread a stretch of lush, water-fed flatland across its bank.
 
-## The Past (II): The Temples of Soft Power
+That year, a decree arrived on the flatland: build the Mountain Resort. Scaffolding rose along the shore and the workmen's chants startled the waterbirds — no one guessed that this "summer retreat" would one day become the empire's second political centre in name and in fact.
 
-Under Emperor Qianlong, twelve temples rose in a ring around the resort — Puren, Puning, Putuo Zongcheng, Xumi Fushou and others — known popularly as the "Eight Outer Temples." Putuo Zongcheng was modelled on the Potala Palace of Lhasa, and Xumi Fushou on Tashilhunpo of Shigatse: by recreating the sacred architecture of Tibetan Buddhism, Qianlong invited the nobles of Mongolia and Tibet to pay homage here. Resort and temples — one secular, one sacred, one civil, one martial — are the grandest architectural expression of ethnic unity in the "Kangxi–Qianlong golden age."
+## The Pivot of the Mulan Hunts
 
-## The Present: A Frontier Palace on the Road to World Heritage
+The resort was never an ordinary palace.
 
-In 1860, Emperor Xianfeng died in the resort, and it gradually declined. Since the 20th century, the Mountain Resort and its outlying temples have been systematically restored. In 1994 they were inscribed on the World Heritage List under criteria (ii) and (iv) — the combined masterpiece of China's largest surviving imperial garden and its largest complex of imperial Buddhist temples.
+Every year Kangxi hunted at Mulan, training the Eight Banners and overawing the Mongol tribes, and the resort was the pivot of this imperial touring route — here the emperor received Mongol princes and dealt with the affairs of half an empire. Within the grounds, the Misty Rain Tower and the Wen Garden, modelled on the gardens of Jiangnan, gathered the vastness of the frontier and the elegance of the south into a single scroll of landscape. A touch of the south beyond the frontier — that was the resort's most romantic brushstroke.
+
+## The Gilded Roofs of the Outer Temples
+
+Under Emperor Qianlong, twelve temples rose in a ring around the resort — Puren, Puning, Putuo Zongcheng, Xumi Fushou and others — known popularly as the "Eight Outer Temples."
+
+Putuo Zongcheng was modelled on the Potala Palace of Lhasa, and Xumi Fushou on Tashilhunpo of Shigatse: by recreating the sacred architecture of Tibetan Buddhism, Qianlong invited the nobles of Mongolia and Tibet to pay homage here. One resort, one ring of temples — one civil, one martial: the resort received the people, the temples settled their hearts. In 1792 the ensemble reached its final form, and Chengde became the empire's second political centre in name and in fact.
+
+## 1860: The Dynasty That Stopped at the Palace
+
+In 1860, Emperor Xianfeng died at the Mountain Resort.
+
+The once-prosperous frontier palace lost its master, and step by step it declined. The Wulie still flowed and the gilded roofs still shone, but the imperial procession came no more, and the horns of the autumn hunt sounded no more — the shadow of a dynasty halted here, in this palace beyond the Wall.
+
+## 1994: A Frontier Palace Enters the World Stage
+
+Since the 20th century, the Mountain Resort and its outlying temples have been systematically restored.
+
+In 1994 they were inscribed on the World Heritage List under criteria (ii) and (iv). The resort covers some 5.64 km² — the largest surviving imperial garden in China — and twelve outlying temples ring it, eight of them administered directly by the Qing court: the combined masterpiece of China's largest surviving imperial garden and its largest complex of imperial Buddhist temples.
+
+## Epilogue: The Frontier Wind
+
+Standing by the lakes of the resort, the wind brushes past the eaves of the Misty Rain Tower and runs on toward the gilded roofs of the outer temples.
+
+More than three hundred years have passed, and the Wulie still flows. This palace beyond the Wall never really collected the summer heat — it collected a dynasty's wish for permanence, gathering the south, the frontier, Mongolia and Tibet onto the two banks of a single river.
 
 ## Outstanding Universal Value (OUV)
 

@@ -67,17 +67,49 @@ official_site: "https://www.potalapalace.cn/"
 featured: false
 ---
 
-## The Past (I): From Tubo Fortress to Centre of Politics and Religion
+## Prologue: Red and White Above the Clouds
 
-In the 7th century, Songtsen Gampo unified the Tibetan Plateau and raised a palace on Red Mountain in Lhasa, receiving Princess Wencheng — the celebrated tale of Sino-Tibetan alliance has been linked to the Potala ever since. In 1645, the Fifth Dalai Lama began rebuilding the Potala; after nearly fifty years, the White Palace (administration) and the Red Palace (Buddhist halls and reliquary stupas) were completed in turn, and the Potala became the centre of the theocratic unity of politics and religion in Tibet.
+Dawn has not yet broken when the chime of prayer wheels rises at the foot of Red Mountain.
 
-## The Past (II): The Circle of Faith in the Holy City of Lhasa
+An old grandmother turns her prayer wheel and looks up the hill — the morning light is climbing the palace walls storey by storey: white walls like snow, the Red Palace like sunset clouds, a fortress-palace terraced up the slope, as if it had not been built upon the mountain but grown out of it. No one can count its storeys at a glance, and no one can say whether the people first had their faith and then raised this palace — or whether the palace kept that faith alive for a thousand years.
 
-The Potala Palace, the Jokhang Temple and Norbulingka together form the sacred and politico-religious space of Lhasa: the Jokhang, founded in the 7th century, houses the statue of the twelve-year-old Sakyamuni; the square before the temple is the centre of the circumambulation; Norbulingka is the Dalai Lamas' summer palace, its Tibetan gardens full of hidden pavilions. Every morning, worshippers circle clockwise along the Barkhor Street — a devotion that has continued for over a thousand years.
+## A Wedding on Red Mountain
 
-## The Present: From Fortress to World Heritage
+In the 7th century, Songtsen Gampo unified the Tibetan Plateau and raised a palace on Red Mountain in Lhasa.
 
-From 1989 to 1994, the Chinese government carried out a large-scale restoration of the Potala Palace over five years, costing tens of millions of yuan; in 1994, the Potala was inscribed on the World Heritage List under criteria (i)(iv)(vi), and in 2000 and 2001 the Jokhang Temple and Norbulingka were added as extensions. Today, the red walls and white palace of the Potala still shine under the sun, receiving pilgrims and visitors from all over the world.
+It was an age when royal power and faith grew side by side. The young ruler built his walls up the slopes of Red Mountain and then received Princess Wencheng — the celebrated tale of Sino-Tibetan alliance, bound to this palace ever since. The chronicles leave only a few lines, but we can imagine: smoke rising from the Lhasa valley below, the palace walls climbing higher and higher, the shape of a great highland holy city settling into the light of history.
+
+## The Fifth Dalai Lama's Fifty Years
+
+A thousand years pass; the palace rises and falls with the dynasties.
+
+In 1645, the Fifth Dalai Lama resolved to rebuild the Potala. The work would last nearly fifty years. The White Palace rose first, for administration; then the Red Palace, housing the Buddhist halls and the reliquary stupas of successive Dalai Lamas. Red and white, religion and politics, fused on one mountain — the Potala became the theocratic centre of Tibet.
+
+Picture those years on Red Mountain: hundreds of masons and painters working under the highland sun, laying stone, ramming earth, tracing gold. This palace was not built by one generation; a polity and a faith spent nearly half a century building themselves into the mountain.
+
+## Three Landmarks of the Holy City
+
+The Potala was never alone — from the day it was built it had the Jokhang Temple and Norbulingka as neighbours, together forming the sacred and politico-religious space of Lhasa.
+
+The Jokhang, founded in the 7th century, houses the statue of the twelve-year-old Sakyamuni; the square before the temple is the centre of the circumambulation. Norbulingka is the Dalai Lamas' summer palace, its Tibetan gardens full of hidden pavilions — the coolest footnote to a holy city. Every morning, worshippers circle clockwise along the Barkhor Street; that devotion has continued for over a thousand years.
+
+## Five Years Beneath the Red Walls
+
+The year is 1989.
+
+From 1989 to 1994, the Chinese government carried out a large-scale restoration of the Potala over five years, costing tens of millions of yuan. Highland wind, a millennium of incense and the feet of pilgrims all wear at the palace — the restorers knelt among the beams, straightening the sagging timber frame joint by joint. They knew they were repairing not just a building but a people's memory of its faith.
+
+## 1994: The Cloud Citadel Joins the World
+
+In 1994, the Potala was inscribed on the World Heritage List under criteria (i)(iv)(vi); in 2000 and 2001, the Jokhang Temple and Norbulingka were added as extensions.
+
+Red Mountain stands 117 metres high, the palace in 13 storeys. Today its red walls and white palace still shine under the sun, receiving pilgrims and visitors from every corner of the world. Pilgrims turn their prayer wheels as before; tourists raise their cameras; two kinds of gaze meet before the same palace — this, too, is a new chapter in the story of the holy city.
+
+## Epilogue: The Prayer Wheels Still Turning
+
+Dawn has not broken, and once more the chime of prayer wheels rises at the foot of Red Mountain.
+
+More than thirteen hundred years have passed; the palace has changed hands and changed face, and the one thing that never changes is the worshippers below — circling clockwise along the Barkhor, lap after lap. As long as that chime still sounds, the red and white on Red Mountain will always be a living holy city.
 
 ## Outstanding Universal Value (OUV)
 

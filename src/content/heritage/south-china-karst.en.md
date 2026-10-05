@@ -63,18 +63,39 @@ official_site: "http://shilinheritance.com"
 # === Homepage feature ===
 featured: false
 ---
+## Prologue: When These Mountains Were a Sea
 
-## The Past (I): A Hundred-Million-Year Dialogue of Water and Stone
+Hundreds of millions of years ago, South China lay beneath a shallow sea. Sunlight passed through warm seawater and fell on beds of limestone piling up, layer upon layer, on the seabed — no pinnacles yet, no dolines, only a sea floor slowly growing thick, as quiet as a book of geology not yet opened.
 
-Hundreds of millions of years ago, South China lay beneath a shallow sea, on whose floor immense beds of limestone were deposited. Since the Cenozoic, crustal uplift has raised these rocks above the waves, while water rich in carbon dioxide seeped along the joints, dissolving and sculpting the hard stone into pinnacles, tower karst, caverns, dolines and fissure valleys — a "dialogue between water and stone" that has gone on for aeons and still continues.
+No one could have imagined that this sea would one day rise up as mountains, and then be carved, stroke by stroke, by a hundred million years of water into the strangest gallery of landforms on Earth.
 
-## The Past (II): From Stone Forest to Doline
+## A Hundred-Million-Year Dialogue of Water and Stone
 
-Each of the seven component areas of the South China Karst holds its own marvel: the Stone Forest of Yunnan is famed for sword-shaped karst, and the legend of Ashima gives the stone pinnacles a soul; Maolan in Libo, Guizhou, is a treasure house of karst forest; the Three Natural Bridges and the dolines of Wulong, Chongqing, are nature's own "geological theatre"; while the riverine peaks of the Li River at Guilin are the very origin of the saying that "Guilin's landscape is the finest under heaven." Together the seven areas trace the complete sequence of karst evolution.
+Since the Cenozoic, the crust has risen, lifting the limestone beds above the waves. Through aeons of wind and weather, water rich in carbon dioxide seeped along the joints of the rock, dissolving, eating, sculpting — the hardest thing on earth, reshaped by one of the softest.
 
-## The Present: A World Heritage Grown in Two Phases
+Pinnacles, tower karst, caverns, dolines and fissure valleys took shape, one after another: mountains hollowed out, then rebuilt. This "dialogue between water and stone" has been going on for aeons — and is still going on. Every rainstorm is its next sentence.
 
-In 2007, the first phase of the South China Karst — Shilin, Libo and Wulong — was inscribed on the World Heritage List under criteria (vii) and (viii); in 2014, four more areas — Guilin, Shibing, Jinfo Mountain and Huanjiang — were added, extending the property across Yunnan, Guizhou, Chongqing and Guangxi. China now holds the world's most complete series of karst heritage.
+## From Stone Forest to Doline
+
+From the Stone Forest of Yunnan to Guilin in Guangxi, each of the seven component areas of the South China Karst holds its own legend.
+
+The Stone Forest of Yunnan is famed for its sword-shaped karst — ten thousand stone blades rising like a forest — and the tale of Ashima gives the pinnacles a soul; Maolan in Libo, Guizhou, is a treasure house of karst forest, a forest that grows on stone; the Three Natural Bridges and the dolines of Wulong, Chongqing, are nature's own "geological theatre," where mountains and water raise a magnificent stage; and the riverine peaks of the Li River at Guilin are the very origin of the saying that "Guilin's landscape is the finest under heaven" — one river, folding the mountains into a painting.
+
+Seven lands of stone, strung together into the complete sequence of karst evolution. Scattered across four provinces and a municipality, they read like one essay written by a single hand.
+
+## 2014: All Seven Lands Together at Last
+
+In 2007, the first phase of the South China Karst — Shilin, Libo and Wulong — was inscribed on the World Heritage List under criteria (vii) and (viii). For the first time, the stones had a name in the world.
+
+In 2014, four more areas — Guilin, Shibing, Jinfo Mountain and Huanjiang — were added, extending the property across Yunnan, Guizhou, Chongqing and Guangxi. Seven lands, together at last — and China now holds the world's most complete series of karst heritage.
+
+From shallow sea to mountain, from mountain to the World Heritage List, the road took aeons. That line of names on the List is only the newest page of the story.
+
+## Epilogue: The Water Is Still Carving
+
+Hundreds of millions of years ago, this was a sea; aeons later, the water is still cutting new lines into the stone.
+
+The tower karst will keep rising, the dolines will keep sinking, the caverns will keep extending — this land never stops changing, just as it never stops being beautiful. Next time you stand among the Stone Forest, listen: the sound of carving — a hundred million years of water — is still working beneath your feet.
 
 ## Outstanding Universal Value (OUV)
 

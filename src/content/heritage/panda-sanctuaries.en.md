@@ -64,17 +64,35 @@ official_site: "http://www.chinawolong.gov.cn/"
 featured: false
 ---
 
-## The Past (I): An Eight-Million-Year Hermit
+## Prologue: A Black-and-White Figure in the Bamboo Grove
 
-The giant panda has lived on Earth for some eight million years. Its contemporaries such as the stegodon are long extinct, yet it survives by its black-and-white coat and its bamboo diet, earning the title of "living fossil." In 1869, the French naturalist Father Armand David collected the first giant panda specimen at Baoxing, Sichuan, and the Western scientific world met this species unique to China.
+At dawn, mist rolls over the treetops of the Qionglai Mountains, and a black-and-white giant panda sits in a grove of arrow bamboo, slowly chewing a stalk. It does not know it is a "national treasure," or that eight million years are flowing past its jaws — it simply lives, alone in the misty forest, as its ancestors did.
 
-## The Past (II): The Last Home
+This forest is its last home.
 
-The Sichuan Giant Panda Sanctuaries lie in the Qionglai, Mount Siguniang and Jiajin ranges, preserving the world's most complete vertical ecosystem of subtropical mountains: fir forests, arrow bamboo groves and alpine meadows unfold in tiers, and the wild panda population here accounts for about 30 percent of the national total. In 1963, the Wolong Nature Reserve was established — China's first giant panda reserve; in 1978, the China Giant Panda Research Centre was founded, and captive breeding began.
+## The Hermit of Eight Million Years
 
-## The Present: From Endangered to Vulnerable
+The giant panda has lived on Earth for some eight million years. Its contemporaries, such as the stegodon, are long extinct, yet it survives by its black-and-white coat and its bamboo diet — earning the title of "living fossil." It has watched glaciers, forests and dynasties come and go, yet it has always kept the quiet of the deep bamboo groves — its life is a natural history of holding on.
 
-In 2006, the Sichuan Giant Panda Sanctuaries were inscribed on the World Heritage List under criterion (x) — one of China's few World Heritage properties themed on a single species. After decades of conservation, in 2021 the giant panda's threat level was downgraded from "endangered" to "vulnerable"; in the rustling bamboo groves new cubs are still being born — these misty mountain forests guard China's most iconic creature.
+## Father David's Specimen
+
+In 1869, the French naturalist Father Armand David collected the first giant panda specimen at Baoxing, Sichuan. When he first set eyes on that black-and-white face, the Western scientific world met a species unique to China — and from then on, the word "panda" began to travel the world.
+
+## The Vertical Kingdom in the Mist
+
+Today, the Sichuan Giant Panda Sanctuaries lie in the Qionglai, Mount Siguniang and Jiajin ranges, preserving the world's most complete vertical ecosystem of subtropical mountains: fir forests, arrow bamboo groves and alpine meadows unfold in tiers, like an ecological book standing open on its edge. The wild panda population here accounts for about 30 percent of the national total — nearly a third of China's wild pandas live in this mist.
+
+## 1963: Lights at Wolong
+
+In 1963, the Wolong Nature Reserve was established — China's first giant panda reserve. In 1978, the China Giant Panda Research Centre was founded, and captive breeding began: the first research light lit in the deep mountains showed an endangered species another way to live.
+
+## From Endangered to Vulnerable
+
+In 2006, the Sichuan Giant Panda Sanctuaries were inscribed on the World Heritage List under criterion (x) — one of China's few World Heritage properties themed on a single species. After decades of conservation, in 2021 the giant panda's threat level was downgraded from "endangered" to "vulnerable."
+
+## Epilogue: New Guests in the Bamboo
+
+When the mist lifts, the wind passes through the groves and a rustling of chewing returns. It sat this way eight million years ago; eight million years later, new cubs are still being born in the depths of the bamboo. These misty mountain forests guard China's most iconic creature — and the plain, simple business of being alive.
 
 ## Outstanding Universal Value (OUV)
 

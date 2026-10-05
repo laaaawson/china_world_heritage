@@ -63,17 +63,55 @@ official_site: "https://www.liangzhusite.com/"
 featured: false
 ---
 
-## The Past (I): A "City Plan" from Five Thousand Years Ago
+## Prologue: A Shard with a Pattern
 
-The Liangzhu city covers about three square kilometres, formed of the Mojiaoshan palace precinct, the city walls and the inner and outer moats, while beyond the walls lie the Yaoshan and Huiguanshan altars and the Fanshan royal cemetery. Even more astonishing is the water-management system beyond the city: eleven dykes with a total length of more than ten kilometres, serving flood control, water storage and transport at once — the earliest large-scale hydraulic project yet found in China, centuries older than the legendary flood-taming of Yu the Great.
+In 1936, at Liangzhu town in Yuhang, the archaeologist Shi Xingeng walked the fields, gathering up shards of pottery and pieces of stone scattered along the banks of ponds and the ridges between paddies. One of them was etched with fine, dense lines.
 
-## The Past (II): A Spirit Kingdom Carved in Jade
+It was no ordinary shard — it came from a world buried for millennia. Shi Xingeng followed it with his trowel, turning up stone tools, jade and broad layers of dark earth. He may not have realised that he was standing on the threshold of a prehistoric metropolis: an ancient city built of a hundred thousand timber logs and a million cubic metres of earth and stone, waiting under the soil to be recognised again.
 
-The most distinctive mark of Liangzhu is its jade. On the "King of Cong" and "King of Yue" axes excavated from the Fanshan royal cemetery are engraved, with lines as fine as a hair, the divine figure with an animal face — through which the Liangzhu people unified belief and marked identity. The quantity and craftsmanship of the jade cong, yue axes and bi discs show that Liangzhu already possessed a highly organised division of labour and system of power: an early state in its maturity.
+## The Metropolis by Lake Tai
 
-## The Present: Testimony to Five Thousand Years of Civilisation
+Around 3300 BCE, the Liangzhu culture of the Lake Tai basin formed a unified centre of belief and power.
 
-In 1936, Shi Xingeng discovered a prehistoric site at Liangzhu town; in 2007, archaeologists confirmed the Liangzhu city; in 2019, the Archaeological Ruins of Liangzhu City were inscribed on the World Heritage List under criteria (iii)(iv). The international archaeological community agrees: with the complete combination of city, waterworks and jade ritual objects, the Liangzhu site demonstrates the five-thousand-year history of Chinese civilisation.
+Around 3000 BCE, a city rose on the lakeshore: the Mojiaoshan palace precinct at its heart, ringed by city walls and inner and outer moats, while beyond the walls lay the Yaoshan and Huiguanshan altars and the Fanshan royal cemetery. The layout was so meticulous that it reads like a five-thousand-year-old city plan.
+
+## The Dams That Stopped the Floods of Tianmu
+
+Beyond the city, there was something even more astonishing.
+
+Eleven dykes unfolded across the hills, more than ten kilometres in total, serving flood control, water storage and transport at once — the earliest large-scale hydraulic project yet found in China, centuries older than the legendary flood-taming of Yu the Great. The Liangzhu people did not merely build a city; they tamed the waters that rushed down from the southern slopes of the Tianmu Mountains.
+
+> Five thousand years ago, someone here already understood: more durable than city walls is order.
+
+## The Spirit Kingdom in Jade
+
+The most distinctive mark of Liangzhu is jade.
+
+On the "King of Cong" and "King of Yue" axes unearthed from the Fanshan royal cemetery are engraved, with lines as fine as a hair, the divine figure with an animal face — the emblem through which the Liangzhu people unified belief and marked identity. The quantity and craftsmanship of the jade cong, yue axes and bi discs speak of a highly organised division of labour and system of power: an early state coming of age.
+
+## The Name Beneath the Yellow Earth
+
+A brilliant civilisation, in the end, falls silent.
+
+Halls crumbled, walls vanished, and grass and yellow earth climbed layer upon layer over everything, sealing the whole city underground. The name of Liangzhu was forgotten by the shores of Lake Tai — forgotten for more than four thousand years.
+
+## Reunion Under the Trowel
+
+In 1936, the archaeologist Shi Xingeng discovered a prehistoric site at Liangzhu town; in 2007, archaeologists confirmed the ancient city, about three square kilometres in total area.
+
+The international archaeological community now agrees: with the complete combination of city, waterworks and jade ritual objects, the Liangzhu site testifies to five thousand years of Chinese civilisation — Liangzhu is a seal of civilisation, burnished anew.
+
+## 2019: Onto the World Stage
+
+In 2019, the Archaeological Ruins of Liangzhu City were inscribed on the World Heritage List under criteria (iii) and (iv).
+
+Today, the Liangzhu Museum welcomes visitors from across the world; the divine figure with the animal face looks out from five thousand years ago into the eyes of today. What testifies to the five-thousand-year history of Chinese civilisation is no longer a legend — it is the city itself.
+
+## Epilogue: The Divine Figure with the Animal Face
+
+Back to that shard.
+
+Five thousand years ago, Liangzhu craftsmen engraved the divine figure with the animal face on a jade cong, with lines as fine as a hair; five thousand years later, someone stands before it behind a glass case. Civilisation may sleep, but it never disappears — it simply waits for a patient enough hand to call it back into the light.
 
 ## Outstanding Universal Value (OUV)
 

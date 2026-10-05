@@ -60,17 +60,35 @@ official_site: "http://www.kaiping.gov.cn/kpswhgdlytyj/"
 featured: false
 ---
 
-## The Past (I): Fortresses of a Diaspora Homeland
+## Prologue: A Castle in the Rice Fields
 
-Kaiping, in Guangdong, lies on the alluvial plain of the Tan River, where bandits and floods long plagued the villagers. In the late Ming and early Qing, villagers began building diaolou — towers combining defence and dwelling. From the mid-19th century, great numbers of Kaiping people went abroad — laying railways, clearing land, opening restaurants — and sent their hard-earned money home. In the 1920s and 30s, remittances drove the building of diaolou to its golden age: at the peak, the county held more than three thousand towers.
+September, and the late rice is yellow. Among the paddies of Kaiping, a concrete tower rises straight out of the banana groves, its Roman columns capped with Chinese glazed tiles, the two standing quietly together in the evening light.
 
-## The Past (II): A Marvel of East and West
+This is a diaolou — a watchtower house. Its master left long ago, but the tower stays, like an old man who refuses to leave, keeping watch over a rice field for someone who has gone far away.
 
-What moves you most about the Kaiping diaolou is their architectural "mixed blood": reinforced concrete from the West, Roman columns, Gothic spires and Baroque ornament sharing walls and roofs with Chinese glazed tiles and moulded flowers-and-birds plasterwork. Mingshi Lou in Zili village and Ruishi Lou in Jinjiangli (the "First Tower of Kaiping") both tell of their owners' voyages across the ocean — the diaolou were at once defensive forts and declarations of an overseas son's glory.
+## The Years of Water and Bandits
 
-## The Present: From Countryside to World Heritage
+Push the clock back four hundred years, and life in Kaiping was far less quiet. Lying on the alluvial plain of the Tan River, the county was well-watered and fertile, yet floods drowned the fields every summer and banditry made the nights unsafe. In the late Ming and early Qing, villagers began building their houses as towers — high walls, narrow windows, a lookout on the top floor. A dwelling in peacetime, a fortress the moment the bandits came. The first diaolou grew out of one simple wish: to let a family sleep in peace.
 
-In 2007, the Kaiping Diaolou and Villages were inscribed under criteria (ii), (iii) and (iv). The towers, together with the surrounding traditional villages, rice fields and bamboo groves, form a cultural landscape unique to the diaspora homeland; today many diaolou still stand among the fields, telling the world a history of Chinese farmers striving across the seas.
+## The Wind from Nanyang
+
+In the mid-19th century, a greater restlessness pushed the people of Kaiping towards a farther sea. Laying railways, clearing wilderness, opening restaurants — tens of thousands of young men crowded onto emigrant ships and staked their lives on foreign worksites. What they sent home was thin letters and heavy silver dollars. The remittances flowed back along the river roads, and the first towers rose at the mouths of the villages. The wind from Nanyang had blown into the rice fields of western Guangdong.
+
+## The Golden Age of Three Thousand Towers
+
+In the 1920s and 30s, the sons who had gone overseas came home. They built the world they had seen into their homeland: reinforced concrete from the West, Roman columns, Gothic spires, Baroque ornament — shaking hands with Chinese glazed tiles and moulded flowers-and-birds plasterwork on the same building. Mingshi Lou in Zili village and Ruishi Lou in Jinjiangli (the "First Tower of Kaiping") both tell on their walls of their masters' voyages across the ocean. In that decade the county's diaolou numbered more than three thousand: every tower was at once a defensive fort and a returned son's declaration of family glory.
+
+## When the Towers Fell Silent
+
+But the towers soon emptied. In the turbulent years, those who had gone abroad did not come back; the iron gates were locked, vines climbed the windowsills, and swallows built their nests in the gun loops of the top floors. More than three thousand towers stood quietly in the fields, like bells that no longer rang.
+
+## Seen Again
+
+It was not until recent decades that people took another look at these silent towers. In 2007, the Kaiping Diaolou and Villages were inscribed on the World Heritage List under criteria (ii), (iii) and (iv) — the towers, together with the surrounding traditional villages, rice fields and bamboo groves, form a cultural landscape unique to the diaspora homeland. Today some 1,800 diaolou still stand among the fields, telling the world a history of Chinese farmers striving across the seas.
+
+## Epilogue: Wind on the Rooftop
+
+September again, and the rice is yellow again. The wind blows across the rooftop, and the Roman columns and glazed tiles stand side by side like two silent old friends. There is no one in the tower, but every brick remembers: somewhere on a foreign worksite, a man thought of this rice field for his entire life.
 
 ## Outstanding Universal Value (OUV)
 

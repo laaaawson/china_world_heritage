@@ -67,17 +67,35 @@ official_site: "http://www.chinagrandcanal.com/"
 featured: false
 ---
 
-## The Past (I): The First Spade of Twenty-Five Centuries
+## Prologue: The First Spade
 
-In 486 BCE, King Fuchai of Wu, seeking to dominate the north, cut the Han Gou canal at Yangzhou to link the Yangtze and the Huai — and the history of the Grand Canal began. Under Emperor Yang of the Sui, the Yongji, Tongji, Han Gou and Jiangnan canals were joined into one, linking north and south around the centre at Luoyang. In the Yuan dynasty, Guo Shoujing built the Tonghui Canal, straightening the route so that tribute boats reached Dadu directly — the Beijing–Hangzhou Grand Canal in its final form.
+In 486 BCE, outside the city of Yangzhou, the spring flood was rising. King Fuchai of Wu stood by the worksite of the Han Gou, watching labourers cut shovel after shovel into the earth to join the Yangtze and the Huai. He could hardly have foreseen that this ditch would become the lifeblood of a civilisation for twenty-five centuries — no other man-made waterway would ever cut deeper into the fate of a nation.
 
-## The Past (II): Grain Tribute and the Cities It Raised
+## Fuchai's Ditch, and the Canal of the Sui
 
-The Grand Canal was first of all the nation's "grain-tribute river": in the Ming and Qing, millions of dan (shiploads) of tribute grain moved north along it every year, with the Grain Tribute Governor-General's yamen seated at Huai'an. Along its banks rose a string of thriving cities — Yangzhou, Suzhou, Hangzhou, Linqing, Jining... "Wealth of the southeast, soldiers of the northwest": one river bound the whole empire together. The canal also drove commerce, the salt trade and cultural exchange, as the rice, silk and porcelain of the south met the coal, horses and hides of the north on its wharves.
+Fuchai opened the Han Gou to march north to war — a waterway dug for conquest would become a corridor of civilisation. A thousand years of rising and falling followed, until the time of Emperor Yang of the Sui, when the Yongji, Tongji, Han Gou and Jiangnan canals were joined into one, linking north and south around the centre at Luoyang. For the first time, a single great canal stitched the two ends of the empire together.
 
-## The Present: The Grand Canal Reborn
+## Guo Shoujing's Straight Cut
 
-With the rise of railways, canal tribute shipping declined — but the water never stopped flowing. In 2014, the Grand Canal was inscribed under criteria (i), (iii), (iv) and (vi), covering 27 stretches of waterway and 58 heritage sites across Beijing, Tianjin, Hebei, Shandong, Jiangsu, Zhejiang, Anhui and Henan. Today the eastern route of the South-to-North Water Diversion follows the old waterway, and the canal continues its story in a new age.
+Under the Yuan, when Dadu (today's Beijing) became the capital, Guo Shoujing built the Tonghui Canal, straightening the route so that tribute boats reached Dadu directly — the Beijing–Hangzhou Grand Canal in its final form. For centuries its course hardly changed: like an anchor cast into the earth, it pinned northern and southern China together.
+
+## The Years of the Tribute Fleets
+
+The Grand Canal was first of all the nation's "grain-tribute river": in the Ming and Qing, millions of dan of tribute grain moved north along it every year, with the Grain Tribute Governor-General's yamen seated at Huai'an. Along its banks rose a string of thriving cities — Yangzhou, Suzhou, Hangzhou, Linqing, Jining... "Wealth of the southeast, soldiers of the northwest": one river bound the whole empire together. On the wharves, the rice, silk and porcelain of the south met the coal, horses and hides of the north; salt fleets and merchant boats crowded the water, and the cultures of north and south quietly mingled in the teahouses, stages and markets along both banks.
+
+## The Turn of the Railway Age
+
+When the whistle of the railway sounded along the canal, tribute shipping declined: the official barges grew fewer, the wharves turned quiet. But the water never stopped flowing. The canal laid down the mission of carrying an empire, settled into the everyday business of rice and salt, and waited quietly for the next age.
+
+## 2014: The Canal Reborn
+
+In 2014, the Grand Canal was inscribed on the World Heritage List under criteria (i), (iii), (iv) and (vi), covering 27 stretches of waterway and 58 heritage sites across Beijing, Tianjin, Hebei, Shandong, Jiangsu, Zhejiang, Anhui and Henan.
+
+Today the eastern route of the South-to-North Water Diversion follows the old waterway, and the ancient channel flows full and quick again — the canal continues its story in a new age.
+
+## Epilogue: The Water Still Flows
+
+Twenty-five centuries later, standing by the old Han Gou at Yangzhou, you can still see the water glinting. The king who dug it is long gone, but the water still flows — through dynasties, past the railways, into the great artery of the South-to-North Water Diversion, carrying that first spade of 486 BCE all the way to today.
 
 ## Outstanding Universal Value (OUV)
 

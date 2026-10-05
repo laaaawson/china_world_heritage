@@ -60,17 +60,41 @@ official_site: "https://www.yixian.gov.cn/zwzx/jcdt/9135804.html"
 featured: false
 ---
 
-## The Past (I): Xidi — A Village of Poetry and Books
+## Prologue: Reflections on the Moon Pond
 
-Xidi was founded in the Northern Song dynasty, and the Hu family has dwelt there for generations. When the Huizhou merchants rose in the Ming, the younger Hus, "merchants who loved learning," poured their trading profits into mansions, ancestral halls and schools: the plaques of the Jing'ai and Zhui'emu halls and the "merchant"-character door of the Lufu Hall all bear the imprint of the Huizhou ideal of "both merchant and scholar." Of the thirteen archways at the village entrance, the finest — the Hu Wenguang Archway — still stands, telling of this family's glory of "office and commerce in one."
+One early morning, before the mist had lifted, a traveller stood at the Moon Pond of Hongcun. The first light was tracing the white walls, black-tiled roofs and horse-head gables into the water, stroke by stroke.
 
-## The Past (II): Hongcun — The Wisdom of an Ox-Shaped Water System
+The water of the channels ran from the head of the village to its foot, murmuring. No one can say exactly when it first began to flow — only that it has been running from the Yongle era of the Ming to this day, never once stopping.
 
-Hongcun was founded in the Southern Song dynasty. In the Yongle era of the Ming, the Wang family led water from the Xixi stream into the village and planned the waterways in the shape of an ox: the Moon Pond is the "ox's stomach," the channels the "ox's intestines," winding through every house and emptying at last into the "ox's belly" of South Lake — clear water at every door, a living circulation, guarding against fire and making a pleasant home. The wood carvings of Chengzhi Hall and the lotus fragrance of the South Lake Academy have earned Hongcun the name of "the village in a Chinese painting."
+Two villages have lain this way, deep in the landscape of southern Anhui, for eight hundred years.
 
-## The Present: Ancient Villages on the World Heritage List
+## Xidi: Where Silver Was Built into Walls
 
-In 2000, the ancient villages of Xidi and Hongcun in southern Anhui were inscribed on the World Heritage List under criteria (iii), (iv) and (v). Today the flagstone lanes of Xidi and the edge of the Moon Pond in Hongcun are as busy as ever — and Hongcun has become the setting of many films and TV dramas, carrying these two "museums of Huizhou vernacular houses" from the deep mountains to the world.
+In the Northern Song dynasty, a branch of the Hu family moved to Xidi and built the village against the hills and the stream. At first it was just an unremarkable settlement among the mountains of Huizhou.
+
+Change came with an age called "the Huizhou merchants." When Huizhou commerce rose in the Ming, the younger Hus were "merchants who loved learning" — trading in the world outside, studying at home. They poured their trading profits into mansions, ancestral halls and schools: the plaques of the Jing'ai and Zhui'emu halls hung high, and a "merchant"-character door was carved into the Lufu Hall — everywhere the imprint of "both merchant and scholar."
+
+Thirteen archways line the village entrance; the finest among them, the Hu Wenguang Archway, still stands, telling of this family's glory of "office and commerce in one." To a Huizhou man, earning money was a means; learning and honouring the family name were the ends.
+
+## Hongcun: An Ox Lying in the Hills and Water
+
+Hongcun was founded in the Southern Song dynasty, and the Wang family has dwelled there as one clan ever since.
+
+In the Yongle era of the Ming, the Wangs led water from the Xixi stream into the village and laid the whole settlement out as an ox lying down: the Moon Pond is the "ox's stomach," the channels the "ox's intestines," winding clear water through every house until it empties into the "ox's belly" of South Lake. Clear water at every door, a living circulation — the ox guards against fire and makes a pleasant home, and so it has lain through the centuries.
+
+The wood carvings of Chengzhi Hall are rich and intricate, and the lotus fragrance of the South Lake Academy has drifted down the years. Water gave Hongcun its life and its name — "the village in a Chinese painting."
+
+## 2000: Ancient Villages of the Deep Mountains Reach the World
+
+In 2000, the ancient villages of Xidi and Hongcun in southern Anhui were inscribed on the World Heritage List under criteria (iii), (iv) and (v).
+
+Today the flagstone lanes of Xidi and the edge of the Moon Pond in Hongcun are as busy as ever. Hongcun in particular has become the setting of many films and TV dramas — the white walls and black tiles of the silver screen have carried these two "museums of Huizhou vernacular houses" from the deep mountains to the world.
+
+## Epilogue: White Walls and Black Tiles on the Water
+
+Eight hundred years, two villages, one stretch of water.
+
+Go back to the Moon Pond in the early morning and you will still find the reflection complete: white walls, black tiles, horse-head gables, and a traveller on the bridge. The designers of eight hundred years ago are long gone, but the water still remembers their drawings — every day it paints the same picture, flowing on for those who come to look.
 
 ## Outstanding Universal Value (OUV)
 

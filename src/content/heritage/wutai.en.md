@@ -63,18 +63,49 @@ official_site: "http://wts.sxxz.gov.cn/"
 # === Homepage feature ===
 featured: false
 ---
+## Prologue · Light on the Summit Terrace
 
-## The Past (I): The Sanctuary of Bodhisattva Manjushri
+At four in the morning, frost still blankets the col of North Terrace. A monk climbs the stone steps with a flask of lamp oil and sets a lamp inside the summit shrine — on Mount Wutai, the day begins with one lamp.
 
-Mount Wutai takes its name from its five flat-topped peaks, and is the foremost of the four sacred Buddhist mountains of China — the abode of Manjushri, Bodhisattva of Wisdom. Temples appeared as early as the Eastern Han; Emperor Xiaowen of the Northern Wei built monasteries and promoted the faith, and by the Sui and Tang dynasties more than three hundred and sixty temples stood on the mountain. Monks from Japan and Korea came on pilgrimage from afar, making Wutai an international centre of East Asian Buddhism.
+No one has counted how many lamps have been lit on the five terraces over these fifteen hundred years. But everyone knows for whom they burn: Manjushri, the Bodhisattva of Wisdom. The five summits bloom like a lotus, and within them sits his sacred abode — and it is said that Manjushri once appeared here to preach, which is why this mountain became the destination of so many long pilgrimages.
 
-## The Past (II): A Treasure House of Ancient Architecture
+## The Calling of Manjushri
 
-Mount Wutai is a treasury of China's surviving timber architecture: the East Hall of Foguang Temple, rebuilt in 857, was called "China's foremost national treasure" by Liang Sicheng; the main hall of Nanchan Temple, built earlier in 782, is the oldest timber building in China. The vigour of the Tang, the bracket sets of the Liao and Jin, the elaboration of the Ming and Qing unfold temple by temple across the mountain — a three-dimensional history of Chinese architecture.
+In the early Eastern Han, the first temples appeared on Mount Wutai. Monks climbed the mountain paths, built thatched huts in the valleys of Taihuai, and planted the first sticks of incense in the yellow earth.
 
-## The Present: Heritage and Faith
+Under the Northern Wei, Emperor Xiaowen built monasteries and promoted the faith — an emperor himself laid the foundation for this mountain, and the sanctuary of Manjushri gradually took shape. In the two centuries that followed, a handful of huts grew into groves of grey-tiled temple roofs.
 
-In 2009, Mount Wutai was inscribed on the World Heritage List under criteria (ii), (iii), (iv) and (vi) — one of China's few properties comprising an entire sacred Buddhist mountain. Today the "mini pilgrimage" of Dailuo Peak, the bronze hall of Xiantong Temple and the bells and drums on the summits keep alive the incense and solemnity that Wutai has sustained for fifteen hundred years.
+> The first pilgrims of Wutai were not pilgrims at all — they were monks and emperors who believed that wisdom lived on this mountain.
+
+## The Age of Three Hundred and Sixty Temples
+
+By the Sui and Tang dynasties, more than three hundred and sixty temples stood on Mount Wutai. Emperors in Chang'an sent builders; painters came from Luoyang to cover the walls with frescoes; and monks from Japan and Korea crossed the sea in groups to debate, to worship, and to walk the pilgrimage circuits alongside their Chinese counterparts.
+
+It was the golden age of Wutai: sutra chanting and temple bells rang from dawn to dusk, and the mountain paths were crowded with pilgrims speaking every tongue of East Asia. Wutai was no longer merely a famous mountain of China — it had become an international centre of East Asian Buddhism.
+
+## Liang Sicheng's "Foremost National Treasure"
+
+Years later, an architectural historian walked into Taihuai Town. His name was Liang Sicheng, and he had come not to worship but to find a Tang-dynasty hall that legend said still stood in these mountains.
+
+He stopped before the East Hall of Foguang Temple — rebuilt in 857, a hall that Liang would call "China's foremost national treasure." While everyone assumed that no Tang timber architecture had survived in the mountains, this hall's bracket sets had been bearing the storms of more than eleven centuries, quietly waiting for him to arrive.
+
+## The Rings of Timber
+
+The architectural history of Wutai is written in wood. The main hall of Nanchan Temple, built in 782, is older still — the oldest timber building surviving in China. The vigour of the Tang, the bracket sets of the Liao and Jin, the elaboration of the Ming and Qing: they unfold temple by temple across the mountain.
+
+Five terraces, temples with rings like a tree — every beam and column is a page of Chinese architectural history.
+
+## A Thousand and Five Hundred Years of Incense
+
+In 2009, Mount Wutai was inscribed on the World Heritage List under criteria (ii), (iii), (iv) and (vi) — one of China's few properties comprising an entire sacred Buddhist mountain.
+
+Today the "mini pilgrimage" of Dailuo Peak still tests the faithful step by step, the bronze hall of Xiantong Temple gleams in the sunlight, and the bells and drums on the summits still echo through the sea of clouds — the incense of Wutai has burned for fifteen hundred years, without missing a single day.
+
+## Epilogue · The Lamp Still Burns
+
+At four in the morning, the lamp on the summit is still burning.
+
+For fifteen hundred years, countless people have climbed these five terraces to light lamps, to pour oil, to kneel, and to rise again. The lamp is still the same lamp — as long as someone believes that wisdom lives in these mountains, Wutai will remain Wutai.
 
 ## Outstanding Universal Value (OUV)
 

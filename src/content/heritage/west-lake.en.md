@@ -64,17 +64,41 @@ official_site: "https://westlake.hangzhou.gov.cn/"
 featured: false
 ---
 
-## The Past (I): A Lake of Two Great Prefects
+## Prologue: The Painter and the Moon
 
-The West Lake was originally a lagoon at the mouth of the Qiantang River; only repeated dredging over the centuries gave it its present form. In 822, Bai Juyi, as prefect of Hangzhou, dredged the lake, built a causeway and impounded water to irrigate a thousand hectares of farmland; in 1089, Su Shi, in his second post at Hangzhou, dredged the silt and raised the Su Causeway straight across the lake, planting peach and willow in three rows along it. The water-conservation works of the two great poets gave the West Lake its "Bai Causeway" and "Su Causeway" — and wrote it into the history of Chinese literature.
+One autumn evening in the Southern Song dynasty, a painter set up his easel on the shore of the West Lake. The first thread of moonlight touched the water; he held his breath and ground a little more green pigment. He could not know that the lake he was painting would go on being written about, painted, dredged and dammed for centuries to come — until it became the reflection that a whole civilisation cast into its water.
 
-## The Past (II): Ten Scenes and a Painted Realm
+The West Lake was not born as it is. It began as a lagoon at the mouth of the Qiantang River.
 
-Southern Song painters created *Pictures of the Ten Scenes of the West Lake* by the lakeside, fixing the names of "Spring Dawn on the Su Causeway," "Breeze-ruffled Lotus at Quyuan," "Autumn Moon over the Calm Lake" and "Lingering Snow on Broken Bridge," which went on to influence the garden art and painting of East Asia. The stone pagodas of Three Pools Mirroring the Moon, the legend of Leifeng Pagoda (the Tale of the White Snake) and the bells of Lingyin Temple steep every hill and water of the lake in myth and poetry.
+## A Lagoon Finds Its Shape
 
-## The Present: A Cultural Landscape on the World Heritage List
+At the Qiantang River mouth, silt and sea water once wrestled in a shallow bay: the water rose and fell with the tide, tasting now of salt, now of sweetness, and had it not been dredged again and again it would long ago have silted into a marsh.
 
-In 2011, the West Lake Cultural Landscape of Hangzhou was inscribed under criteria (ii), (iii) and (vi), among the few Chinese properties selected in the "cultural landscape" category — proof that the lake's value lies not only in the beauty of its scenery but in the deep civilisation shaped over two millennia by the mutual influence of man and lake. Today morning exercisers and tourists along the shore are still adding to that daily poetry of "light make-up and heavy alike."
+So, generation after generation, officials and townsfolk dug out the mud, raised causeways and stored the water, shovel by shovel. Every stretch of the lake's shore is a stroke written by human hands and nature together. And then, figures with names walked into the story.
+
+## Bai Juyi's Thousand Hectares
+
+In 822, Bai Juyi took office as prefect of Hangzhou. He dredged the lake, raised the Bai Causeway and impounded water to irrigate a thousand hectares of farmland. A poet learned to govern water first — and from that beginning, the lake was destined to live in engineering and in verse at once.
+
+## Su Shi's Three Rows of Peach and Willow
+
+In 1089, Su Shi served in Hangzhou for the second time. The lake had choked badly with silt; he dredged it, and with the mud raised the Su Causeway straight across the water, planting peach and willow in three rows along it. The lake now bore two strokes — the Bai and the Su — and a line that still echoes today: "If the West Lake is compared to the beauty Xishi, it suits her in light make-up and heavy alike."
+
+A lake compared to a beauty: from that day, the West Lake grew into the aesthetic of a whole civilisation.
+
+## Ten Scenes, One Lake of Myth
+
+In the Southern Song, painters created the *Pictures of the Ten Scenes of the West Lake* by the lakeside, fixing in painting and verse such names as "Spring Dawn on the Su Causeway," "Breeze-ruffled Lotus at Quyuan," "Autumn Moon over the Calm Lake" and "Lingering Snow on Broken Bridge" — names that went on to shape the garden art and painting of East Asia. The stone pagodas of Three Pools Mirroring the Moon stand in mid-lake; beneath Leifeng Pagoda, legend holds the White Snake of the famous tale — the story goes that the snake could only be freed when the pagoda should fall; and the bells of Lingyin Temple carry across the water from the hills. Every hill and water of the lake is steeped in myth and poetry.
+
+## A World Heritage in Light Make-up
+
+In 2011, the West Lake Cultural Landscape of Hangzhou was inscribed on the World Heritage List under criteria (ii), (iii) and (vi) — one of the few Chinese properties chosen in the "cultural landscape" category. It proved that the lake's value lies not in scenery alone, but in the deep civilisation shaped over two millennia by the mutual influence of man and lake. Today the morning exercisers along the shore and the tourists with their cameras are still writing that daily poetry of "light make-up and heavy alike."
+
+## Epilogue: Moonlight on the Lake
+
+The painter has long since dissolved into the moonlight he painted. But the moonlight remains: the water of Autumn Moon over the Calm Lake still glitters, taiji fans open along the banks at dawn, and new lenses turn toward the same wave-light.
+
+The West Lake was never a gift of nature alone. It is a cultural landscape "planted" shovel by shovel by generations of poets, painters and the people of Hangzhou — each inch of water carrying a person's aesthetics, a dynasty's myth and a generation's everyday. That is the true story behind "light make-up and heavy alike."
 
 ## Outstanding Universal Value (OUV)
 

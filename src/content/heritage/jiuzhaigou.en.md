@@ -60,17 +60,47 @@ official_site: "https://www.jiuzhai.com/"
 featured: false
 ---
 
-## The Past (I): A Quartet of Water
+## Prologue: First Light on Five Flower Lake
 
-Jiuzhaigou lies in Aba, Sichuan, at about 2,000–3,100 metres. After the Quaternary glaciers retreated, moraine blocked the valleys and formed 108 high-mountain lakes (called *haizi* locally); calcium carbonate deposits then built the travertine pools and cascades. The water of Five Flower Lake shifts colour with algae and travertine, the Multicoloured Pools are translucent as jade, and Nuorilang and Pearl Shoal Falls thunder with great force — "having seen Jiuzhaigou, no other water can impress" is no idle boast.
+At dawn, the ranger's wooden boat glides across the water of Five Flower Lake.
 
-## The Past (II): Jiuzhaigou and the Tibetan Villages
+The first sunlight climbs over the snow peaks and drops into the lake — and the water changes: blue, green, turquoise, gold, colours spreading layer by layer through the light, as if someone were pouring dye into the lake's heart. Algae and travertine move beneath the surface, and the lake seems to breathe.
 
-The valley takes its name from nine Tibetan villages within it. Villages such as Shuzheng and Heye have lived for generations beside the emerald lakes, their wooden houses, prayer flags and prayer wheels dotted among the scenery. Snow peaks, autumn forests, lakes and Tibetan villages complete the picture of a "fairyland on earth."
+Everyone who has seen this will say: this is not water; it is a lake raised by light.
 
-## The Present: From Reserve to World Heritage
+## After the Glaciers Withdrew
 
-In 1978 the Jiuzhaigou National Nature Reserve was established; in 1992 the valley was inscribed under criterion (vii). After the 2017 earthquake, scientific restoration was carried out and the mountain waters regained their old face. Today Jiuzhaigou and Huanglong are called the "jade pools of the human world," and the valley is home to the giant panda and other rare animals.
+During the Quaternary, glaciers pushed slowly through the valleys of Aba in Sichuan, then retreated. Moraine blocked the river valleys, and water with nowhere to go gathered into 108 high-mountain lakes — the locals call them *haizi*.
+
+The glaciers left another gift: calcium carbonate kept depositing, building the travertine pools and cascades. The water of Five Flower Lake shifts colour with algae and travertine, the Multicoloured Pools are translucent as jade, and Nuorilang and Pearl Shoal Falls thunder with great force. At 2,000–3,100 metres above sea level, "having seen Jiuzhaigou, no other water can impress" is no idle boast.
+
+## Nine Villages and a Sea of Jade
+
+On the upper reaches of the Baishui River, nine Tibetan villages have lived for generations — and from them the valley takes its name.
+
+Villages such as Shuzheng and Heye have lived for generations beside the emerald lakes, their wooden houses, prayer flags and prayer wheels dotted among the scenery. Snow peaks, autumn forests, lakes and Tibetan villages complete the picture of a "fairyland on earth" — the mountains are the villages' backdrop, and the villages are the mountains' living breath. The Tibetan families have kept company with these lakes for more generations than memory can count; the sound of water and the flutter of prayer flags ring together through the valley.
+
+## 1978: The Water Gains a Guardian
+
+In 1978, the Jiuzhaigou National Nature Reserve was established — the kingdom of water, for the first time, had a formal guardian.
+
+In 1992, the valley was inscribed under criterion (vii).
+
+In 2017, an earthquake shook this landscape. For a time the lakes and waterfalls lost their colour; then scientific restoration was carried out, and the mountain waters regained their old face. In truth, earthquakes have never been a stranger to Jiuzhaigou — since the Quaternary, glaciation, earthquakes and landslides together have shaped these valleys and lakes, which have been rewritten again and again, and have turned clear again and again.
+
+## The Jade Pools of the Human World
+
+Today, Jiuzhaigou and Huanglong are called the "jade pools of the human world."
+
+The 108 lakes still lie strung through the emerald valleys, the travertine pools still shine translucent, and Nuorilang Falls still thunders. The valley is also home to the giant panda and other rare animals — beneath the sound of water lies another, quieter world. Rangers still glide across the lakes at dawn, and the wonder of visitors rises with the smoke of the Tibetan villages between snow peaks and lakes.
+
+## Epilogue: So Blue They Seem Beyond This World
+
+At dawn, the ranger's wooden boat glides across Five Flower Lake once more.
+
+The water still changes with the light, so blue it seems beyond this world. The glaciers withdrew long ago, the villages have turned over many generations, and even the earthquake could not change it — the mountain waters regained their old face, and the water is still the water.
+
+Having seen Jiuzhaigou, no other water can impress. Not that one stops looking — it is that, after this, all other water is merely water.
 
 ## Outstanding Universal Value (OUV)
 

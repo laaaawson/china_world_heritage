@@ -60,17 +60,35 @@ official_site: "http://gly.xm.gov.cn/"
 featured: false
 ---
 
-## The Past (I): A Small Island's International Community
+## Prologue: Piano Music Over the Sea
 
-After 1841, when Xiamen opened to foreign trade, British, American, Japanese and other foreign residents came to Kulangsu to build houses and settle. In 1902, the Kulangsu International Settlement was formally established, and consulates, trading houses, churches, hospitals and schools landed on the island one after another — on this islet of a mere 1.88 square kilometres, consulates of thirteen countries were once stationed, earning it the name "a museum of international architecture."
+At dusk, on the golden water of Xiamen Bay, the ferry eases into Kulangsu. The red-brick villas light up one by one, and from some window a piano practice piece drifts out, mingling with the waves and the ferry whistle, floating over the flame-tree blossoms on the walls.
 
-## The Past (II): Overseas Chinese and the Sound of the Piano
+On Kulangsu, the sound of a piano is nothing unusual — this small island has too many stories to tell.
 
-In the 1920s and 1930s, Minnan overseas Chinese returned home with the wealth and experience of Nanyang (Southeast Asia), building over a thousand villas on the island: red-brick arcades, Roman columns and stained-glass windows share their rooftops with the swallowtail ridges of traditional Minnan houses. Kulangsu is also known as the "Island of the Piano" — its piano density the highest in China, with countless children growing up to the sound of music. Buildings such as the Bagua (Octagonal) Building and the Huang Rongyuan Hall still preserve that golden age of Sino-Western blending.
+## A World in One Square Kilometre
 
-## The Present: From Settlement to World Heritage
+After 1841, Xiamen opened as a treaty port, and British, American, Japanese and other foreign residents came to the island to build houses and settle. In 1902, the Kulangsu International Settlement was formally established, and consulates, trading houses, churches, hospitals and schools landed one after another. On this islet of a mere 1.88 square kilometres, consulates of thirteen countries were once stationed, earning it the name "a museum of international architecture." Walk down any alley and you will meet some foreign style: neoclassical colonnades, Gothic pointed arches, tropical verandahs of the Nanyang — all crowded along the same stretch of red-brick wall.
 
-After 1949, Kulangsu returned to New China, and the former trading houses and villas became homes and public buildings. In 2017, Kulangsu was inscribed on the World Heritage List under criteria (ii)(iii)(iv), precisely under the theme of "a historic international settlement" — it bears witness to the deep cultural exchange between China and the West on the Minnan coast in modern history, and preserves a generation's nostalgia for going south to Nanyang and coming home again.
+## Villas from Nanyang
+
+In the 1920s and 1930s, Minnan overseas Chinese returned home with the wealth and experience of Nanyang, building over a thousand eclectic villas on the island: red-brick arcades, Roman columns and stained-glass windows sharing one rooftop with the swallowtail ridges of traditional Minnan houses. Buildings such as the Bagua (Octagonal) Building and the Huang Rongyuan Hall still preserve that golden age of Sino-Western blending. The returning migrants packed the world into their luggage and brought it home, then built it, brick by brick, into the shore of their native land.
+
+## The Island of the Piano
+
+Kulangsu has another, gentler name: the Island of the Piano. Its piano density is the highest in China — church organs, school practice rooms, parlour uprights in private homes, rising and answering one another. Countless children grew up to the sound of music, practicing under Sunshine Rock by day, their playing carried by the sea wind across the whole bay by night. Piano and surf have been the island's harmony, unchanged for a hundred years.
+
+## From Settlement to Community
+
+After 1949, Kulangsu returned to New China, and the former trading houses and villas became homes and public buildings. The noisy consular years ended, but life on the island did not — the music continued, the bricks remained, only the masters changed, generation after generation.
+
+## 2017: The World Hears the Island
+
+In 2017, Kulangsu was inscribed on the World Heritage List under criteria (ii)(iii)(iv), precisely under the theme of "a historic international settlement." It bears witness to the deep cultural exchange between China and the West on the Minnan coast in modern history, and preserves a generation's nostalgia for going south to Nanyang and coming home again — a love letter to the homeland, written in brick, in piano music, and in a hundred years.
+
+## Epilogue: Music in the Evening Breeze
+
+Dusk comes again, the ferry docks again. The flame trees have bloomed and fallen season after season, but the piano still drifts from that window — on Kulangsu, the sea breeze will always carry a hundred years of the world's stories into the ear of every passer-by.
 
 ## Outstanding Universal Value (OUV)
 

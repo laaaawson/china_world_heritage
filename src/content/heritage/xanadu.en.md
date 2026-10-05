@@ -62,18 +62,49 @@ official_site: "https://www.nmg.gov.cn/zfbgt/zwgk/zzqwj/202012/t20201208_313205.
 # === Homepage feature ===
 featured: false
 ---
+## Prologue · A City on the Grassland
 
-## The Past (I): A Capital on the Steppe
+In high summer, the Jinlianchuan grass grows above a horse's knees. A herdsman driving his sheep over a ridge suddenly notices, in the distance, a stretch of earthen walls — long foundations, so long they vanish at the edge of the grassland, like a dragon that cannot wake.
 
-In 1256, Kublai Khan ordered Liu Bingzhong to raise Kaiping Prefecture on the Jinlianchuan grasslands; in 1260 Kublai assumed the Great Khanate there, and in 1264 the city was renamed Shangdu. Shangdu and Dadu (Beijing) formed the empire's "two capitals": every summer the Yuan emperor led his officials north to escape the heat, governing, hunting and feasting at Shangdu — the city became a centre of power where nomadic rule met Chinese civilisation, and Marco Polo was received here in audience by Kublai.
+The herdsman does not know that seven hundred years ago, a capital city stood here, and the eyes of an entire Eurasian world once turned toward it.
 
-## The Past (II): The Bearing of a Steppe Capital
+## Liu Bingzhong's Rules and Measuring Rope
 
-The city of Shangdu was laid out as "outer city embracing imperial city, imperial city embracing palace city," its streets straight as a chessboard; outside the walls, however, stood the felt-tent camps of the Mongol tradition, and beyond the palace city stretched the imperial gardens and hunting grounds. The steppe capital raised no conventional walled defences but took the open wilderness for its bounds — the nomadic understanding of a "capital" found its freest expression in this city.
+In 1256, Kublai Khan ordered Liu Bingzhong to raise Kaiping Prefecture on the Jinlianchuan grasslands.
 
-## The Present: World Heritage Among the Ruins
+Back then the steppe held only felt tents and herding trails. Liu Bingzhong brought the order of the Central Plains onto the grassland: taking bearings, fixing directions, ramming earth to raise walls — a city laid out like a chessboard grew out of nothing, standing on the steppe.
 
-In 1368, Ming forces took Shangdu, and the city slowly fell into ruin; in the centuries after, Shangdu became a ruin where herdsmen grazed their flocks and poets came to mourn. In 2012, the Site of Xanadu was inscribed on the World Heritage List under criteria (i), (ii), (iii), (iv) and (vi). Today the walls and palace foundations on the Jinlianchuan grasslands still speak of the vast empire that once stretched across Eurasia.
+In 1260, Kublai was proclaimed Great Khan here, adopting the reign title Zhongtong; in 1264, Kaiping was renamed Shangdu, paired with Dadu (Beijing) as the empire's two capitals. The dialogue between steppe and Central Plains found, from this city onward, a proper room of its own.
+
+## The Summer Capital
+
+Every summer, the Yuan emperor led his officials north to escape the heat, governing, hunting and feasting at Shangdu — the empire's annual "summer capital."
+
+At one of the great audiences, Marco Polo was received here by Kublai Khan. In his Travels he described the palaces of Shangdu as built of marble and gilded — a nomadic khan had moved into an agrarian city, and traders from across Eurasia set foot on the roads of the steppe.
+
+## Taking the Wilderness for Walls
+
+The city of Shangdu was laid out as "outer city embracing imperial city, imperial city embracing palace city," its streets straight as a chessboard; outside the walls, however, stood the felt-tent camps of the Mongol tradition, and beyond the palace city stretched the imperial gardens and hunting grounds.
+
+The steppe capital raised no conventional walled defences but took the open wilderness for its bounds — the nomadic understanding of a "capital" found its freest expression here: brick and felt tent side by side, the ritual order of the farmlands and the vastness of the grassland, all enclosed within the same walls.
+
+## Herdsmen and Poets Among the Ruins
+
+In 1368, Ming forces captured Shangdu. In the centuries that followed, the city became a ruin — herdsmen grazed their flocks beside the broken walls, and poets came to mourn in the autumn wind.
+
+A capital became grassland once more. The imperial carriages have long scattered, grass has overgrown the stone foundations, and only the streams of the Jinlianchuan still flow, as slowly as they did seven hundred years ago.
+
+## The Jinlianchuan Grasslands, 2012
+
+In 2012, the Site of Xanadu was inscribed on the World Heritage List under criteria (i), (ii), (iii), (iv) and (vi).
+
+Today the walls and palace foundations on the Jinlianchuan grasslands still speak of the vast empire that once stretched across Eurasia — the foremost of the two capitals has returned, in a new form, to the centre of the world's attention.
+
+## Epilogue · The Wind from Across Eurasia
+
+The herdsman and his sheep have moved on; the wind blows from the depths of the grassland.
+
+Seven hundred years ago, the same wind blew across the palace walls of Shangdu and stirred Marco Polo's robe; today it passes over the broken walls and stirs the herdsman's gown. A city of the steppe may fall into ruin, but the wind never stops — as long as the grass of Jinlianchuan stays green, Shangdu has never truly died.
 
 ## Outstanding Universal Value (OUV)
 

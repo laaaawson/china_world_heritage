@@ -60,17 +60,41 @@ official_site: "https://wwj.hunan.gov.cn/wwj/c100310/c100313/202507/t20250707_33
 featured: false
 ---
 
-## The Past (I): "Earth Emperors" of the Frontier
+## Prologue · The Flags Below the Mountain
 
-From the Yuan dynasty onward, the central court governed the southwestern minority regions through the tusi system: local leaders were appointed hereditary chieftains who ruled their domains autonomously while submitting to the centre. Laosicheng in Yongshun, Hunan, was the seat of the Peng clan's tusi for more than eight hundred years; its stone streets, yamen offices and Ancestral Hall of the Patriarch survive intact, earning it the name of "China's first tusi city."
+One morning in the Wanli era, the guards on the gate towers of Hailongtun saw dust rising along the official road at the foot of the mountain — the banners of the Ming army stretched in an unbroken line to the horizon.
 
-## The Past (II): Smoke and Fire of Three Strongholds
+Hailongtun was the military stronghold of the Yang clan of Bozhou, maintained for more than seven hundred years: the Wanjian and Feihu gates were built to the lie of the cliffs, gate after gate above sheer precipices. But on this day what came up the mountain was not a caravan — it was the imperial army. The pacification campaign of the Wanli era was fought at the foot of this mountain city, and it was the last war the fortress would ever face.
 
-Tangya, in Xianfeng County, Hubei, is famed for its stone men and horses and the archway inscribed "Jingnan Xiongzhen" (Great Town of Jingnan); Hailongtun of the Bozhou Yang clan near Zunyi, Guizhou, was a military stronghold maintained for more than seven hundred years — the Wanjian and Feihu gates were built to the lie of the cliffs, and the Ming army's pacification campaign of the Wanli era fought a fierce battle here. The three strongholds represent respectively the tusi's seat of government, his clan and his military power.
+## The Seat of Eight Hundred Years
 
-## The Present: From Frontier Governance to World Heritage
+Go back to the Yuan dynasty. The southwestern frontier was remote and mountainous, and officials sent out by the court often found the land unmanageable. So the Yuan court tried another way: instead of dispatching governors, it appointed local leaders as "tusi" — hereditary chieftains who ruled their domains autonomously while submitting to the centre.
 
-In 2015, Laosicheng, Tangya and Hailongtun were inscribed on the World Heritage List as the "Tusi Sites" under criteria (ii) and (iii). It was the first time the tusi system of southwestern China entered the world heritage arena as a whole — eight hundred years of governing wisdom, conflict and fusion between the central court and frontier peoples, all frozen in these three mountain cities.
+Laosicheng in Yongshun, Hunan, was the seat of the Peng clan's tusi for more than eight hundred years. Its stone streets, yamen offices and Ancestral Hall of the Patriarch survive intact — climb the stone steps and you can almost see the chieftain holding court. It has been called "China's first tusi city."
+
+## Three Strongholds, Three Faces of Power
+
+Tangya, in Xianfeng County, Hubei, is famed for its stone men and horses and the archway inscribed "Jingnan Xiongzhen" (Great Town of Jingnan); Hailongtun of the Bozhou Yang clan near Zunyi, Guizhou, was a fortress perched on a mountain peak. The three strongholds represent the three faces of tusi power: seat of government, clan and military might.
+
+A tusi governed his land, guarded his clan and held his army — eight hundred years of frontier rule hidden in these three forms.
+
+## Fire, and the Return to Imperial Rule
+
+After the pacification campaign, the Yang clan of Bozhou fell, and Hailongtun was abandoned to the mountain.
+
+In 1726–1735 the Qing carried out the great "gaitu guiliu" reform: the hereditary chieftains' lands were taken back by the court and governed by appointed imperial officials. The tusi system, which had lasted for centuries, gradually faded away. Eight hundred years of governing wisdom, conflict and fusion between the central court and the frontier peoples — all frozen in these three mountain cities.
+
+## From Frontier Governance to World Heritage
+
+In 2015, Laosicheng, Tangya and Hailongtun were inscribed on the World Heritage List as the "Tusi Sites" under criteria (ii) and (iii) — the first time the tusi system of southwestern China entered the world heritage arena as a whole.
+
+Today, the gate towers of Hailongtun serve as landmarks for hikers, moss covers the stone streets of Laosicheng, and the stone horses of Tangya still stand guard beneath the archway. The families that once ruled here have long since passed into the history books, but the cities they left behind now belong to everyone.
+
+## Epilogue · The Memory of Stone
+
+On that morning in the Wanli era, the guards atop the mountain watched the banners below, not knowing they were defending the last generation of the Yang's reign.
+
+Today you stand on the same gate tower and see mountains and travellers from afar. Stone cannot speak, but the stone streets, the stone horses and the stone gates all speak for eight hundred years of frontier history — they remember every master they served, and they remember whom they finally belong to: the land itself, and everyone who comes to stand where the guards once stood.
 
 ## Outstanding Universal Value (OUV)
 

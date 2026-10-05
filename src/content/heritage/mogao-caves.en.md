@@ -67,17 +67,69 @@ official_site: "https://www.dha.ac.cn/"
 featured: false
 ---
 
-## The Past (I): A Relay of a Thousand Years and a Cave
+## Prologue: 1900, a Hoe Against a Hollow Wall
 
-In 366 CE, the monk Le Zun opened the first cave at the foot of Mingsha Mountain. The Northern Liang, Northern Wei, Western Wei, Northern Zhou, Sui, Tang, Five Dynasties, Song, Western Xia and Yuan dynasties followed in succession; 735 caves survive today, with 45,000 square metres of murals and more than two thousand painted sculptures. The Tang was the peak of Mogao: transformation tableaux, flying apsaras and donor portraits cover the cave walls — "celestial robes streaming, the whole wall a-stir with wind" — the highest achievement of Buddhist art on the Silk Road.
+On 22 June 1900, the Daoist caretaker Wang Yuanlu was clearing sand from the front of Cave 16.
 
-## The Past (II): Joys and Sorrows of the Library Cave
+"Thump." The hoe struck a hollow sound behind the wall.
 
-In 1900, the Daoist abbot Wang Yuanlu discovered the Library Cave while clearing accumulated sand: more than 50,000 manuscripts, sutras and silk paintings lay sleeping within, covering political, economic, religious and social records from the 4th to the 11th centuries. Yet in the following two decades, Aurel Stein, Paul Pelliot and others "bought away" huge numbers of relics for paltry sums of silver, and the Dunhuang documents scattered across the world — from this, "Dunhuang studies" was born. That page of history is both a pride of Chinese culture and a painful lesson for later generations.
+Wang pulled at the plaster, and a small door appeared. Behind it lay a room packed with scrolls — more than fifty thousand manuscripts, documents and silk paintings, sleeping there for nearly a thousand years. No one knows who sealed the cave, or why — only that they left behind a secret big enough to redraw the map of world scholarship.
 
-## The Present: Digital Dunhuang
+At that moment, the story of Dunhuang had only just begun.
 
-In 1944, the National Dunhuang Art Research Institute was founded; since then, the Dunhuang Academy has spent decades conserving, copying and studying the caves. In 1987, the Mogao Caves were inscribed on the World Heritage List under all six criteria (i)–(vi). Today, "Digital Dunhuang" has moved the murals into the cloud through high-precision scanning, and this thousand-year-old art is marching toward immortality in digital form.
+## The Golden Light of Lezun
+
+Rewind fifteen hundred years, to 366.
+
+A monk named Lezun was wandering near the Singing Sand Dunes. Toward evening he saw a golden light blazing on the Sanwei Mountains, as if a thousand Buddhas had appeared (so the legend says). He took it as a sign from the Buddha, cut the first cave into the cliff, and settled there to meditate.
+
+The Mogao Caves were born from one monk's vision.
+
+For the next ten centuries — Northern Liang, Northern Wei, Western Wei, Northern Zhou, Sui, Tang, Five Dynasties, Song, Western Xia, Yuan — monks, painters and donors took up the chisel in relay, turning a desert cliff into a honeycomb of 735 caves: 45,000 square metres of murals, more than two thousand painted sculptures. This was not the project of one age, but an unbroken relay of ten centuries.
+
+## The Age of Wind-Blown Murals
+
+The Tang dynasty was Mogao's zenith.
+
+The richest merchants and most devout donors on the Silk Road hired the finest painters into the caves. In Cave 220's sutra-tableaux, dancers' sleeves fly, musicians' fingers race — "robes floating in the sky, the whole wall in motion". The apsaras have no wings; a single ribbon has kept them flying across the wall for thirteen hundred years. The pipa played behind the back — the dancing celestial — froze the freest instant of High Tang.
+
+Look closely and you see a whole Silk Road world: foreign merchants leading camels laden with Persian silver; donor portraits of whole families, piety and family memory painted together into the rock. Mogao is the greatest gallery on the Silk Road — a live meeting-point of Indian, Central Asian and Central Plains civilizations.
+
+## The Library Cave: Loot and Legacy
+
+Wang Yuanlu's hoe opened not just a chamber, but a complicated page of modern history.
+
+The fifty thousand manuscripts of the Library Cave span politics, economy, religion and society from the 4th to the 11th centuries — a "library on the wall".
+
+But once the door stood open, the looters came in relays: in 1907 the British explorer Aurel Stein "traded" a large haul for little silver; the next year the French sinologist Paul Pelliot picked through almost everything of value; then Japanese, Russian and American expeditions followed. Dunhuang documents scattered to London, Paris, St Petersburg and Tokyo — and "Dunhuang Studies" was born abroad.
+
+The great scholar Chen Yinke lamented: "Dunhuang is the heartbreaking history of our nation's scholarship."
+
+This page of history is both a pride of Chinese culture and a lesson that still stings — the dispersal of the Dunhuang manuscripts taught every Chinese person: cultural relics will not wait for us to be ready.
+
+## Chang Shuhong's Thirty Years
+
+In 1943, a Chinese oil painter already famous in Paris left his studio on the Seine and headed into the desert.
+
+His name was Chang Shuhong. In France he had found, on a bookstall, Pelliot's photographs of Dunhuang, and was shaken to the core — "I do not work for art's sake alone; I work for Dunhuang's sake." For the rest of his life Chang and his colleagues copied, reinforced and studied the caves in the wind and sand — decades of guardianship that earned him the title "the Guardian God of Dunhuang".
+
+In 1944, the National Dunhuang Art Research Institute was founded with Chang as its first director — and the protection of Dunhuang entered its professional age.
+
+## Digital Dunhuang
+
+In 1987, the Mogao Caves were inscribed on the World Heritage List under all six cultural criteria — among the very few properties in the world inscribed under the full set.
+
+Today the digital team of the Dunhuang Academy scans the murals centimetre by centimetre into the cloud. "Digital Dunhuang" lets anyone, anywhere in the world, examine every thread of an apsara's ribbon.
+
+Murals will eventually age, but records need not die — that is the answer Chang Shuhong and his successors spent their lives working out.
+
+## Epilogue: Time on the Wall
+
+Sixteen hundred years. Seven hundred and thirty-five caves. Forty-five thousand square metres of painting.
+
+Each cave is a slice of time preserved in pigment and chisel-work. The golden light of Lezun, the wind-blown brilliance of High Tang, the joys and sorrows of the Library Cave, the back of Chang Shuhong — all are carved on the same cliff, waiting for the next pair of eyes.
+
+And the moment you understand Mogao, you become part of the story too.
 
 ## Outstanding Universal Value (OUV)
 

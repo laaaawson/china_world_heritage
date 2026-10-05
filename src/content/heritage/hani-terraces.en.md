@@ -60,17 +60,31 @@ official_site: "https://www.hh.gov.cn/info/10741/804562.htm"
 featured: false
 ---
 
-## The Past (I): Thirteen Centuries of Carving
+## Prologue: When the Mist Lifts
 
-In the Sui and Tang periods, the ancestors of the Hani migrated from the Tibetan Plateau to the Ailao Mountains and from then on "lived by the mountains and opened fields along them." The core of the Honghe Hani rice terraces lies in Yuanyang, Yunnan: from the valley floor at a few hundred metres to the summits at nearly two thousand, the terraces pile up, in places more than three thousand steps — in thirteen hundred years, a people turned a mountain into fields with their hands.
+At dawn on the Ailao Mountains, thick mist rises from the valley floor and rolls layer upon layer over the terraces. When it lifts, water light spreads along the curves of the ridges — thousand upon thousand of them, stacking from the rice at your feet to the very clouds. Every ridge is a fingerprint some family left on the mountain.
 
-## The Past (II): The Wisdom of Four Elements in One
+More than thirteen hundred years ago, when the first Hani ancestors set foot on this mountain, all they saw was unbroken primeval forest. They could not have imagined that their descendants would spend thirteen centuries carving the whole mountain into a ladder to heaven.
 
-The greatest marvel of the Hani terraces is a complete ecological cycle: forest on the summits holds the water sources, villages live in the middle, terraces are farmed below, and the water system threads the three together — springs run through channels past the villages, irrigate the terraces, and finally rejoin the rivers. The "wooden-notch water-sharing" fairly distributes water among households, while "flushing fertilizer" carries spring water and manure into the fields. This system, called the "four elements in one," is among the most beautiful models of human harmony with the land.
+## The People Who Came South
 
-## The Present: A Living Cultural Landscape
+In the Sui and Tang periods, the ancestors of the Hani migrated south from the Tibetan Plateau, crossing mountains and valleys until they settled on the Ailao Mountains, and from then on "lived by the mountains and opened fields along them." From the valley floor at a few hundred metres to the summits at nearly two thousand, the terraces pile up — in places more than three thousand steps. In thirteen hundred years, a people turned a mountain into fields with their hands.
 
-In 2013, the Cultural Landscape of Honghe Hani Rice Terraces was inscribed under criteria (iii) and (v). It is no frozen heritage: in spring planting the flooded terraces mirror the sky, in autumn harvest the whole mountain turns gold, and the festivals and songs of the Hani, Yi and Dai peoples still echo across the fields — one of China's most beautiful living heritages.
+## A Kingdom of Four Elements in One
+
+The greatest marvel of the Hani terraces is a complete ecological cycle: forest on the summits holds the water sources, villages live in the middle, terraces are farmed below, and the water system threads the three together — springs run through channels past the villages, irrigate the terraces, and finally rejoin the rivers. The "wooden-notch water-sharing" fairly distributes water among households, while "flushing fertilizer" carries spring water and manure into the fields.
+
+In this system — the "four elements in one" — the forest is the water tower, the village the heart, the terraces the granary, and the water the veins: a people ran an entire mountain as a self-sufficient ecological kingdom, and left one of the world's most beautiful models of harmony between humans and land.
+
+## 2013: A Cultural Landscape Goes to the World
+
+In 2013, the Cultural Landscape of Honghe Hani Rice Terraces was inscribed on the World Heritage List under criteria (iii) and (v) — a mountain became a cultural landscape shared by all humanity.
+
+It is no frozen heritage: in spring planting the flooded terraces mirror the sky, in autumn harvest the whole mountain turns gold, and the festivals and songs of the Hani, Yi and Dai peoples still echo across the fields — one of China's most beautiful living heritages.
+
+## Epilogue: The Ladder Still Stands
+
+The mist has risen again, and the terraces are fading back into the sea of clouds. On the mountainside, a child with a schoolbag walks out along the ridge, and the cowbells jingle. Thirteen centuries on, the ladder to heaven has not collapsed — because every generation carries on the fingerprint of their forebears, inch by inch.
 
 ## Outstanding Universal Value (OUV)
 

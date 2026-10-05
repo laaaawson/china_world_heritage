@@ -63,17 +63,43 @@ official_site: "https://www.bjaxiscloud.com.cn/"
 featured: false
 ---
 
-## The Past (I): The Blueprint of Yuan Dadu
+## Prologue: The Evening Drum
 
-In 1267, Kublai Khan ordered Liu Bingzhong to build his capital, Dadu. Taking the lakes at Jishuitan (today's Shichahai) as the design centre, Liu followed the ritual precepts of the *Rites of Zhou* — "ancestral temples on the left, altars of soil and grain on the right; court in front, markets behind" — and laid a north–south axis through the centre of the southern city. That was the beginning of the Beijing Central Axis. For more than seven hundred years afterwards, every dynasty built its palaces, altars and markets along this line.
+Dusk falls on Beijing, and the drum on the Drum Tower beats first.
 
-## The Past (II): The Ritual Axis of the Ming and Qing
+The sound rolls south from the Bell and Drum Towers, over the golden roofs of the Forbidden City, and dies away at last before the gate and arrow towers of Yongdingmen, 7.8 kilometres away. A drumbeat has no sense of "direction" — yet every time it strikes, the rites and the everyday life of a whole era unfold along the same invisible line.
 
-In 1420 the Yongle Emperor moved the capital to Beijing, and the Forbidden City rose on the axis. At the two ends, the Bell and Drum Towers kept the hours and Yongdingmen locked the city; the Temple of Heaven and Xiannongtan stood in symmetry to the east and west, while the Imperial Ancestral Temple and the Altar of Soil and Grain followed the old rule of "left and right." From Yongdingmen in the south to the Bell and Drum Towers in the north, the 7.8-kilometre axis carried the entire order of imperial power, sacrifice and city life — hailed as a masterpiece of ancient Chinese capital planning.
+That line is the Beijing Central Axis.
 
-## The Present: From Forbidden Ground to a Heritage of All
+## Liu Bingzhong's Ink Line
 
-Since the 20th century, the old imperial precincts have opened one after another: the Temple of Heaven became a park, the Forbidden City a museum, and the axis itself turned from "the emperor's line" into "the people's line." In 2024, the Beijing Central Axis was inscribed on the World Heritage List under criteria (iii) and (iv), and its planning philosophy of axial coordination, together with a living tradition seven centuries old, won global recognition.
+In 1267, Kublai Khan ordered the building of his new capital, Dadu, and entrusted the drawing of the plan to Liu Bingzhong.
+
+Liu did not set his brush down where the palaces would be grandest. He made the lakes at Jishuitan — today's Shichahai — the centre of his design, and following the ritual precepts of the *Rites of Zhou* — "ancestral temples on the left, altars of soil and grain on the right; court in front, markets behind" — he laid a north–south axis through the centre of the city. When that first line of ink fell, no one imagined it would become the spine of a capital for more than seven hundred years.
+
+## 1420: The High Noon of the Forbidden City
+
+In 1420, the Yongle Emperor moved the capital to Beijing, and the Forbidden City rose on the axis.
+
+Each end of the line kept its own watch: at the north, the Bell and Drum Towers kept the hours, morning bells and evening drums setting the rhythm of the whole city; at the south, Yongdingmen locked the capital, its gate tower and arrow tower guarding the city's first threshold. The Temple of Heaven and Xiannongtan stood in symmetry east and west, while the Imperial Ancestral Temple and the Altar of Soil and Grain kept the old rule of "left and right." From south to north, 7.8 kilometres of imperial power, sacrifice and everyday bustle, arranged without a seam — the masterpiece of ancient Chinese capital planning.
+
+## From Forbidden Ground to the Everyday
+
+In the 20th century, the axis changed parts.
+
+The old imperial precincts opened their gates one after another: the Temple of Heaven became a park, the Forbidden City a museum, and ordinary people could at last stand where once only an emperor stood. The axis turned from "the emperor's line" into "the people's line" — no longer a sealed ritual corridor, but the main artery through which the city breathes every day.
+
+## 2024: The Axis Comes of Age
+
+In 2024, the Beijing Central Axis was inscribed on the World Heritage List under criteria (iii) and (iv).
+
+A line of 7.8 kilometres made up of fifteen component properties had won the recognition of the world. What moves us most about it is not its age but the fact that it is alive: the bells and drums still keep time, and morning exercises still take place in the shade of the Temple of Heaven — a ritual axis more than seven centuries old, still beating in the heart of the city.
+
+## Epilogue: The Drum Beats Still
+
+Dusk falls again, and the drum on the Drum Tower beats again.
+
+The sound rolls down the 7.8 kilometres and scatters into a thousand household lights. And you understand at last: the central axis is not a monument to be visited, but a spine that is still growing. The line of ink Liu Bingzhong set down seven hundred years ago has never dried.
 
 ## Outstanding Universal Value (OUV)
 

@@ -64,17 +64,41 @@ official_site: "https://www.fanjingshan.cn/"
 featured: false
 ---
 
-## The Past (I): A Lonely Peak of One Billion Years
+## Prologue: Twin Peaks Above the Clouds
 
-Fanjingshan is built chiefly of Precambrian metamorphic rock around one billion years old — the main peak of the Wuling Mountains. In the aeons since, the surrounding ranges were worn away by running water, while Fanjingshan alone rose like an island. It is precisely this "island effect" that has let many ancient species evolve here in isolation to the present day.
+On a deep-autumn morning, a ranger on Mount Fanjing shoulders his rations and starts up the forest path.
 
-## The Past (II): A Buddhist Kingdom Above the Clouds
+There is a rustle in the canopy overhead — a family of Guizhou snub-nosed monkeys leaps from crown to crown, shaking down a shower of dew. The ranger looks up: mist is surging up from the valleys, flooding around the Red Cloud Golden Summit, whose twin pinnacles rise and sink in the sea of clouds like a ship that has been anchored for one billion years. His footsteps are the youngest sound in this mountain.
 
-In the Wanli reign of the Ming dynasty, the emperor commissioned imperial temples, and Fanjingshan became the holy mountain of eastern Guizhou. On the Red Cloud Golden Summit, the Hall of Sakyamuni and the Hall of Maitreya perch on the twin pinnacles, joined by a sky bridge; temples around the Cheng'en Temple and the Old Golden Summit have kept their incense alive for centuries. When the clouds surge, the summit appears and vanishes as if immortals truly lived there.
+## An Island of One Billion Years
 
-## The Present: A Biological Island on the World Heritage List
+That "ship" sailed out of the deep past.
 
-Fanjingshan preserves a complete vertical sequence of ecosystems: the Guizhou snub-nosed monkey survives nowhere else, and relict plants such as the dove tree and Fanjingshan fir grow here — making it one of the most biodiverse places on Earth at its latitude. In 2018, Fanjingshan was inscribed on the World Heritage List under criterion (x).
+Fanjingshan is built chiefly of Precambrian metamorphic rock around one billion years old — the main peak of the Wuling Mountains. In the aeons since, the surrounding ranges were worn away by running water, while Fanjingshan alone rose like an island — the billion-year-old rock polished by wind and rain into what we see today. It is precisely this "island effect" that has let many ancient species evolve here in isolation to the present day.
+
+## A Buddhist Kingdom Above the Clouds
+
+In the Wanli reign of the Ming dynasty, the emperor commissioned imperial temples, and Fanjingshan became the holy mountain of eastern Guizhou.
+
+On the Red Cloud Golden Summit, the Hall of Sakyamuni and the Hall of Maitreya perch on the twin pinnacles, joined by a sky bridge; temples around the Cheng'en Temple and the Old Golden Summit have kept their incense alive for centuries. Pilgrims say that bridge joins the mortal world to the land of the Buddha. When the clouds surge, the summit appears and vanishes, as if immortals truly lived there.
+
+## The Ark of Living Things
+
+The island's greatest treasure is not its temples, but what still lives.
+
+The Guizhou snub-nosed monkey survives nowhere else on Earth — the entire world population lives on this one mountain. Relict plants such as the dove tree and the Fanjingshan fir grow here, and a complete vertical sequence of ecosystems climbs from the foot of the slope to the summit. In spring the dove tree blooms, its white bracts turning in the wind like a flock of doves settling on the branches — that is how it earned the name "dove tree." It is one of the most biodiverse places on Earth at its latitude. The Earth has moored its last "Noah's Ark" above this sea of clouds.
+
+## 2018: Crowning Above the Sea of Clouds
+
+In 2018, Fanjingshan was inscribed on the World Heritage List under criterion (x).
+
+At that moment, this 2,572-metre main peak formally became a heritage shared by all humanity. The mountain is still the same mountain, the mist the same mist; the ranger's footprints and the monkeys' leaps continue to happen in the same forest.
+
+## Epilogue: The Ship Never Docks
+
+The clouds part; the Red Cloud Golden Summit reveals its twin pinnacles. The wind blows down from the summit, through forests that have not changed for a thousand years.
+
+For one billion years the mountain has stood here; for centuries the incense has risen here; and today, human guardianship is here too. This "Noah's Ark" never docks — it stays in the sea of clouds, waiting for the next species, the next forest, to go on living in its care.
 
 ## Outstanding Universal Value (OUV)
 

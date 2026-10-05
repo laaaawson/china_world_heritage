@@ -56,17 +56,41 @@ official_site: "https://www.huanglong.com/"
 featured: false
 ---
 
-## The Past (I): The Art of Travertine
+## Prologue · The Golden Dragon of the Valley
 
-Huanglong Valley lies in Songpan, Sichuan, at about 3,100–3,600 metres above sea level. Springs rich in calcium carbonate flow from the snow peaks and, depositing and calcifying layer by layer on the slopes, build thousands of shimmering pools, golden-yellow cascades and travertine waterfalls: the "golden sand paving the ground" stretches for miles, and the Multicoloured Pools lie like agates set in the mountain. The travertine in the water, acted on by algae and light, glows yellow, green and blue — like a living golden dragon.
+At dawn, beneath the snowy peaks of Songpan, Sichuan, a golden stream winds out of the valley depths — like a dragon slowly waking.
 
-## The Past (II): Snow Mountains and an Ancient Temple
+It is not gold, but travertine: the calcium carbonate of the spring water, settling layer upon layer through countless flows, has dyed the valley golden. More than three thousand pools spread out layer upon layer, like a palette the earth has overturned. People call it "Huanglong" — the Yellow Dragon.
 
-The name Huanglong comes from an old legend: when Yu the Great tamed the floods, the Daoist immortal Huanglong ("Yellow Dragon") took the form of a dragon to split a passage through the mountain. From the Ming dynasty onward, the Huanglong Temple was built in the valley, and Han and Tibetan pilgrims came to worship the mountain and circle the lakes — Huanglong became a place of faith on the highland of snow.
+## The Bed Left by the Glaciers
 
-## The Present: A Highland Wetland on the World Heritage List
+The birth of this "dragon" begins with the glaciers of the Quaternary.
 
-In 1992, the Huanglong Scenic and Historic Interest Area was inscribed under criterion (vii), in the same session as Jiuzhaigou. As one of the world's rarest highland travertine landscapes, Huanglong and Jiuzhaigou together form the twin jewels of the "kingdom of water" in southwest China.
+As the highland glaciers retreated, they left Huanglong Valley the bed on which travertine could accumulate. Springs rich in calcium carbonate flow from the snow peaks, depositing and calcifying layer by layer on the slopes — day after day, year after year, carving out thousands of shimmering pools, golden-yellow cascades and travertine waterfalls on the time scale of geology.
+
+## Golden Sands and Agate Pools
+
+The most magnificent stretch is the "golden sand paving the ground": a golden travertine cascade stretching for miles, like brocade the earth has laid out; the Multicoloured Pools lie like agates set in the mountain, their waters glowing yellow, green and blue as algae and light work upon the travertine.
+
+Algae love light, light loves water, water loves calcium — where the three meet, a breathing painting is born. This "golden dragon" is no dead scenery but living landscape: it keeps growing slowly, laying down one more inch of gold in the valley with every passing year.
+
+## A Legend and a Temple
+
+The name "Huanglong" comes from an old legend: when Yu the Great tamed the floods, the Daoist immortal Huanglong is said to have taken the form of a dragon to split a passage through the mountain.
+
+Legend may not be history, but it tells the story of how people and mountains met. From the Ming dynasty onward, the Huanglong Temple was built in the valley, and Han and Tibetan pilgrims came to worship the mountain and circle the lakes — Huanglong became not only a natural wonder but a place of faith on the highland of snow. Incense and spring water have flowed together here ever since.
+
+## 1992: Twin Jewels of a Water Kingdom
+
+In 1992, the Huanglong Scenic and Historic Interest Area was inscribed on the World Heritage List under criterion (vii), in the same session as Jiuzhaigou.
+
+As one of the world's rarest highland travertine landscapes, Huanglong and Jiuzhaigou together form the twin jewels of the "kingdom of water" in southwest China: one turns water into lakes and waterfalls, the other turns water into a golden dragon and agate pools — the same highland water, written into two different legends.
+
+## Epilogue · The Dragon Still Breathes
+
+Beneath the snowy peaks, the golden "dragon" still coils through the valley.
+
+The springs keep flowing, the travertine keeps growing, and the Multicoloured Pools keep changing colour. The name of Huanglong will keep being told — because this dragon has never stopped breathing.
 
 ## Outstanding Universal Value (OUV)
 

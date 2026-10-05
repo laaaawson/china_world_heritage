@@ -60,17 +60,43 @@ official_site: "http://www.dzskyjy.cn/"
 featured: false
 ---
 
-## The Past (I): A Relay from the Early Tang to the Southern Song
+## Prologue · A Mother on the Cliff
 
-The carving of the Dazu rock carvings began in the Yonghui reign of the early Tang (650 CE) and reached its zenith in the Southern Song, passing through the late Tang and the Five Dynasties. Wei Junjing, prefect of Changzhou in the late Tang, opened niches at Longgangshan (today's Beishan); the Southern Song monk Zhao Zhifeng, over more than seventy years, built the vast Esoteric Buddhist site of Baodingshan. Dazu preserves more than 50,000 figures, concentrated above all at Baodingshan and Beishan.
+The midday light slips in at an angle through the cave mouth and falls on the face of a mother carved in stone.
 
-## The Past (II): Three Teachings United in Stone
+She leans forward, nursing a child in her arms — no aloof deity, just an ordinary mother of the human world. The rocks of Dazu speak, and what they speak of is not the cold faces of gods, but the warmth of mortal life.
 
-Unlike the solemn divinity of the northern grottoes, Dazu's carvings turned toward the human world. The *Sutra Tableau of the Deep Grace of Parents* depicts parental care, and the *Ox-Herding Pictures* use a herd boy and ox as metaphors for cultivating the mind. Confucian filial piety, Daoist naturalness and Buddhist causality share the same caves on the cliffs — the "unity of the three teachings" found its most life-like expression at Dazu, often called the swan song of Chinese grotto art.
+In Dazu, Chongqing, more than 50,000 figures spread along the cliffs, carved from the early Tang to the Southern Song. This "story of the human world" in stone records what the inner life of the Chinese people looked like between Tang and Song.
 
-## The Present: Protection and the Road to World Heritage
+## 650 CE: The First Stroke of a Changzhou Official
 
-In 1999, the Dazu Rock Carvings were inscribed on the World Heritage List under criteria (i), (ii) and (iii). Today the five sculpture groups of Baodingshan, Beishan, Nanshan, Shizhuanshan and Shimenshan are open to visitors, and the figures and inscriptions on the cliffs still tell us what the spiritual world of the Chinese looked like between Tang and Song.
+The first hammer note of Dazu's carvings rang out in the Yonghui reign of the early Tang.
+
+In 650 CE, Tang-dynasty officials of Changzhou funded the carving of Buddhist figures, opening Dazu's first niches on the cliff. The late Tang and the Five Dynasties carried the work on without pause. In 892, Wei Junjing, prefect of Changzhou, opened niches at Longgangshan (today's Beishan), and the Beishan sculptures rose from that moment — in a turbulent age, a city settled its heart upon the rock.
+
+## The Seventy Years of Zhao Zhifeng
+
+The true summit belongs to a monk.
+
+In the Southern Song, the monk Zhao Zhifeng came to Baodingshan and spent more than seventy years building a vast Esoteric Buddhist site — begun in 1179, completed only in 1249. The figures of Baodingshan are not merely "carved faithfully"; they are "arranged with precision." The Buddha-world along the cliff is organised into a series of legible paintings: walk along the rock face once, and you have walked through a sutra.
+
+## Three Teachings United in Stone
+
+From the late Tang to the Southern Song, Dazu's carvings turned toward the human world — unlike the solemn divinity of the northern grottoes, here the Buddhas live a human life.
+
+In the *Sutra Tableau of the Deep Grace of Parents*, scenes of parents raising a child are carved in minute detail — nursing, washing, parting at a journey's start. In the *Ox-Herding Pictures*, the herd boy and his ox stand for the mind, one ox, one boy, step by step the heart gathered home. Confucian filial piety, Daoist naturalness and Buddhist causality share the same caves on the cliffs. The "unity of the three teachings" found its most life-like expression at Dazu — the swan song of Chinese grotto art, as later generations called it.
+
+## 1999: The Carvings Go to the World
+
+In 1999, the Dazu Rock Carvings were inscribed on the World Heritage List under criteria (i), (ii) and (iii).
+
+Today the five sculpture groups of Baodingshan, Beishan, Nanshan, Shizhuanshan and Shimenshan are open to visitors. The figures will age and the cliffs will weather, but the greetings carved in stone — a mother's gaze, a herd boy's ox, the easy co-existence of three teachings — still tell everyone who passes of the gentlest corner of the Chinese heart between Tang and Song.
+
+## Epilogue · Light Falls on the Rock Again
+
+The midday light slips into the cave again and falls on that mother's face.
+
+The years pass, and she still leans forward, still nursing the child in her arms. The visitors come and go, but the stone remembers: to be immortal is only to carve the deepest of human attachments deep enough.
 
 ## Outstanding Universal Value (OUV)
 

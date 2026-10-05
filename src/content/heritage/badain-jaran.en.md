@@ -63,19 +63,59 @@ official_site: "https://www.badanjilin.cn/"
 featured: false
 ---
 
-## The Past (I): A Thousand-Year Dialogue of Sand and Water
+## Prologue: The Highest Dune in the Desert
 
-The Badain Jaran Desert lies on the Alxa Plateau of Inner Mongolia — China's third-largest and second-largest shifting desert. Since the Quaternary, strong northwesterly winds have carried debris from the Gobi and piled it into unbroken ridges of sand; meanwhile precipitation and groundwater gathered in the hollows between the dunes, forming more than a hundred lakes of every size. Sand mountains and lakes side by side — a sight almost unheard of among the world's deserts.
+Deep in the Alxa Plateau of Inner Mongolia stands a dune about 460 metres high — taller than many famous mountains, yet built grain by grain of yellow sand.
 
-The highest dune rises some 460 metres above its base, earning it the title of the "Everest of the world's deserts." Between the sand mountains, the lake water is clear and the reeds sway; the herders call such oases *badain jaran* — "the depths of the desert."
+They call it the "Everest of the Desert".
 
-## The Past (II): The Herders' Homeland
+Stand on its crest, and you see not a dead sea of sand but more than a hundred lakes, like scattered sapphires, quietly embedded among the dunes. Water is the scarcest thing in a desert — and here it becomes the rarest, most moving scenery of all.
 
-In the 17th century, Mongol tribes of Alxa came following water and grass, and the lakes at the desert's heart became their way-stations for grazing and camel caravans. In 1755, a Tibetan Buddhist monk built the Badain Jaran Temple on the lakeshore — a hidden shrine deep in the sea of sand that became a spiritual landmark for herders crossing the desert, and a witness to the long coexistence between nomadic civilisation and an unforgiving nature.
+How? The story of wind and sand began millions of years ago.
 
-## The Present: From a Hidden Land to World Heritage
+## How the Wind Built Mountains
 
-Since the 20th century, Chinese and international expeditions have repeatedly crossed the desert, surveying precise data on its sand mountains, lakes and singing-dune belts. In 2024, the Badain Jaran Desert – Towers of Sand and Lakes was inscribed on the World Heritage List under criteria (vii) (superlative natural phenomena and scenery) and (viii) (major stages of Earth's history) — another Chinese natural heritage that conquers the world with an extreme landscape.
+Since the Quaternary period, fierce north-westerlies have carried debris from the Gobi, heaping it into chains of dunes across the Alxa Plateau.
+
+Wind is a patient mason: it blew for millions of years before the dunes grew into today's forms — the world's tallest stable dunes, some 460 metres in relative height, ridge after ridge like frozen waves.
+
+The dunes are not the only wonder. As the wind piled sand, it also scooped basins between the dunes — and these basins trapped rainfall and groundwater, gradually filling into more than a hundred lakes of every size. Dunes and lakes side by side is a rarity among the world's deserts — a miracle of "water in the same furnace as fire".
+
+## The Riddle of a Hundred Lakes
+
+Where does a desert lake get its water?
+
+Scientists have found that the lakes of Badain Jaran are fed mainly by groundwater — the dunes act as a vast reservoir, storing rainfall and releasing it slowly into the lake basins. Some lakes are salt, some fresh; reeds sway on the banks, fish and shrimp swim beneath. On the singing dunes, the sand roars like thunder when the wind moves it.
+
+Sand and lake, singing dunes and oases — this desert is no wasteland of life, but an earth-science textbook still in the making.
+
+## The Herders' Badain Jaran
+
+In the 17th century, Alxa Mongol tribes came following the water and grass, and the lakes among the dunes became their stations for herding and camel transport.
+
+The herders call this place "Badain Jaran" — "the depths of the desert". They know where every spring lies, which lake never freezes in winter, which pasture greens first in spring. In a thousand years of living with a harsh land, nomadic civilization worked out its own grammar of survival.
+
+In 1755, Tibetan Buddhist monks built the Badain Jaran Temple by a lakeshore. Deep in the sand sea, this ancient temple became the spiritual compass of herders crossing the dunes: camel bells, incense and cooking smoke together rising among the sands for more than two centuries.
+
+## The Footsteps of Explorers
+
+From the 20th century on, Chinese and foreign expeditions came again and again into this hidden land.
+
+They measured the height of the dunes, the salinity of the lakes, the frequency of the singing sands, confirming the title of "world's tallest stable dunes" — and for the first time told the world precisely how water and life coexist in this seemingly barren sand sea.
+
+The desert was no longer blank on the map; it became a sample studied by geomorphologists worldwide.
+
+## 2024: Sand and Lakes Meet the World
+
+In 2024, the Badain Jaran Desert — Towers of Sand and Lakes was inscribed on the World Heritage List under criteria (vii) (exceptional natural beauty and phenomena) and (viii) (major stages of the earth's history).
+
+At that moment, a homeland guarded by herders for centuries formally became the common heritage of all humanity. Badain Jaran still keeps its simplest rhythm: the wind builds dunes, the lakes breathe, and the herders' camel caravans still move between the dunes — inside the boundary, protection; outside, life.
+
+## Epilogue: The Depths of the Desert
+
+Sand mountains like a sea; lakes like eyes.
+
+For millions of years, wind heaped sand into mountains; for centuries, people made homes by the lakes. This "depth of the desert" is a long letter that nature wrote to the earth — and its most moving line is this: the most desolate place holds the gentlest water.
 
 ## Outstanding Universal Value (OUV)
 

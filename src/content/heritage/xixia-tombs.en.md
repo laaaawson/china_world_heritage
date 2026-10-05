@@ -60,17 +60,41 @@ official_site: "https://www.yinchuan.gov.cn/xxgk/bmxxgkml/xxlqglc/xxgkml_2855/gk
 featured: false
 ---
 
-## The Past (I): Royal Tombs Beneath the Helan Mountains
+## Prologue: Pyramids on the Gobi
 
-In 1038, the Tangut leader Li Yuanhao proclaimed himself emperor and founded the Xia state, standing with the Song and Liao (Jin) as a third power for nearly two centuries. The Western Xia emperors raised their mausoleums on the eastern flank of the Helan Mountains; the tomb precinct stretches ten kilometres from south to north, with nine imperial tombs and more than two hundred accompanying graves surviving. Each imperial tomb is a rammed-earth octagonal tower-mound, the tallest more than twenty metres high, rising over the gobi like a pyramid — hence the name "the Eastern Pyramids."
+On an early-autumn dusk, a herder rode across the gobi beneath the Helan Mountains. The west wind carried the sand; his gaze moved beyond his flock and settled on rows of yellow earthen mounds — like oversized grave mounds, or silent pyramids, lined up along the mountain's foot as far as the eye could see.
 
-## The Past (II): A Lost Script and a Lost Dynasty
+The herder did not know that a dynasty slept inside those mounds. That dynasty had its own script, its own glory, its own two centuries — and eight hundred years ago it was crushed by hooves and fire into a legend.
 
-The Western Xia created a distinctive script of its own, which nonetheless died swiftly with the Mongol conquest of 1227. Since the twentieth century, the inscribed steles, gilded bronze oxen and ridge ornaments unearthed at the tombs have brought this buried dynasty back into view — the broken walls of the precinct and the wind-erosion of the Helan Mountains together tell the rise and fall of a kingdom.
+## 1038: A Royal Title Proclaimed
 
-## The Present: From Archaeology to World Heritage
+In 1038, Li Yuanhao, leader of the Tangut people, proclaimed himself emperor at Xingqingfu (modern Yinchuan), founding the state of Great Xia, known to history as the Western Xia — standing with the Song and Liao (Jin) as a third power for nearly two centuries.
 
-In the 1970s, systematic archaeological excavation of the Xixia Imperial Tombs began in earnest, yielding great numbers of precious artefacts. In 2025 the tombs were inscribed on the World Heritage List under criteria (ii) and (iii) — the first time the mausoleums of a northwestern minority regime have been inscribed as a whole, setting a worldwide seal on the eight-hundred-year glory of the "Great Xia" empire.
+From that time onward, successive Xia emperors raised their mausoleums on the eastern flank of the Helan Mountains. The tomb precinct stretches ten kilometres from south to north, with nine imperial tombs and more than two hundred accompanying graves surviving today. Each imperial tomb is a rammed-earth octagonal tower-mound; the tallest rises more than twenty metres, standing over the gobi like a pyramid — and people today call it "the Eastern Pyramids."
+
+## 1227: Hooves Across the Tomb Precinct
+
+In 1227, Mongol forces destroyed the Western Xia. The tomb precinct was wrecked, its surface buildings reduced to broken walls, and a dynasty — together with its script — was buried by history.
+
+The Western Xia had created a distinctive script of its own, its strokes dense and close as a cipher. When the dynasty fell, the script died swiftly; for centuries afterwards, almost no one could read a single Xixia character. The wind blew down from the passes of the Helan Mountains, grinding bricks and rubble into ever finer sand and sprinkling it over the nine mounds.
+
+## Archaeologists Enter the Precinct
+
+Since the twentieth century, the inscribed steles, gilded bronze oxen and ridge ornaments of the tombs have come to light one after another — the sleeping dynasty began to be seen again.
+
+In the 1970s, systematic archaeological excavation of the Xixia Imperial Tombs began in earnest, yielding great numbers of precious artefacts. Archaeologists pitched their tents beneath the Helan Mountains and questioned each mound with their trowels — a dynasty carried off by hooves and fire was brought back, centimetre by centimetre, by the spade.
+
+## 2025: A Name on the World Heritage List
+
+In 2025, the Xixia Imperial Tombs were inscribed on the World Heritage List under criteria (ii) and (iii) — the first time the mausoleums of a northwestern minority regime have been inscribed as a whole, setting a worldwide seal on the eight-hundred-year glory of the "Great Xia" empire.
+
+Today a museum stands at the edge of the gobi, and visitors walk along the boardwalks toward the mounds. Herders still graze nearby and the wind still blows — only the once-forgotten tomb precinct now has an audience of the whole world.
+
+## Epilogue: The Wind Remembers
+
+At dusk, the yellow mounds still stand beneath the Helan Mountains, a line of silent pyramids.
+
+Eight hundred years ago, hooves and fire failed to level them; eight hundred years later, they have found their audience. The wind remembers the name of every dynasty — this time, it carried the Xixia name to the whole world.
 
 ## Outstanding Universal Value (OUV)
 

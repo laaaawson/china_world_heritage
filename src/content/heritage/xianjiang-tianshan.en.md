@@ -57,17 +57,43 @@ official_site: "https://www.xinjiang.gov.cn/xinjiang/gfxwj/201608/8a1a0722b55a40
 featured: false
 ---
 
-## The Past (I): A Fold in the Earth
+## Prologue: A Morning at Tianchi
 
-About 25 million years ago, the Indian plate pressed north against Eurasia and the land heaved up into mountains — the Tianshan took shape, stretching 2,500 kilometres across Central Asia. The Xinjiang Tianshan is its most imposing section: Tomur Peak rises to 7,443 metres, Bogda Peak towers beside Urumqi, and the meltwater of the glaciers gathers into the Kaidu and Ili rivers, nourishing the oases and pastures below.
+Early one summer morning, with mist still lying on Tianchi Lake, a herder rode past the shore. When he raised his head, the glaciers of Bogda Peak had just caught the first light, white and blazing.
 
-## The Past (II): A Corridor of Life Under Snow
+He probably did not know that the land beneath his feet had been folded into mountains by the forces of the earth twenty-five million years ago; still less could he imagine that the snow peak he looked up to every day would, in 2013, become natural heritage guarded by all humanity.
 
-The vertical relief of the Xinjiang Tianshan exceeds 2,500 metres; from snow line to desert the zones of life unfold one by one: snow lotuses bloom among the moraines, spruce forests of snow-belt pine spread along the slopes, and meadows burst into wildflower in summer. The range is also a vital corridor for wildlife — snow leopards, ibex and golden eagles roam freely through these great mountains.
+This mountain is called the Tianshan.
 
-## The Present: From Reserves to World Heritage
+## The Collision Twenty-Five Million Years Ago
 
-From the 1980s onward, nature reserves such as Tomur Peak and Tianchi were established, and the glaciers, forests and grasslands of the range came under systematic protection. In 2013, the Xinjiang Tianshan was inscribed on the World Heritage List under criteria (vii) and (ix), one of the largest World Natural Heritage properties in the arid northwest of China. Today the pleasure boats on Tianchi and the research teams on the glaciers are making this "backbone of Central Asia" known to more and more people.
+About 25 million years ago, the Indian plate pressed north against the Eurasian plate and the land heaved up into mountains — the Tianshan took shape, stretching 2,500 kilometres across Central Asia.
+
+The Xinjiang Tianshan is its most imposing section: Tomur Peak rises to 7,443 metres, the highest summit of the range; Bogda Peak towers beside Urumqi, the snow crown closest to a city. At that moment of upheaval there were no spectators and no records — only the wind, which has spent twenty-five million years smoothing the folds into what we see today.
+
+## The Stairway of Life Below the Snow Line
+
+The vertical relief of the range exceeds 2,500 metres. From snow line to desert, life unfolds like the pages of a book: snow lotuses bloom among the moraines, spruce forests spread along the slopes like a sea, and meadows burst into wildflower in summer.
+
+This is also a corridor for animals. Snow leopards move along the rock faces, ibex step across the scree toward the cliff tops, and golden eagles ride the air, casting a slowly moving shadow across the valley. The higher the mountain, the denser the layers of life.
+
+## Water Flowing to the Oases
+
+The glacier is the mountain's other face.
+
+Meltwater seeps out from beneath the ice tongues and gathers into the Kaidu and Ili rivers, running east and west to nourish the oases and pastures below. Herders' tents, camel bells, wheat fields and orchards — the snow of the Tianshan finally becomes the water of the human world.
+
+## Guardians and Onlookers Today
+
+From the 1980s onward, nature reserves such as Tomur Peak and Tianchi were established, and the glaciers, forests and grasslands of the range came under systematic protection. In 2013, the Xinjiang Tianshan was inscribed on the World Heritage List under criteria (vii) and (ix), one of the largest World Natural Heritage properties in the arid northwest of China.
+
+Today the pleasure boats on Tianchi and the research teams on the glaciers are making this "backbone of Central Asia" known to more and more people. Herders still graze by the lake, while scientists record every millimetre of the ice tongues' retreat — guardianship and admiration run side by side on the same mountain.
+
+## Epilogue: Light on the Glacier
+
+Twenty-five million years ago the land heaved into mountains; later, people brought their homes beneath them.
+
+Now, every morning, the glaciers of Bogda Peak are still touched by the first light — only the number of eyes looking up at them grows with every year.
 
 ## Outstanding Universal Value (OUV)
 

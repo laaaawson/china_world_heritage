@@ -63,17 +63,39 @@ official_site: "http://www.gaogouli-tour.com/"
 featured: false
 ---
 
-## The Past (I): A Twin-City Tale of Mountain and Plain
+## Prologue: Stone Tombs by the Yalu River
 
-In 37 BCE, Jumong, the founding ancestor of the Koguryo people, established a state in Xuantu Commandery, with its first capital at Holbon Fortress (today's Wunü Mountain City in Huanren, Liaoning). Perched on a mountaintop, Wunü Mountain City won its defence by height alone. In 3 CE, King Yuri moved the capital to Gungnae City (today's Ji'an, Jilin) and, some two kilometres to the northwest, raised Wandu Mountain City — the capital on the plain served residence and court audiences, while the fortress on the hill served to repel invaders. This paired pattern of "capital plus defensive citadel" is a masterpiece among the early royal capitals of Northeast Asia.
+Deep autumn, early morning. Mist rises from the Yalu River, and on the plain outside Ji'an a huge stone tomb floats in the fog — courses of massive granite blocks piled one upon another, its tip pointing at the sky, like a pyramid grown out of the earth.
 
-## The Past (II): Royal Tombs and Steles
+Locals call it the General's Tomb. For two thousand years no one has known the name of the man buried beneath, but everyone knows this: here stood the capital of a kingdom.
 
-The Koguryo people left at Ji'an more than twenty royal tombs and over seven hundred aristocratic burials. The General's Tomb, built of enormous dressed granite blocks, is called the "Pyramid of the East"; the Gwanggaeto Stele, erected in 414 CE, records the founding history of the kingdom and the military exploits of "Gwanggaeto the Great" — one of the earliest surviving stone inscriptions in northeastern China. The scenes of wrestling, hunting and dancing in the painted tombs let us, two thousand years later, still glimpse the everyday life of Koguryo.
+## Jumong's Mountain City
 
-## The Present: A Frontier City's Road to World Heritage
+In 37 BCE, a young man named Jumong — honoured by later generations as the founding ancestor of the Koguryo people — established a state in Xuantu Commandery. The first capital was chosen at Wunü Mountain in Huanren, Liaoning: a city perched on the mountaintop, defended by height alone. From the ramparts, the Hun River ran like a ribbon below, and the whole world lay within sight.
 
-In 1994, the Capital Cities and Tombs of the Ancient Koguryo Kingdom at Ji'an, Jilin were placed on China's Tentative List of World Heritage; in 2004 they were formally inscribed on the World Heritage List under criteria (i)–(v). Today, Wunü Mountain City, Gungnae City and the General's Tomb stand quietly by the Yalu River, telling the story of a kingdom that dominated Northeast Asia for more than five hundred years.
+## A Tale of Two Cities
+
+In 3 CE, King Yuri moved the capital to Gungnae City in today's Ji'an, and some two kilometres to its northwest raised Wandu Mountain City. It was a pair of cities with a clear division of labour: the capital on the plain served residence and court audiences; the fortress on the hill served to repel invaders. This paired pattern of "capital plus defensive citadel" became a masterpiece among the early royal capitals of Northeast Asia — the mountain was the crown's armour, the plain its home.
+
+## Four Hundred Years of Glory
+
+Ji'an would serve as the royal seat for more than four hundred years. In 414 CE, the Koguryo people raised a tall stele — the Gwanggaeto Stele — recording the founding history of the kingdom and the military exploits of "Gwanggaeto the Great," one of the earliest surviving stone inscriptions of northeastern China. The kings hewed enormous tombs for themselves across the countryside: more than twenty royal tombs and over seven hundred aristocratic burials scattered along both banks of the Yalu. The General's Tomb, built of enormous dressed granite blocks, is called the "Pyramid of the East"; on the walls of the painted tombs, scenes of wrestling, hunting and dancing still teem with life — the everyday world of two thousand years ago, preserved in pigment on stone.
+
+## The Dusk of 668
+
+In 427 CE, King Jangsu moved the capital to Pyongyang, and Ji'an's four centuries as the royal seat came to an end. Two centuries and more passed — and in 668 CE, Tang and Silla forces destroyed the kingdom. The capitals fell into ruin, weeds covered the royal tombs, and the once-mighty ancient state passed into history. The mountain cities stood empty, and only the stone tombs kept their thousand-year watch by the river.
+
+## Waking from Sleep
+
+Through the long sleep of a thousand years, the Gwanggaeto Stele stood in wind and rain. Scholars made rubbings of its text and read it character by character; the outline of a kingdom slowly took shape. In 1994, the Capital Cities and Tombs of the Ancient Koguryo Kingdom at Ji'an were placed on China's Tentative List of World Heritage; in 2004 they were formally inscribed on the World Heritage List under criteria (i)–(v). Shovel and measuring tape in hand, the archaeologists made the sleeping tombs speak again.
+
+## Guardians of the Riverbank
+
+Today, Wunü Mountain City, Gungnae City and the General's Tomb stand quietly by the Yalu River. The heritage park unfolds along the mountain slopes, its walkways winding over the city walls; in the museum, mural reproductions and stele rubbings are displayed in rows, telling the story of a kingdom that dominated Northeast Asia for more than five hundred years. Stones two thousand years old are being read, inch by inch, by the people of two thousand years later.
+
+## Epilogue: What the Stone Remembers
+
+Deep autumn, early morning, and the mist rises from the Yalu again. The tombs are still there, their tips still pointing at the sky; the exploits of the stele and the dances of the murals are all kept in the stone, waiting for every passer-by to read, once more, the story of a kingdom.
 
 ## Outstanding Universal Value (OUV)
 

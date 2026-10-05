@@ -63,18 +63,41 @@ official_site: "http://www.ncha.gov.cn/"
 # === Homepage feature ===
 featured: false
 ---
+## Prologue: Where the Camel Bells Began
 
-## The Past (I): The First Man to Break Open the West
+In 138 BCE, outside the walls of Chang'an, an embassy was ready to set out. The envoy Zhang Qian looked once to the west — he was about to leave his homeland for more than a decade, cross grasslands and deserts, and "break open" a road into the map of the world.
 
-In 138 BCE, Zhang Qian was dispatched by Emperor Wu of Han to the Western Regions; after more than a decade, he "broke open" the route between the Central Plains and Central Asia. Thereafter the Four Commanderies of the Hexi Corridor lined up along the Great Wall, and the Yumen Pass and Yangguan Pass guarded the highways; silk, tea and porcelain went west, while grapes, alfalfa and the Ferghana "heavenly horses" came east. In 60 BCE, the Han established the Protectorate of the Western Regions, bringing the trunk route of the Silk Road formally under the administration of the Central Plains court.
+The camel bells rang. That ringing would, over the next two thousand years, string Chang'an and the Tianshan, Central Asia and the whole Eurasian continent into a single road.
 
-## The Past (II): The Great Highway from Chang'an to the Tianshan
+## The Man Who Opened the Way
 
-The Tang was the golden age of the Silk Road: the Western Market of Chang'an gathered merchants of every nation, and the towns along the route — Luoyang, Wuwei, Dunhuang, Turfan — flourished because of it. This corridor was not only a trade route but a road of civilisations: Buddhism spread eastward along the Silk Road, paper and printing drifted westward, and Sogdian merchants, monks and envoys together, for the first time, truly "connected" the Eurasian continent.
+In 138 BCE, Zhang Qian was sent by Emperor Wu of Han on a mission to the Western Regions. More than ten years of wind, sand and wandering could not stop him; when at last he came home, the route between the Central Plains and Central Asia had been "broken open."
 
-## The Present: A Trilateral Nomination by China, Kazakhstan and Kyrgyzstan
+From then on, the Four Commanderies of the Hexi Corridor lined up along the Great Wall, and the Yumen Pass and Yangguan Pass guarded the highways — silk, tea and porcelain went west; grapes, alfalfa and Ferghana "heavenly horses" came east. In 60 BCE, the Han established the Protectorate of the Western Regions, and the trunk route of the Silk Road was formally brought under the administration of the Central Plains court. A road had, for the first time, a "citizenship" within the realm.
 
-In 2014, the "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor," jointly nominated by China, Kazakhstan and Kyrgyzstan, was inscribed on the World Heritage List under criteria (i)(ii)(iii)(iv)(vi), comprising 33 component sites — 22 of them in China — stretching from the Han-Wei old city of Luoyang to the Kizil Caves in Xinjiang: one of the longest transnational serial World Heritage properties in the world.
+## Inside and Outside the Passes
+
+For a thousand years, the camel bells never stopped at Yangguan — "One more cup of wine — west of Yangguan, there are no old friends." The passes of Tang poetry are desolate; but beneath them, the traffic never ceased.
+
+The setting sun stretched the caravans' shadows all the way to the far side of the wall: silk and porcelain in those shadows, sutras and poems, partings and reunions beyond counting. Luoyang, Wuwei, Dunhuang, Turfan — the towns along the route flourished because of it. This corridor was never only a trade route but a road of civilisations: Buddhism spread eastward along the Silk Road, paper and printing drifted westward, and Sogdian merchants, monks and envoys travelled together — for the first time, the Eurasian continent was truly "connected."
+
+## Chang'an, City of Ten Thousand Merchants
+
+In the Tang dynasty, the Western Market of Chang'an gathered merchants of every nation: the spices of the Western Regions and goods of every kind filled the stalls, and foreign traders haggled in halting Chinese; outside the city walls, camel caravans and mule trains ran nose to tail on the official road.
+
+In the Chang'an night, the lamps of the Western Market and the bells of the temples lit up together — the city lived as the drawing room of the whole road. A city became the centre of the world because of a road; a road entered its most glorious age because of a city.
+
+## 2014: A Thread Offered by Three Nations
+
+In 2014, the "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor," jointly nominated by China, Kazakhstan and Kyrgyzstan, was inscribed on the World Heritage List under criteria (i), (ii), (iii), (iv) and (vi).
+
+Its 33 component sites — 22 of them in China — stretch from the Han-Wei old city of Luoyang to the Kizil Caves in Xinjiang. It is one of the longest transnational serial World Heritage properties in the world: two thousand years ago it was a road trodden by caravans; two thousand years later, it is a thread offered by three nations, stringing together the civilisations of half the globe.
+
+## Epilogue: The Bells Still Ring
+
+More than two thousand years ago, the camel bells rang beyond the walls of Chang'an; more than two thousand years later, that sound has not faded.
+
+It lives in the murals of the caves, in the broken walls of the way-stations, in the heart of everyone who sets out along this road. The Silk Road is not a highway that has been walked to its end — it is a bell still ringing, waiting for the next traveller.
 
 ## Outstanding Universal Value (OUV)
 

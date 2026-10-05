@@ -64,17 +64,41 @@ official_site: "https://www.yellowsea-wetland.cn/"
 featured: false
 ---
 
-## The Past (I): The Migrants' "Gas Station in the East"
+## Prologue: When the Tide Goes Out
 
-The world's migratory birds follow nine major flyways; the East Asian–Australasian Flyway is the largest of them, and the intertidal mudflats along the Yellow Sea–Bohai Gulf coast are its transfer hub: every year millions of migratory birds — red-crowned cranes, spoon-billed sandpipers, Saunders's gulls and oriental white storks — stop here to rest, moult and feed. Among them, the critically endangered spoon-billed sandpiper depends almost entirely on these mudflats for its mid-journey refuelling.
+At dawn in autumn, on the shore of the Yellow Sea, the tide slipped away layer by layer, leaving the naked mudflats gleaming in the first light.
 
-## The Past (II): From Reclamation to Guardianship
+Almost at the same moment, the sky darkened — tens of thousands of birds were coming down. They landed like another tide, covering the mudflats to feed, preen and call, then lifted into the air again. A warden counted and noted behind his binoculars, knowing that these wings had just crossed thousands of kilometres, and this mudflat was their only refuelling stop.
 
-In the last century, land reclamation caused vast mudflats to disappear. In 1983, Yancheng in Jiangsu established a nature reserve, giving the red-crowned cranes' wintering grounds protection first; since then, wetlands such as Tiaozini have regained their status as a paradise for migrants through "retiring fisheries to restore wetlands" and ecological restoration. In 1992, the Yancheng reserve was listed under the Ramsar Convention — a key step in China's protection of migratory birds.
+## One of Nine Great Roads
 
-## The Present: A Serial World Heritage in Two Phases
+The world's migratory birds follow nine major flyways; the East Asian–Australasian Flyway is the largest of them.
 
-In 2019, the Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf (Phase I) were inscribed on the World Heritage List under criterion (x) — China's first marine-type World Natural Heritage property; in 2024, the Phase II extension was added, covering Jiangsu, Shandong, Hebei, Liaoning and Shanghai, and bringing this lifeline of migratory birds fully under the shared guardianship of humanity.
+The intertidal mudflats along the Yellow Sea–Bohai Gulf coast are the transfer hub of this flyway: every year millions of migratory birds — red-crowned cranes, spoon-billed sandpipers, Saunders's gulls and oriental white storks — stop here to rest, moult and feed. For them, this is not the destination; it is the only fuel stop on the way.
+
+## The Spoon-billed Sandpiper's Fuel Stop
+
+Among the birds coming down is one smaller than a sparrow — the spoon-billed sandpiper, a critically endangered species.
+
+Its beak is like a tiny spoon, pecking here and there across the mud. Almost the entire global population of this species depends on these mudflats for mid-journey refuelling: without this stretch of mud, they cannot reach the next stop. The lifeline of a single spoon-billed sandpiper is tied to the ebb and flow of these tides — while the mudflat remains, the road remains.
+
+## From Reclamation to Restoration
+
+The mudflat has not always been this generous. In the last century, large-scale land reclamation caused vast mudflats to disappear, and the flocks once lost their foothold.
+
+In 1983, Yancheng in Jiangsu established a nature reserve, giving the red-crowned cranes' wintering grounds protection first; since then, wetlands such as Tiaozini have regained their status as a paradise for migrants through "retiring fisheries to restore wetlands" and ecological restoration. In 1992, the Yancheng reserve was listed under the Ramsar Convention — a key step in China's protection of migratory birds.
+
+## A World Heritage in Two Phases
+
+In 2019, the Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf (Phase I) were inscribed on the World Heritage List under criterion (x) — China's first marine-type World Natural Heritage property.
+
+In 2024, the Phase II extension was added, covering Jiangsu, Shandong, Hebei, Liaoning and Shanghai — the whole lifeline of migratory birds along this coast now rests under the shared guardianship of humanity. The mudflat in the warden's binoculars has acquired a name recognised by the whole world.
+
+## Epilogue: The Tide Will Return
+
+At dawn in autumn, the tide goes out once more, and the flocks come down once more.
+
+As long as the tides ebb and flow, this mudflat will keep its oldest promise: to leave a resting place for every pair of wings that crosses the ocean. The road of the birds and the home of the people run side by side on the same intertidal shore — each continuing, each guarding the other.
 
 ## Outstanding Universal Value (OUV)
 

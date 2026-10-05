@@ -64,17 +64,41 @@ official_site: "https://www.yungang.org"
 featured: false
 ---
 
-## The Past (I): A Cave Temple Where Emperor Meets Buddha
+## Prologue · A Face That Has Sat for Fifteen Hundred Years
 
-In 460, the eminent monk Tanyao, by command of Emperor Wencheng of the Northern Wei, began carving five caves in Wuzhou Mountain west of Pingcheng (modern Datong) — the celebrated "Five Caves of Tanyao." The principal Buddhas of the five caves were modelled on the Northern Wei emperors: "the emperor is the Buddha," merging imperial power with the Buddhist realm. The open-air Great Buddha of Cave 20 stands 13.7 metres tall, of imposing vigour, the most representative image of Yungang.
+The first light of morning falls on the cliff of Cave 20 at the foot of Wuzhou Mountain and illuminates a face that has sat there for fifteen hundred years.
 
-## The Past (II): From Monumental Force to Refined Elegance
+Lips slightly parted, gaze lowered, steadier than the mountain. Visitors look up at it, and it looks back — no one can quite say who, in which year, with what in his heart, carved so vast a Buddha into the rock. The answer lies at the dawn of a dynasty.
 
-The carving of the Yungang Grottoes spanned the early and middle Northern Wei: the early statues are vigorous and massive, bearing the stamp of Gandharan style; after the capital moved to Luoyang in 494, work turned to smaller caves and niches, and the images gradually shifted to the refined Central Plains manner of "clear-eyed elegance and loose robes" — a portrait in stone of the Northern Wei's sinicising reforms. Yungang preserves 45 major caves and more than 51,000 statues.
+## The Five Caves of Tanyao
 
-## The Present: One of China's Three Great Cave Complexes
+In 460, at the western edge of Pingcheng, capital of the Northern Wei (today's Datong), the chisels struck into Wuzhou Mountain.
 
-In 2001, the Yungang Grottoes were inscribed on the World Heritage List under criteria (i), (ii), (iii) and (iv), ranking with the Mogao Grottoes of Dunhuang and the Longmen Grottoes of Luoyang as China's three great cave complexes. The Great Buddha of Cave 20 still sits at the foot of Wuzhou Mountain; the chisels of the Northern Wei are long silent, but the smile of that "Eastern Mona Lisa" still passes on to every visitor the faith and the bearing of fifteen hundred years ago.
+The eminent monk Tanyao, by command of Emperor Wencheng, began carving five caves — the celebrated "Five Caves of Tanyao." The principal Buddhas of the five caves were modelled on the Northern Wei emperors: "the emperor is the Buddha," merging imperial power with the Buddhist realm. The open-air Great Buddha of Cave 20 stands 13.7 metres tall, of imposing vigour, the most representative image of Yungang. The chisels would strike for thirty years more.
+
+## The Sinicisation of Stone
+
+The carving of the Yungang Grottoes spanned the early and middle Northern Wei — a history of reform written in stone.
+
+The early statues are vigorous and massive, stamped with the Gandharan style that came from the Western Regions. In 494, Emperor Xiaowen moved the capital to Luoyang; the great carving at Yungang came to an end, and work turned to smaller caves and niches. The images shifted toward the refined Central Plains manner of "clear-eyed elegance and loose robes" — the Buddha trading nomadic dress for Han robes, the sinicising reforms of the Northern Wei carved into rock. Yungang preserves 45 major caves and more than 51,000 statues — a whole sutra of stone beneath Wuzhou Mountain.
+
+## Guardians After the Chisels Fell Silent
+
+Dynasties changed and the chisels fell silent, but the guardianship never stopped.
+
+During the Liao and Jin dynasties, monasteries were raised before the caves to shelter them, restoring some of the facade buildings. In the centuries since, wind and rain have gnawed at the cliff, and generation after generation of conservators has mended cracks and documented the statues — so that a faith from fifteen hundred years ago would not dissolve into time.
+
+## Today · The Gaze Beneath Wuzhou Mountain
+
+In 2001, the Yungang Grottoes were inscribed on the World Heritage List under criteria (i), (ii), (iii) and (iv), ranking with the Mogao Grottoes of Dunhuang and the Longmen Grottoes of Luoyang as China's three great cave complexes.
+
+The Great Buddha of Cave 20 still sits at the foot of Wuzhou Mountain; the chisels of the Northern Wei are long silent, but the smile of that "Eastern Mona Lisa" still passes on to every visitor the faith and the bearing of fifteen hundred years ago.
+
+## Epilogue · The Smile Remains
+
+The morning light will come again, and the face that has sat for fifteen hundred years will greet another millennium.
+
+Everyone who leaves Yungang remembers one thing: chisels fall silent and dynasties scatter, but a heart that wanted to leave something behind can outlast stone.
 
 ## Outstanding Universal Value (OUV)
 

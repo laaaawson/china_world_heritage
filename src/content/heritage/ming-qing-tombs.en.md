@@ -63,17 +63,31 @@ official_site: "http://www.ncha.gov.cn/"
 featured: false
 ---
 
-## The Past (I): One Tomb, One Dynasty
+## Prologue: A Hammer Falls Beneath Tianshou Mountain
 
-The Imperial Tombs of the Ming and Qing span four provinces: the Xiaoling Tomb of the Ming founder lies in Nanjing, the Thirteen Ming Tombs in Changping, Beijing, the Xianling Tomb in Zhongxiang, Hubei, the Eastern Qing Tombs in Zunhua, Hebei, the Western Qing Tombs in Yixian, Hebei, and the three Shengjing tombs (Yongling, Fuling and Zhaoling) in Shenyang, Liaoning. Each tomb is a history of a dynasty — the grandeur of Changling, the underground palace of Dingling, the Cixi underground palace of the Eastern Qing Tombs: all speak of the emperors' devotion to their "world beyond the grave."
+In the early spring of 1409, on the construction ground at Tianshou Mountain in Changping, Beijing, a stonemason set his chisel into a slab of bluestone for the first time. He could hardly have imagined that this single blow was the opening of the Thirteen Ming Tombs — or that, from Nanjing to Shenyang, six tomb complexes across four provinces would grow into China's largest imperial mausoleum group, carrying the emperors' entire obsession with the "world beyond the grave."
 
-## The Past (II): Fengshui and Ritual Order
+## Zhu Di's Tomb, the Zhu Family's Mountain
 
-The Ming and Qing tombs pushed the art of fengshui to its limit: the sites back onto hills and face water, their locations chosen for the "dragon vein," while the Sacred Way, stone statuary, stele pavilions and Ming towers unfold in sequence to form a complete ritual space. The "front hall, rear chamber" pattern and the Sacred Way layout pioneered at the Xiaoling Tomb were adopted by the Thirteen Ming Tombs and later imperial tombs; architecturally they fuse timber-frame halls with brick-and-stone treasure walls — the last great peak of ancient Chinese mausoleum building.
+From 1409 to 1413, Emperor Yongle (Zhu Di) raised the Changling Tomb beneath Tianshou Mountain in Changping, Beijing, and the Thirteen Ming Tombs began — he moved his capital to Beijing, and laid his afterlife to rest in the arm of this mountain as well. Before him, his father, the founding Ming emperor, had already been laid in the Xiaoling Tomb at Nanjing: the rules of the mausoleum were set at Xiaoling and followed by every later tomb. Each tomb is a history of a dynasty.
 
-## The Present: A Serial World Heritage in Phases
+## The Ritual Hidden in Fengshui
 
-In 2000, the Xianling Tomb and the Eastern and Western Qing Tombs were inscribed on the World Heritage List under criteria (i)(ii)(iii)(iv)(vi); in 2003 the Xiaoling Tomb and the Thirteen Ming Tombs were added, and in 2004 the three Shengjing tombs — from the early Ming to the late Qing, more than five hundred years of imperial tomb tradition now fully within the heritage system.
+Through the Ming and Qing dynasties, the geomancers who chose sites for emperors and the masons who built their tombs pushed the art of fengshui to its furthest limit: the sites back onto hills and face water, their locations chosen for the "dragon vein," while the Sacred Way, stone statuary, stele pavilions and Ming towers unfold in sequence to form a complete ritual space. The "front hall, rear chamber" plan and the Sacred Way layout pioneered at the Xiaoling Tomb were adopted by the Thirteen Ming Tombs and all who came after; timber-frame halls fuse with brick-and-stone treasure walls — the last great peak of ancient Chinese mausoleum architecture.
+
+## Forty Years, One Man, One Tomb
+
+From 1520 to 1566, the Xianling Tomb at Zhongxiang, Hubei, took shape over more than four decades under the Jiajing Emperor. One emperor spent half a lifetime carving a single tomb into the ritual of a dynasty.
+
+Then the Eastern and Western Qing Tombs rose in Hebei in succession (1661–1908), and the three Shengjing tombs stood quietly at Shenyang; the underground palace of Dingling and the Cixi underground palace of the Eastern Qing Tombs — in the darkness far below, they still tell of the last dignity of emperors and dynasties.
+
+## Five Hundred Years, Towards the World
+
+In 2000, the Xianling Tomb and the Eastern and Western Qing Tombs were inscribed on the World Heritage List under criteria (i)(ii)(iii)(iv)(vi); in 2003 the Xiaoling Tomb and the Thirteen Ming Tombs were added, and in 2004 the three Shengjing tombs — from the early Ming to the late Qing, more than five hundred years of imperial tomb tradition now held within one heritage system.
+
+## Epilogue: Where the Stone Statues Gaze
+
+At dawn, the stone statues along the Sacred Way stand in the morning light, gazing toward the same mountain hollow. The hammer blow of six hundred years ago has long sunk into the earth, but every tomb is still what its emperor meant to say to those who came after: what we leave behind has never been only our own affair.
 
 ## Outstanding Universal Value (OUV)
 
